@@ -1,0 +1,19 @@
+SALVE DO REBAIXAMENTO — PARTE 13
+
+Base: revisão da Parte 12.
+
+Correções:
+- Removido o painel lateral de estatísticas durante o jogo; a narração ocupa a largura total.
+- Plano de Jogo usa a mesma ordem de jogadores e o mesmo esquema de coordenadas da Arena.
+- Voltar à Campanha encerra e limpa o estado da partida, evitando o reaparecimento do resultado ao fechar outros menus.
+
+Campeonato (simulação fictícia):
+- A cada jogo concluído, registra o resultado do usuário e simula nove jogos entre os demais clubes.
+- Classificação com pontos, partidas, vitórias, empates, derrotas e saldo.
+- Exibe resultados da última rodada concluída no menu Classificação.
+- Pontuações iniciais são simuladas e não refletem a classificação oficial.
+
+Limites:
+- Não há persistência após recarregar a página.
+- Os confrontos são fictícios e não seguem a tabela oficial da CBF.
+- Não foi executado teste end-to-end no navegador; validar manualmente o fluxo completo.

@@ -1,0 +1,5 @@
+PARTE 11 — TÁTICAS E IA
+
+Adicionadas opções de linha defensiva, pressão, ritmo e instruções individuais durante pausa e intervalo. Os modificadores atuam em teamPower e na probabilidade de falta. IA ajusta estilo e formação a cada 12 minutos simulados, dependendo do placar e da retranca adversária. Mudanças são prospectivas.
+
+Limitações: a IA ainda não faz substituições automáticas; os jogadores permanecem estáticos e a simulação de setores é simplificada. A opção falta tática aumenta tendência, não garante cartão.

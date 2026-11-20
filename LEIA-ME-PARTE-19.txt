@@ -1,0 +1,13 @@
+SALVE DO REBAIXAMENTO — PARTE 19 — ATRIBUTOS E MOTOR (REVISÃO EXPERIMENTAL)
+Base: Parte 18 corrigida.
+
+ALTERAÇÕES:
+- Atributos individuais agora usam perfis técnicos mais específicos por função (technicalAttributes revised=true), em vez de distribuir quase todos os atributos perto do overall.
+- OVRs existentes fornecidos pelo usuário e exceções anteriores foram preservados. NÃO são notas oficiais de EA Sports FC, eFootball/PES ou Football Manager; sem validação individual externa dos 651 jogadores.
+- Força coletiva ponderada por setor e formação; improvisações penalizadas conforme espaço ocupado.
+- Goleiro é sempre quem ocupa o primeiro espaço da escalação, inclusive nos pênaltis; atacante improvisado sofre penalização real.
+- Rebalanceamento inicial de passes, progressão, chutes e gols, com maior influência do diferencial técnico.
+
+IMPORTANTE: A calibração é experimental. A qualidade dos elencos e os overalls provisórios ainda não foram validados jogador por jogador; não há comprovação estatística de probabilidades de vitória. Não foi feito teste completo no navegador. Treinamentos e demais sistemas foram preservados sem revisão funcional nesta etapa.
+
+ABERTURA: use VS Code + Live Server (http://...), não file://.

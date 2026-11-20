@@ -1,0 +1,8 @@
+PARTE 16 — MERCADO DE TRANSFERÊNCIAS
+Orçamentos atualizados (Mirassol, Chapecoense e Remo: R$ 4 milhões).
+Respostas do dirigente em cerca de 60 segundos reais; consultar Mercado > Minhas negociações.
+Propostas aceitas precisam de confirmação. Contrapropostas e novas propostas disponíveis.
+Ofertas recebidas surgem em alguns dias da campanha, podem ser aceitas, recusadas ou contrapropostas.
+Vendas transferem jogador e creditam orçamento; compras debitam orçamento e colocam no banco.
+Os valores e o comportamento da IA são simulações para fins de jogo.
+Esta versão não inclui persistência após recarregar a página.

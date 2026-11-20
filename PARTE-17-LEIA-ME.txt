@@ -1,0 +1,20 @@
+SALVE DO REBAIXAMENTO — PARTE 17 (REVISÃO INICIAL)
+Base: Parte 16.
+
+IMPLEMENTADO NESTE PACOTE:
+- Treinamento agora soma ganhos DIRETAMENTE aos atributos base e mantém esses valores durante toda a campanha; o resultado exibe antes/depois de cada atributo.
+- Avançar 1 minuto sincronizado com o relógio das propostas e contrapropostas dos dirigentes.
+- Campo de nova proposta oculto até clicar em NOVA PROPOSTA.
+- Layout de negociações mais compacto.
+- Assistência não é creditada ao próprio artilheiro.
+- Substituições em campo restauram os titulares e posições originais após voltar à campanha.
+- Calendário de 6 rodadas com ordem aleatória dos clubes a cada nova campanha, preservando jogos únicos pelo método do círculo.
+
+AINDA PENDENTE (não considerar concluído):
+- Sincronização visual completa das posições Arena/Plano de Jogo.
+- Apresentação com pausa/animação para cartões.
+- Uniformes por cor dos clubes.
+- Persistência ao recarregar a página.
+- IA avançada de substituições e lances.
+
+VALIDAÇÃO: sintaxe JavaScript e integridade do ZIP; sem teste de ponta a ponta em navegador.

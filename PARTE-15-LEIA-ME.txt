@@ -1,0 +1,6 @@
+SALVE DO REBAIXAMENTO — PARTE 15 (implementação incremental)
+Base: Parte 14.
+Implementado nesta entrega: orçamento por clube (metade dos valores propostos), teto de proposta igual ao saldo disponível, bloqueio de valores inválidos, resposta do dirigente em 60 segundos, preço mínimo por importância, filtro de interesse por reputação financeira, compra efetiva com débito e entrada no banco, e tela ESCAPOU/CAIU após a sexta rodada, com NOVA CAMPANHA e VER CARREIRA. Ajuste inicial da frequência de faltas.
+Atenção: mercado, finanças e classificações são SIMULAÇÕES para jogabilidade, não dados oficiais.
+Ainda NÃO implementados nesta entrega: vendas, contrapropostas, IA de mercado entre clubes, salvamento persistente, motor posicional completo, substituições automáticas da IA e balanceamento estatístico extensivo.
+Abra index.html em navegador. Teste 6 rodadas e propostas altas/baixas, verificando orçamento e elenco.

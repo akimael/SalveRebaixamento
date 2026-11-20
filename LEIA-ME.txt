@@ -1,0 +1,9 @@
+SALVE DO REBAIXAMENTO — PARTE 24 — CALIBRAÇÃO EXPERIMENTAL
+
+Base: Parte 23.
+
+Mudanças: posse menos polarizada; diferenças técnicas deixam de ser somadas com força total em todas as etapas; probabilidades de passe, progressão, chute e gol recalibradas com função de saturação; goleiro improvisado segue penalizado; nenhuma alteração nos elencos.
+
+IMPORTANTE: os testes estatísticos anexos são um modelo isolado das probabilidades de ação, não execução end-to-end do jogo no navegador. Não comprovam equilíbrio dos 651 jogadores nem da campanha completa.
+
+Abra pelo Live Server, não por file://.

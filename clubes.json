@@ -1,0 +1,142 @@
+[
+  {
+    "id": 1,
+    "name": "Athletico-PR",
+    "symbol": "🔴⚫",
+    "short": "Athletico-",
+    "color": "#f7dddd"
+  },
+  {
+    "id": 2,
+    "name": "Atlético-MG",
+    "symbol": "⚫⚪",
+    "short": "Atlético-M",
+    "color": "#e7e7e7"
+  },
+  {
+    "id": 3,
+    "name": "Bahia",
+    "symbol": "🔵🔴",
+    "short": "Bahia",
+    "color": "#e2eafa"
+  },
+  {
+    "id": 4,
+    "name": "Botafogo",
+    "symbol": "⭐",
+    "short": "Botafogo",
+    "color": "#eeeeee"
+  },
+  {
+    "id": 5,
+    "name": "Bragantino",
+    "symbol": "⚪🔴",
+    "short": "Bragantino",
+    "color": "#f7e4e4"
+  },
+  {
+    "id": 6,
+    "name": "Chapecoense",
+    "symbol": "🟢⚪",
+    "short": "Chapecoens",
+    "color": "#dcefdc"
+  },
+  {
+    "id": 7,
+    "name": "Corinthians",
+    "symbol": "⚫⚪",
+    "short": "Corinthian",
+    "color": "#ededed"
+  },
+  {
+    "id": 8,
+    "name": "Coritiba",
+    "symbol": "🟢⚪",
+    "short": "Coritiba",
+    "color": "#e0f2e2"
+  },
+  {
+    "id": 9,
+    "name": "Cruzeiro",
+    "symbol": "🔵⚪",
+    "short": "Cruzeiro",
+    "color": "#e0eaff"
+  },
+  {
+    "id": 10,
+    "name": "Flamengo",
+    "symbol": "🔴⚫",
+    "short": "Flamengo",
+    "color": "#f7dede"
+  },
+  {
+    "id": 11,
+    "name": "Fluminense",
+    "symbol": "🟢🔴",
+    "short": "Fluminense",
+    "color": "#e3f1e2"
+  },
+  {
+    "id": 12,
+    "name": "Grêmio",
+    "symbol": "🔵⚫",
+    "short": "Grêmio",
+    "color": "#e0ebf5"
+  },
+  {
+    "id": 13,
+    "name": "Internacional",
+    "symbol": "🔴",
+    "short": "Internacio",
+    "color": "#f8e0e0"
+  },
+  {
+    "id": 14,
+    "name": "Mirassol",
+    "symbol": "🟢🟡",
+    "short": "Mirassol",
+    "color": "#e8f2d7"
+  },
+  {
+    "id": 15,
+    "name": "Palmeiras",
+    "symbol": "🟢⚪",
+    "short": "Palmeiras",
+    "color": "#dff2df"
+  },
+  {
+    "id": 16,
+    "name": "Remo",
+    "symbol": "🔵⚪",
+    "short": "Remo",
+    "color": "#e0eaff"
+  },
+  {
+    "id": 17,
+    "name": "Santos",
+    "symbol": "⚪⚫",
+    "short": "Santos",
+    "color": "#eeeeee"
+  },
+  {
+    "id": 18,
+    "name": "São Paulo",
+    "symbol": "🔴⚪",
+    "short": "São Paulo",
+    "color": "#f6e1e1"
+  },
+  {
+    "id": 19,
+    "name": "Vasco",
+    "symbol": "⚫⚪",
+    "short": "Vasco",
+    "color": "#e9e9e9"
+  },
+  {
+    "id": 20,
+    "name": "Vitória",
+    "symbol": "🔴⚫",
+    "short": "Vitória",
+    "color": "#f6e0e0"
+  }
+]

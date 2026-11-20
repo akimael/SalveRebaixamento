@@ -1,0 +1,5401 @@
+[
+  {
+    "id": "athletico-pr-001-stiven-mendoza",
+    "nome": "Stiven Mendoza",
+    "clube_id": 1,
+    "posicao_grupo": "ATACANTE",
+    "idade": null,
+    "vinculo": "pendente_de_validacao",
+    "ovr_usuario": 78
+  },
+  {
+    "id": "athletico-pr-002-kevin-viveros",
+    "nome": "Kevin Viveros",
+    "clube_id": 1,
+    "posicao_grupo": "ATACANTE",
+    "idade": null,
+    "vinculo": "pendente_de_validacao"
+  },
+  {
+    "id": "athletico-pr-003-kerwin-vargas",
+    "nome": "Kerwin Vargas",
+    "clube_id": 1,
+    "posicao_grupo": "ATACANTE",
+    "idade": null,
+    "vinculo": "pendente_de_validacao",
+    "ovr_usuario": 76
+  },
+  {
+    "id": "athletico-pr-004-jorge-rivaldo",
+    "nome": "Jorge Rivaldo",
+    "clube_id": 1,
+    "posicao_grupo": "ATACANTE",
+    "idade": null,
+    "vinculo": "pendente_de_validacao"
+  },
+  {
+    "id": "athletico-pr-005-leozinho",
+    "nome": "Leozinho",
+    "clube_id": 1,
+    "posicao_grupo": "ATACANTE",
+    "idade": null,
+    "vinculo": "pendente_de_validacao"
+  },
+  {
+    "id": "athletico-pr-006-felipe-chiqueti",
+    "nome": "Felipe Chiqueti",
+    "clube_id": 1,
+    "posicao_grupo": "ATACANTE",
+    "idade": null,
+    "vinculo": "pendente_de_validacao"
+  },
+  {
+    "id": "athletico-pr-007-renan-viana",
+    "nome": "Renan Viana",
+    "clube_id": 1,
+    "posicao_grupo": "ATACANTE",
+    "idade": null,
+    "vinculo": "pendente_de_validacao"
+  },
+  {
+    "id": "athletico-pr-008-renan-peixoto",
+    "nome": "Renan Peixoto",
+    "clube_id": 1,
+    "posicao_grupo": "ATACANTE",
+    "idade": null,
+    "vinculo": "pendente_de_validacao"
+  },
+  {
+    "id": "athletico-pr-009-felipinho",
+    "nome": "Felipinho",
+    "clube_id": 1,
+    "posicao_grupo": "MEIA",
+    "idade": null,
+    "vinculo": "pendente_de_validacao",
+    "ovr_usuario": 70
+  },
+  {
+    "id": "athletico-pr-010-joao-cruz",
+    "nome": "João Cruz",
+    "clube_id": 1,
+    "posicao_grupo": "MEIA",
+    "idade": null,
+    "vinculo": "pendente_de_validacao"
+  },
+  {
+    "id": "athletico-pr-011-bruno-zapelli",
+    "nome": "Bruno Zapelli",
+    "clube_id": 1,
+    "posicao_grupo": "MEIA",
+    "idade": null,
+    "vinculo": "pendente_de_validacao",
+    "ovr_usuario": 77
+  },
+  {
+    "id": "athletico-pr-012-luiz-gustavo",
+    "nome": "Luiz Gustavo",
+    "clube_id": 1,
+    "posicao_grupo": "MEIA",
+    "idade": null,
+    "vinculo": "pendente_de_validacao"
+  },
+  {
+    "id": "athletico-pr-013-jadson",
+    "nome": "Jadson",
+    "clube_id": 1,
+    "posicao_grupo": "MEIA",
+    "idade": null,
+    "vinculo": "pendente_de_validacao",
+    "ovr_usuario": 69
+  },
+  {
+    "id": "athletico-pr-014-alejandro-garcia",
+    "nome": "Alejandro García",
+    "clube_id": 1,
+    "posicao_grupo": "MEIA",
+    "idade": null,
+    "vinculo": "pendente_de_validacao"
+  },
+  {
+    "id": "athletico-pr-015-juan-portilla",
+    "nome": "Juan Portilla",
+    "clube_id": 1,
+    "posicao_grupo": "MEIA",
+    "idade": null,
+    "vinculo": "pendente_de_validacao",
+    "ovr_usuario": 71
+  },
+  {
+    "id": "athletico-pr-016-dudu-kogitzki",
+    "nome": "Dudu Kogitzki",
+    "clube_id": 1,
+    "posicao_grupo": "MEIA",
+    "idade": null,
+    "vinculo": "pendente_de_validacao"
+  },
+  {
+    "id": "athletico-pr-017-riquelme",
+    "nome": "Riquelme",
+    "clube_id": 1,
+    "posicao_grupo": "MEIA",
+    "idade": null,
+    "vinculo": "pendente_de_validacao"
+  },
+  {
+    "id": "athletico-pr-018-gilberto-dos-santos",
+    "nome": "Gilberto dos Santos",
+    "clube_id": 1,
+    "posicao_grupo": "DEFENSOR",
+    "idade": null,
+    "vinculo": "pendente_de_validacao",
+    "ovr_usuario": 74
+  },
+  {
+    "id": "athletico-pr-019-leo-pele",
+    "nome": "Léo Pelé",
+    "clube_id": 1,
+    "posicao_grupo": "DEFENSOR",
+    "idade": null,
+    "vinculo": "pendente_de_validacao"
+  },
+  {
+    "id": "athletico-pr-020-arthur-dias",
+    "nome": "Arthur Dias",
+    "clube_id": 1,
+    "posicao_grupo": "DEFENSOR",
+    "idade": null,
+    "vinculo": "pendente_de_validacao"
+  },
+  {
+    "id": "athletico-pr-021-leo-derik",
+    "nome": "Léo Derik",
+    "clube_id": 1,
+    "posicao_grupo": "DEFENSOR",
+    "idade": null,
+    "vinculo": "pendente_de_validacao"
+  },
+  {
+    "id": "athletico-pr-022-gilberto-moraes",
+    "nome": "Gilberto Moraes",
+    "clube_id": 1,
+    "posicao_grupo": "DEFENSOR",
+    "idade": null,
+    "vinculo": "pendente_de_validacao"
+  },
+  {
+    "id": "athletico-pr-023-carlos-teran",
+    "nome": "Carlos Terán",
+    "clube_id": 1,
+    "posicao_grupo": "DEFENSOR",
+    "idade": null,
+    "vinculo": "pendente_de_validacao"
+  },
+  {
+    "id": "athletico-pr-024-dantas",
+    "nome": "Dantas",
+    "clube_id": 1,
+    "posicao_grupo": "DEFENSOR",
+    "idade": null,
+    "vinculo": "pendente_de_validacao"
+  },
+  {
+    "id": "athletico-pr-025-claudinho",
+    "nome": "Claudinho",
+    "clube_id": 1,
+    "posicao_grupo": "DEFENSOR",
+    "idade": null,
+    "vinculo": "pendente_de_validacao"
+  },
+  {
+    "id": "athletico-pr-026-gaston-benavidez",
+    "nome": "Gastón Benavídez",
+    "clube_id": 1,
+    "posicao_grupo": "DEFENSOR",
+    "idade": null,
+    "vinculo": "pendente_de_validacao",
+    "ovr_usuario": 74
+  },
+  {
+    "id": "athletico-pr-027-juan-felipe-aguirre",
+    "nome": "Juan Felipe Aguirre",
+    "clube_id": 1,
+    "posicao_grupo": "DEFENSOR",
+    "idade": null,
+    "vinculo": "pendente_de_validacao",
+    "ovr_usuario": 73
+  },
+  {
+    "id": "athletico-pr-028-lucas-esquivel",
+    "nome": "Lucas Esquivel",
+    "clube_id": 1,
+    "posicao_grupo": "DEFENSOR",
+    "idade": null,
+    "vinculo": "pendente_de_validacao",
+    "ovr_usuario": 72
+  },
+  {
+    "id": "athletico-pr-029-mycael",
+    "nome": "Mycael",
+    "clube_id": 1,
+    "posicao_grupo": "GOLEIRO",
+    "idade": null,
+    "vinculo": "pendente_de_validacao",
+    "ovr_usuario": 75
+  },
+  {
+    "id": "athletico-pr-030-santos",
+    "nome": "Santos",
+    "clube_id": 1,
+    "posicao_grupo": "GOLEIRO",
+    "idade": null,
+    "vinculo": "pendente_de_validacao"
+  },
+  {
+    "id": "athletico-pr-031-matheus-soares",
+    "nome": "Matheus Soares",
+    "clube_id": 1,
+    "posicao_grupo": "GOLEIRO",
+    "idade": null,
+    "vinculo": "pendente_de_validacao"
+  },
+  {
+    "id": "atletico-mg-001-everson",
+    "nome": "Everson",
+    "clube_id": 2,
+    "posicao_grupo": "Goleiro",
+    "idade": null,
+    "vinculo": "pendente_de_validacao"
+  },
+  {
+    "id": "atletico-mg-002-gabriel-delfim",
+    "nome": "Gabriel Delfim",
+    "clube_id": 2,
+    "posicao_grupo": "Goleiro",
+    "idade": null,
+    "vinculo": "pendente_de_validacao"
+  },
+  {
+    "id": "atletico-mg-003-pedro-cobra",
+    "nome": "Pedro Cobra",
+    "clube_id": 2,
+    "posicao_grupo": "Goleiro",
+    "idade": null,
+    "vinculo": "pendente_de_validacao"
+  },
+  {
+    "id": "atletico-mg-004-robert",
+    "nome": "Robert",
+    "clube_id": 2,
+    "posicao_grupo": "Goleiro",
+    "idade": null,
+    "vinculo": "pendente_de_validacao"
+  },
+  {
+    "id": "atletico-mg-005-preciado",
+    "nome": "Preciado",
+    "clube_id": 2,
+    "posicao_grupo": "Lateral",
+    "idade": null,
+    "vinculo": "pendente_de_validacao"
+  },
+  {
+    "id": "atletico-mg-006-pascini",
+    "nome": "Pascini",
+    "clube_id": 2,
+    "posicao_grupo": "Lateral",
+    "idade": null,
+    "vinculo": "pendente_de_validacao"
+  },
+  {
+    "id": "atletico-mg-007-natanael",
+    "nome": "Natanael",
+    "clube_id": 2,
+    "posicao_grupo": "Lateral",
+    "idade": null,
+    "vinculo": "pendente_de_validacao"
+  },
+  {
+    "id": "atletico-mg-008-renan-lodi",
+    "nome": "Renan Lodi",
+    "clube_id": 2,
+    "posicao_grupo": "Lateral",
+    "idade": null,
+    "vinculo": "pendente_de_validacao"
+  },
+  {
+    "id": "atletico-mg-009-leo-duarte",
+    "nome": "Léo Duarte",
+    "clube_id": 2,
+    "posicao_grupo": "Zagueiro",
+    "idade": null,
+    "vinculo": "pendente_de_validacao"
+  },
+  {
+    "id": "atletico-mg-010-lyanco",
+    "nome": "Lyanco",
+    "clube_id": 2,
+    "posicao_grupo": "Zagueiro",
+    "idade": null,
+    "vinculo": "pendente_de_validacao"
+  },
+  {
+    "id": "atletico-mg-011-lemos",
+    "nome": "Lemos",
+    "clube_id": 2,
+    "posicao_grupo": "Zagueiro",
+    "idade": null,
+    "vinculo": "pendente_de_validacao"
+  },
+  {
+    "id": "atletico-mg-012-ruan-tressoldi",
+    "nome": "Ruan Tressoldi",
+    "clube_id": 2,
+    "posicao_grupo": "Zagueiro",
+    "idade": null,
+    "vinculo": "pendente_de_validacao"
+  },
+  {
+    "id": "atletico-mg-013-samuel",
+    "nome": "Samuel",
+    "clube_id": 2,
+    "posicao_grupo": "Zagueiro",
+    "idade": null,
+    "vinculo": "pendente_de_validacao"
+  },
+  {
+    "id": "atletico-mg-014-vitao",
+    "nome": "Vitão",
+    "clube_id": 2,
+    "posicao_grupo": "Zagueiro",
+    "idade": null,
+    "vinculo": "pendente_de_validacao"
+  },
+  {
+    "id": "atletico-mg-015-vitor-hugo",
+    "nome": "Vitor Hugo",
+    "clube_id": 2,
+    "posicao_grupo": "Zagueiro",
+    "idade": null,
+    "vinculo": "pendente_de_validacao"
+  },
+  {
+    "id": "atletico-mg-016-alexsander",
+    "nome": "Alexsander",
+    "clube_id": 2,
+    "posicao_grupo": "Meio-campista",
+    "idade": null,
+    "vinculo": "pendente_de_validacao"
+  },
+  {
+    "id": "atletico-mg-017-bernard",
+    "nome": "Bernard",
+    "clube_id": 2,
+    "posicao_grupo": "Meio-campista",
+    "idade": null,
+    "vinculo": "pendente_de_validacao"
+  },
+  {
+    "id": "atletico-mg-018-cisse",
+    "nome": "Cissé",
+    "clube_id": 2,
+    "posicao_grupo": "Meio-campista",
+    "idade": null,
+    "vinculo": "pendente_de_validacao"
+  },
+  {
+    "id": "atletico-mg-019-alan-franco",
+    "nome": "Alan Franco",
+    "clube_id": 2,
+    "posicao_grupo": "Meio-campista",
+    "idade": null,
+    "vinculo": "pendente_de_validacao"
+  },
+  {
+    "id": "atletico-mg-020-fred",
+    "nome": "Fred",
+    "clube_id": 2,
+    "posicao_grupo": "Meio-campista",
+    "idade": null,
+    "vinculo": "pendente_de_validacao"
+  },
+  {
+    "id": "atletico-mg-021-gustavo-scarpa",
+    "nome": "Gustavo Scarpa",
+    "clube_id": 2,
+    "posicao_grupo": "Meio-campista",
+    "idade": null,
+    "vinculo": "pendente_de_validacao"
+  },
+  {
+    "id": "atletico-mg-022-gutte",
+    "nome": "Gutte",
+    "clube_id": 2,
+    "posicao_grupo": "Meio-campista",
+    "idade": null,
+    "vinculo": "pendente_de_validacao"
+  },
+  {
+    "id": "atletico-mg-023-igor-gomes",
+    "nome": "Igor Gomes",
+    "clube_id": 2,
+    "posicao_grupo": "Meio-campista",
+    "idade": null,
+    "vinculo": "pendente_de_validacao"
+  },
+  {
+    "id": "atletico-mg-024-indio",
+    "nome": "Índio",
+    "clube_id": 2,
+    "posicao_grupo": "Meio-campista",
+    "idade": null,
+    "vinculo": "pendente_de_validacao"
+  },
+  {
+    "id": "atletico-mg-025-kevin-castano",
+    "nome": "Kevin Castaño",
+    "clube_id": 2,
+    "posicao_grupo": "Meio-campista",
+    "idade": null,
+    "vinculo": "pendente_de_validacao"
+  },
+  {
+    "id": "atletico-mg-026-maycon",
+    "nome": "Maycon",
+    "clube_id": 2,
+    "posicao_grupo": "Meio-campista",
+    "idade": null,
+    "vinculo": "pendente_de_validacao"
+  },
+  {
+    "id": "atletico-mg-027-reinier",
+    "nome": "Reinier",
+    "clube_id": 2,
+    "posicao_grupo": "Meio-campista",
+    "idade": null,
+    "vinculo": "pendente_de_validacao"
+  },
+  {
+    "id": "atletico-mg-028-tomas-perez",
+    "nome": "Tomás Pérez",
+    "clube_id": 2,
+    "posicao_grupo": "Meio-campista",
+    "idade": null,
+    "vinculo": "pendente_de_validacao"
+  },
+  {
+    "id": "atletico-mg-029-victor-hugo",
+    "nome": "Victor Hugo",
+    "clube_id": 2,
+    "posicao_grupo": "Meio-campista",
+    "idade": null,
+    "vinculo": "pendente_de_validacao"
+  },
+  {
+    "id": "atletico-mg-030-cassierra",
+    "nome": "Cassierra",
+    "clube_id": 2,
+    "posicao_grupo": "Atacante",
+    "idade": null,
+    "vinculo": "pendente_de_validacao"
+  },
+  {
+    "id": "atletico-mg-031-caua-soares",
+    "nome": "Cauã Soares",
+    "clube_id": 2,
+    "posicao_grupo": "Atacante",
+    "idade": null,
+    "vinculo": "pendente_de_validacao"
+  },
+  {
+    "id": "atletico-mg-032-cuello",
+    "nome": "Cuello",
+    "clube_id": 2,
+    "posicao_grupo": "Atacante",
+    "idade": null,
+    "vinculo": "pendente_de_validacao"
+  },
+  {
+    "id": "atletico-mg-033-dudu",
+    "nome": "Dudu",
+    "clube_id": 2,
+    "posicao_grupo": "Atacante",
+    "idade": null,
+    "vinculo": "pendente_de_validacao"
+  },
+  {
+    "id": "atletico-mg-034-alan-minda",
+    "nome": "Alan Minda",
+    "clube_id": 2,
+    "posicao_grupo": "Atacante",
+    "idade": null,
+    "vinculo": "pendente_de_validacao"
+  },
+  {
+    "id": "atletico-mg-035-thiago-borbas",
+    "nome": "Thiago Borbas",
+    "clube_id": 2,
+    "posicao_grupo": "Atacante",
+    "idade": null,
+    "vinculo": "pendente_de_validacao"
+  },
+  {
+    "id": "bahia-001-ronaldo",
+    "nome": "Ronaldo",
+    "clube_id": 3,
+    "posicao_grupo": "GOLEIRO",
+    "idade": null,
+    "vinculo": "pendente_de_validacao",
+    "ovr_usuario": 77
+  },
+  {
+    "id": "bahia-002-leo-vieira",
+    "nome": "Léo Vieira",
+    "clube_id": 3,
+    "posicao_grupo": "GOLEIRO",
+    "idade": null,
+    "vinculo": "pendente_de_validacao"
+  },
+  {
+    "id": "bahia-003-guido-herrera",
+    "nome": "Guido Herrera",
+    "clube_id": 3,
+    "posicao_grupo": "GOLEIRO",
+    "idade": null,
+    "vinculo": "pendente_de_validacao"
+  },
+  {
+    "id": "bahia-004-ze-guilherme",
+    "nome": "Zé Guilherme",
+    "clube_id": 3,
+    "posicao_grupo": "LATERAL",
+    "idade": null,
+    "vinculo": "pendente_de_validacao"
+  },
+  {
+    "id": "bahia-005-roman-gomez",
+    "nome": "Roman Gomez",
+    "clube_id": 3,
+    "posicao_grupo": "LATERAL",
+    "idade": null,
+    "vinculo": "pendente_de_validacao"
+  },
+  {
+    "id": "bahia-006-luciano-juba",
+    "nome": "Luciano Juba",
+    "clube_id": 3,
+    "posicao_grupo": "LATERAL",
+    "idade": null,
+    "vinculo": "pendente_de_validacao",
+    "ovr_usuario": 79
+  },
+  {
+    "id": "bahia-007-david-duarte",
+    "nome": "David Duarte",
+    "clube_id": 3,
+    "posicao_grupo": "ZAGUEIRO",
+    "idade": null,
+    "vinculo": "pendente_de_validacao"
+  },
+  {
+    "id": "bahia-008-marcos-victor",
+    "nome": "Marcos Victor",
+    "clube_id": 3,
+    "posicao_grupo": "ZAGUEIRO",
+    "idade": null,
+    "vinculo": "pendente_de_validacao",
+    "ovr_usuario": 72
+  },
+  {
+    "id": "bahia-009-luiz-gustavo",
+    "nome": "Luiz Gustavo",
+    "clube_id": 3,
+    "posicao_grupo": "ZAGUEIRO",
+    "idade": null,
+    "vinculo": "pendente_de_validacao"
+  },
+  {
+    "id": "bahia-010-marco-moreno",
+    "nome": "Marco Moreno",
+    "clube_id": 3,
+    "posicao_grupo": "ZAGUEIRO",
+    "idade": null,
+    "vinculo": "pendente_de_validacao"
+  },
+  {
+    "id": "bahia-011-kanu",
+    "nome": "Kanu",
+    "clube_id": 3,
+    "posicao_grupo": "ZAGUEIRO",
+    "idade": null,
+    "vinculo": "pendente_de_validacao",
+    "ovr_usuario": 75
+  },
+  {
+    "id": "bahia-012-everton-ribeiro",
+    "nome": "Everton Ribeiro",
+    "clube_id": 3,
+    "posicao_grupo": "MEIA",
+    "idade": null,
+    "vinculo": "pendente_de_validacao",
+    "ovr_usuario": 81
+  },
+  {
+    "id": "bahia-013-nicolas-acevedo",
+    "nome": "Nicolás Acevedo",
+    "clube_id": 3,
+    "posicao_grupo": "MEIA",
+    "idade": null,
+    "vinculo": "pendente_de_validacao",
+    "ovr_usuario": 76
+  },
+  {
+    "id": "bahia-014-david-martins",
+    "nome": "David Martins",
+    "clube_id": 3,
+    "posicao_grupo": "MEIA",
+    "idade": null,
+    "vinculo": "pendente_de_validacao"
+  },
+  {
+    "id": "bahia-015-erick",
+    "nome": "Erick",
+    "clube_id": 3,
+    "posicao_grupo": "MEIA",
+    "idade": null,
+    "vinculo": "pendente_de_validacao",
+    "ovr_usuario": 75
+  },
+  {
+    "id": "bahia-016-rodrigo-nestor",
+    "nome": "Rodrigo Nestor",
+    "clube_id": 3,
+    "posicao_grupo": "MEIA",
+    "idade": null,
+    "vinculo": "pendente_de_validacao",
+    "ovr_usuario": 77
+  },
+  {
+    "id": "bahia-017-michel-araujo",
+    "nome": "Michel Araujo",
+    "clube_id": 3,
+    "posicao_grupo": "MEIA",
+    "idade": null,
+    "vinculo": "pendente_de_validacao"
+  },
+  {
+    "id": "bahia-018-lautaro-lopez",
+    "nome": "Lautaro Lopez",
+    "clube_id": 3,
+    "posicao_grupo": "MEIA",
+    "idade": null,
+    "vinculo": "pendente_de_validacao"
+  },
+  {
+    "id": "bahia-019-caio-alexandre",
+    "nome": "Caio Alexandre",
+    "clube_id": 3,
+    "posicao_grupo": "MEIA",
+    "idade": null,
+    "vinculo": "pendente_de_validacao"
+  },
+  {
+    "id": "bahia-020-jean-lucas",
+    "nome": "Jean Lucas",
+    "clube_id": 3,
+    "posicao_grupo": "MEIA",
+    "idade": null,
+    "vinculo": "pendente_de_validacao",
+    "ovr_usuario": 80
+  },
+  {
+    "id": "bahia-021-ademir",
+    "nome": "Ademir",
+    "clube_id": 3,
+    "posicao_grupo": "ATACANTE",
+    "idade": null,
+    "vinculo": "pendente_de_validacao",
+    "ovr_usuario": 76
+  },
+  {
+    "id": "bahia-022-ruan-pablo",
+    "nome": "Ruan Pablo",
+    "clube_id": 3,
+    "posicao_grupo": "ATACANTE",
+    "idade": null,
+    "vinculo": "pendente_de_validacao"
+  },
+  {
+    "id": "bahia-023-erick-pulga",
+    "nome": "Erick Pulga",
+    "clube_id": 3,
+    "posicao_grupo": "ATACANTE",
+    "idade": null,
+    "vinculo": "pendente_de_validacao",
+    "ovr_usuario": 77
+  },
+  {
+    "id": "bahia-024-willian-jose",
+    "nome": "Willian José",
+    "clube_id": 3,
+    "posicao_grupo": "ATACANTE",
+    "idade": null,
+    "vinculo": "pendente_de_validacao",
+    "ovr_usuario": 74
+  },
+  {
+    "id": "bahia-025-sanabria",
+    "nome": "Sanabria",
+    "clube_id": 3,
+    "posicao_grupo": "ATACANTE",
+    "idade": null,
+    "vinculo": "pendente_de_validacao"
+  },
+  {
+    "id": "bahia-026-kaue-furquim",
+    "nome": "Kauê Furquim",
+    "clube_id": 3,
+    "posicao_grupo": "ATACANTE",
+    "idade": null,
+    "vinculo": "pendente_de_validacao"
+  },
+  {
+    "id": "bahia-027-kike-olivera",
+    "nome": "Kike Olivera",
+    "clube_id": 3,
+    "posicao_grupo": "ATACANTE",
+    "idade": null,
+    "vinculo": "pendente_de_validacao"
+  },
+  {
+    "id": "bahia-028-alejo-veliz",
+    "nome": "Alejo Veliz",
+    "clube_id": 3,
+    "posicao_grupo": "ATACANTE",
+    "idade": null,
+    "vinculo": "pendente_de_validacao"
+  },
+  {
+    "id": "bahia-029-everaldo",
+    "nome": "Everaldo",
+    "clube_id": 3,
+    "posicao_grupo": "ATACANTE",
+    "idade": null,
+    "vinculo": "pendente_de_validacao"
+  },
+  {
+    "id": "botafogo-001-gabriel-batista",
+    "nome": "Gabriel Batista",
+    "clube_id": 4,
+    "posicao_grupo": "GOLEIRO",
+    "idade": 28,
+    "vinculo": "pendente_de_validacao",
+    "ovr_usuario": 76
+  },
+  {
+    "id": "botafogo-002-warleson",
+    "nome": "Warleson",
+    "clube_id": 4,
+    "posicao_grupo": "GOLEIRO",
+    "idade": 30,
+    "vinculo": "pendente_de_validacao"
+  },
+  {
+    "id": "botafogo-003-alex-telles",
+    "nome": "Alex Telles",
+    "clube_id": 4,
+    "posicao_grupo": "DEFENSOR",
+    "idade": 33,
+    "vinculo": "pendente_de_validacao",
+    "ovr_usuario": 80
+  },
+  {
+    "id": "botafogo-004-anthony",
+    "nome": "Anthony",
+    "clube_id": 4,
+    "posicao_grupo": "DEFENSOR",
+    "idade": 21,
+    "vinculo": "pendente_de_validacao"
+  },
+  {
+    "id": "botafogo-005-arthur-chaves",
+    "nome": "Arthur Chaves",
+    "clube_id": 4,
+    "posicao_grupo": "DEFENSOR",
+    "idade": 25,
+    "vinculo": "pendente_de_validacao",
+    "ovr_usuario": 74
+  },
+  {
+    "id": "botafogo-006-nahuel-ferraresi",
+    "nome": "Nahuel Ferraresi",
+    "clube_id": 4,
+    "posicao_grupo": "DEFENSOR",
+    "idade": 28,
+    "vinculo": "pendente_de_validacao"
+  },
+  {
+    "id": "botafogo-007-gabriel-justino",
+    "nome": "Gabriel Justino",
+    "clube_id": 4,
+    "posicao_grupo": "DEFENSOR",
+    "idade": 20,
+    "vinculo": "pendente_de_validacao",
+    "ovr_usuario": 73
+  },
+  {
+    "id": "botafogo-008-kadu",
+    "nome": "Kadu",
+    "clube_id": 4,
+    "posicao_grupo": "DEFENSOR",
+    "idade": 21,
+    "vinculo": "pendente_de_validacao"
+  },
+  {
+    "id": "botafogo-009-kaio-pantaleao",
+    "nome": "Kaio Pantaleão",
+    "clube_id": 4,
+    "posicao_grupo": "DEFENSOR",
+    "idade": 31,
+    "vinculo": "pendente_de_validacao"
+  },
+  {
+    "id": "botafogo-010-lucas-monzon",
+    "nome": "Lucas Monzón",
+    "clube_id": 4,
+    "posicao_grupo": "DEFENSOR",
+    "idade": 25,
+    "vinculo": "pendente_de_validacao"
+  },
+  {
+    "id": "botafogo-011-marcal",
+    "nome": "Marçal",
+    "clube_id": 4,
+    "posicao_grupo": "DEFENSOR",
+    "idade": 37,
+    "vinculo": "pendente_de_validacao",
+    "ovr_usuario": 78
+  },
+  {
+    "id": "botafogo-012-mateo-ponte",
+    "nome": "Mateo Ponte",
+    "clube_id": 4,
+    "posicao_grupo": "DEFENSOR",
+    "idade": 23,
+    "vinculo": "pendente_de_validacao"
+  },
+  {
+    "id": "botafogo-013-paulo-victor",
+    "nome": "Paulo Victor",
+    "clube_id": 4,
+    "posicao_grupo": "DEFENSOR",
+    "idade": 31,
+    "vinculo": "pendente_de_validacao"
+  },
+  {
+    "id": "botafogo-014-vitinho",
+    "nome": "Vitinho",
+    "clube_id": 4,
+    "posicao_grupo": "DEFENSOR",
+    "idade": 27,
+    "vinculo": "pendente_de_validacao",
+    "ovr_usuario": 77
+  },
+  {
+    "id": "botafogo-015-allan",
+    "nome": "Allan",
+    "clube_id": 4,
+    "posicao_grupo": "MEIO-CAMPISTA",
+    "idade": 33,
+    "vinculo": "pendente_de_validacao"
+  },
+  {
+    "id": "botafogo-016-alvaro-montoro",
+    "nome": "Álvaro Montoro",
+    "clube_id": 4,
+    "posicao_grupo": "MEIO-CAMPISTA",
+    "idade": 19,
+    "vinculo": "pendente_de_validacao"
+  },
+  {
+    "id": "botafogo-017-cristian-medina",
+    "nome": "Cristian Medina",
+    "clube_id": 4,
+    "posicao_grupo": "MEIO-CAMPISTA",
+    "idade": 24,
+    "vinculo": "pendente_de_validacao",
+    "ovr_usuario": 77
+  },
+  {
+    "id": "botafogo-018-danilo",
+    "nome": "Danilo",
+    "clube_id": 4,
+    "posicao_grupo": "MEIO-CAMPISTA",
+    "idade": 25,
+    "vinculo": "pendente_de_validacao"
+  },
+  {
+    "id": "botafogo-019-domingos-andrade",
+    "nome": "Domingos Andrade",
+    "clube_id": 4,
+    "posicao_grupo": "MEIO-CAMPISTA",
+    "idade": 23,
+    "vinculo": "pendente_de_validacao"
+  },
+  {
+    "id": "botafogo-020-edenilson",
+    "nome": "Edenilson",
+    "clube_id": 4,
+    "posicao_grupo": "MEIO-CAMPISTA",
+    "idade": 36,
+    "vinculo": "pendente_de_validacao",
+    "ovr_usuario": 75
+  },
+  {
+    "id": "botafogo-021-huguinho",
+    "nome": "Huguinho",
+    "clube_id": 4,
+    "posicao_grupo": "MEIO-CAMPISTA",
+    "idade": 19,
+    "vinculo": "pendente_de_validacao",
+    "ovr_usuario": 71
+  },
+  {
+    "id": "botafogo-022-jordan-barrera",
+    "nome": "Jordan Barrera",
+    "clube_id": 4,
+    "posicao_grupo": "MEIO-CAMPISTA",
+    "idade": 20,
+    "vinculo": "pendente_de_validacao"
+  },
+  {
+    "id": "botafogo-023-hakim-ziyech",
+    "nome": "Hakim Ziyech",
+    "clube_id": 4,
+    "posicao_grupo": "MEIO-CAMPISTA",
+    "idade": 33,
+    "vinculo": "pendente_de_validacao"
+  },
+  {
+    "id": "botafogo-024-danilo-pereira",
+    "nome": "Danilo Pereira",
+    "clube_id": 4,
+    "posicao_grupo": "ATACANTE",
+    "idade": 27,
+    "vinculo": "pendente_de_validacao"
+  },
+  {
+    "id": "botafogo-025-kauan-toledo",
+    "nome": "Kauan Toledo",
+    "clube_id": 4,
+    "posicao_grupo": "ATACANTE",
+    "idade": 20,
+    "vinculo": "pendente_de_validacao"
+  },
+  {
+    "id": "botafogo-026-lucas-emanuel",
+    "nome": "Lucas Emanuel",
+    "clube_id": 4,
+    "posicao_grupo": "ATACANTE",
+    "idade": 17,
+    "vinculo": "pendente_de_validacao"
+  },
+  {
+    "id": "botafogo-027-matheus-martins",
+    "nome": "Matheus Martins",
+    "clube_id": 4,
+    "posicao_grupo": "ATACANTE",
+    "idade": 23,
+    "vinculo": "pendente_de_validacao",
+    "ovr_usuario": 77
+  },
+  {
+    "id": "botafogo-028-arthur-cabral",
+    "nome": "Arthur Cabral",
+    "clube_id": 4,
+    "posicao_grupo": "ATACANTE",
+    "idade": 28,
+    "vinculo": "pendente_de_validacao"
+  },
+  {
+    "id": "botafogo-029-junior-santos",
+    "nome": "Júnior Santos",
+    "clube_id": 4,
+    "posicao_grupo": "ATACANTE",
+    "idade": 32,
+    "vinculo": "pendente_de_validacao"
+  },
+  {
+    "id": "botafogo-030-kadir",
+    "nome": "Kadir",
+    "clube_id": 4,
+    "posicao_grupo": "ATACANTE",
+    "idade": 19,
+    "vinculo": "pendente_de_validacao"
+  },
+  {
+    "id": "bragantino-001-cleiton",
+    "nome": "Cleiton",
+    "clube_id": 5,
+    "posicao_grupo": "Goleiro",
+    "idade": null,
+    "vinculo": "pendente_de_validacao"
+  },
+  {
+    "id": "bragantino-002-tiago-volpi",
+    "nome": "Tiago Volpi",
+    "clube_id": 5,
+    "posicao_grupo": "Goleiro",
+    "idade": null,
+    "vinculo": "pendente_de_validacao"
+  },
+  {
+    "id": "bragantino-003-fabricio",
+    "nome": "Fabrício",
+    "clube_id": 5,
+    "posicao_grupo": "Goleiro",
+    "idade": null,
+    "vinculo": "pendente_de_validacao"
+  },
+  {
+    "id": "bragantino-004-gustavo-reis",
+    "nome": "Gustavo Reis",
+    "clube_id": 5,
+    "posicao_grupo": "Goleiro",
+    "idade": null,
+    "vinculo": "pendente_de_validacao"
+  },
+  {
+    "id": "bragantino-005-guzman-rodriguez",
+    "nome": "Guzmán Rodríguez",
+    "clube_id": 5,
+    "posicao_grupo": "Defensor",
+    "idade": null,
+    "vinculo": "pendente_de_validacao",
+    "ovr_usuario": 73
+  },
+  {
+    "id": "bragantino-006-eduardo-santos",
+    "nome": "Eduardo Santos",
+    "clube_id": 5,
+    "posicao_grupo": "Defensor",
+    "idade": null,
+    "vinculo": "pendente_de_validacao"
+  },
+  {
+    "id": "bragantino-007-alix-vinicius",
+    "nome": "Alix Vinícius",
+    "clube_id": 5,
+    "posicao_grupo": "Defensor",
+    "idade": null,
+    "vinculo": "pendente_de_validacao"
+  },
+  {
+    "id": "bragantino-008-vanderlan",
+    "nome": "Vanderlan",
+    "clube_id": 5,
+    "posicao_grupo": "Defensor",
+    "idade": null,
+    "vinculo": "pendente_de_validacao"
+  },
+  {
+    "id": "bragantino-009-gustavo-marques",
+    "nome": "Gustavo Marques",
+    "clube_id": 5,
+    "posicao_grupo": "Defensor",
+    "idade": null,
+    "vinculo": "pendente_de_validacao",
+    "ovr_usuario": 74
+  },
+  {
+    "id": "bragantino-010-agustin-sant-anna",
+    "nome": "Agustín Sant’Anna",
+    "clube_id": 5,
+    "posicao_grupo": "Defensor",
+    "idade": null,
+    "vinculo": "pendente_de_validacao"
+  },
+  {
+    "id": "bragantino-011-juninho-capixaba",
+    "nome": "Juninho Capixaba",
+    "clube_id": 5,
+    "posicao_grupo": "Defensor",
+    "idade": null,
+    "vinculo": "pendente_de_validacao",
+    "ovr_usuario": 79
+  },
+  {
+    "id": "bragantino-012-andres-hurtado",
+    "nome": "Andrés Hurtado",
+    "clube_id": 5,
+    "posicao_grupo": "Defensor",
+    "idade": null,
+    "vinculo": "pendente_de_validacao"
+  },
+  {
+    "id": "bragantino-013-caue-nascimento",
+    "nome": "Cauê Nascimento",
+    "clube_id": 5,
+    "posicao_grupo": "Defensor",
+    "idade": null,
+    "vinculo": "pendente_de_validacao"
+  },
+  {
+    "id": "bragantino-014-fabinho",
+    "nome": "Fabinho",
+    "clube_id": 5,
+    "posicao_grupo": "Meio-campista",
+    "idade": null,
+    "vinculo": "pendente_de_validacao",
+    "ovr_usuario": 71
+  },
+  {
+    "id": "bragantino-015-gabriel-girotto",
+    "nome": "Gabriel Girotto",
+    "clube_id": 5,
+    "posicao_grupo": "Meio-campista",
+    "idade": null,
+    "vinculo": "pendente_de_validacao"
+  },
+  {
+    "id": "bragantino-016-eric-ramires",
+    "nome": "Eric Ramires",
+    "clube_id": 5,
+    "posicao_grupo": "Meio-campista",
+    "idade": null,
+    "vinculo": "pendente_de_validacao"
+  },
+  {
+    "id": "bragantino-017-nacho-sosa",
+    "nome": "Nacho Sosa",
+    "clube_id": 5,
+    "posicao_grupo": "Meio-campista",
+    "idade": null,
+    "vinculo": "pendente_de_validacao"
+  },
+  {
+    "id": "bragantino-018-rodriguinho",
+    "nome": "Rodriguinho",
+    "clube_id": 5,
+    "posicao_grupo": "Meio-campista",
+    "idade": null,
+    "vinculo": "pendente_de_validacao"
+  },
+  {
+    "id": "bragantino-019-gustavo-neves",
+    "nome": "Gustavo Neves",
+    "clube_id": 5,
+    "posicao_grupo": "Meio-campista",
+    "idade": null,
+    "vinculo": "pendente_de_validacao"
+  },
+  {
+    "id": "bragantino-020-patrick-silva",
+    "nome": "Patrick Silva",
+    "clube_id": 5,
+    "posicao_grupo": "Meio-campista",
+    "idade": null,
+    "vinculo": "pendente_de_validacao"
+  },
+  {
+    "id": "bragantino-021-matheus-fernandes",
+    "nome": "Matheus Fernandes",
+    "clube_id": 5,
+    "posicao_grupo": "Meio-campista",
+    "idade": null,
+    "vinculo": "pendente_de_validacao"
+  },
+  {
+    "id": "bragantino-022-eduardo-sasha",
+    "nome": "Eduardo Sasha",
+    "clube_id": 5,
+    "posicao_grupo": "Atacante",
+    "idade": null,
+    "vinculo": "pendente_de_validacao",
+    "ovr_usuario": 77
+  },
+  {
+    "id": "bragantino-023-isidro-pitta",
+    "nome": "Isidro Pitta",
+    "clube_id": 5,
+    "posicao_grupo": "Atacante",
+    "idade": null,
+    "vinculo": "pendente_de_validacao"
+  },
+  {
+    "id": "bragantino-024-fernando",
+    "nome": "Fernando",
+    "clube_id": 5,
+    "posicao_grupo": "Atacante",
+    "idade": null,
+    "vinculo": "pendente_de_validacao"
+  },
+  {
+    "id": "bragantino-025-vinicinho",
+    "nome": "Vinicinho",
+    "clube_id": 5,
+    "posicao_grupo": "Atacante",
+    "idade": null,
+    "vinculo": "pendente_de_validacao"
+  },
+  {
+    "id": "bragantino-026-bruno-goncalves",
+    "nome": "Bruno Gonçalves",
+    "clube_id": 5,
+    "posicao_grupo": "Atacante",
+    "idade": null,
+    "vinculo": "pendente_de_validacao"
+  },
+  {
+    "id": "bragantino-027-lucas-barbosa",
+    "nome": "Lucas Barbosa",
+    "clube_id": 5,
+    "posicao_grupo": "Atacante",
+    "idade": null,
+    "vinculo": "pendente_de_validacao"
+  },
+  {
+    "id": "bragantino-028-davi-gomes",
+    "nome": "Davi Gomes",
+    "clube_id": 5,
+    "posicao_grupo": "Atacante",
+    "idade": null,
+    "vinculo": "pendente_de_validacao"
+  },
+  {
+    "id": "bragantino-029-henry-mosquera",
+    "nome": "Henry Mosquera",
+    "clube_id": 5,
+    "posicao_grupo": "Atacante",
+    "idade": null,
+    "vinculo": "pendente_de_validacao",
+    "ovr_usuario": 75
+  },
+  {
+    "id": "bragantino-030-jose-maria-herrera",
+    "nome": "José María Herrera",
+    "clube_id": 5,
+    "posicao_grupo": "Atacante",
+    "idade": null,
+    "vinculo": "pendente_de_validacao",
+    "ovr_usuario": 73
+  },
+  {
+    "id": "bragantino-031-wallace-yan",
+    "nome": "Wallace Yan",
+    "clube_id": 5,
+    "posicao_grupo": "Atacante",
+    "idade": null,
+    "vinculo": "pendente_de_validacao",
+    "ovr_usuario": 74
+  },
+  {
+    "id": "bragantino-032-marcelinho-braz",
+    "nome": "Marcelinho Braz",
+    "clube_id": 5,
+    "posicao_grupo": "Atacante",
+    "idade": null,
+    "vinculo": "pendente_de_validacao"
+  },
+  {
+    "id": "chapecoense-001-anderson",
+    "nome": "Anderson",
+    "clube_id": 6,
+    "posicao_grupo": "Goleiro",
+    "idade": null,
+    "vinculo": "pendente_de_validacao"
+  },
+  {
+    "id": "chapecoense-002-gabriel-werner",
+    "nome": "Gabriel Werner",
+    "clube_id": 6,
+    "posicao_grupo": "Goleiro",
+    "idade": null,
+    "vinculo": "pendente_de_validacao"
+  },
+  {
+    "id": "chapecoense-003-kaina",
+    "nome": "Kainã",
+    "clube_id": 6,
+    "posicao_grupo": "Goleiro",
+    "idade": null,
+    "vinculo": "pendente_de_validacao"
+  },
+  {
+    "id": "chapecoense-004-matheus-aurelio",
+    "nome": "Matheus Aurélio",
+    "clube_id": 6,
+    "posicao_grupo": "Goleiro",
+    "idade": null,
+    "vinculo": "pendente_de_validacao"
+  },
+  {
+    "id": "chapecoense-005-doma",
+    "nome": "Doma",
+    "clube_id": 6,
+    "posicao_grupo": "Zagueiro",
+    "idade": null,
+    "vinculo": "pendente_de_validacao"
+  },
+  {
+    "id": "chapecoense-006-joao-paulo",
+    "nome": "João Paulo",
+    "clube_id": 6,
+    "posicao_grupo": "Zagueiro",
+    "idade": null,
+    "vinculo": "pendente_de_validacao"
+  },
+  {
+    "id": "chapecoense-007-kauan",
+    "nome": "Kauan",
+    "clube_id": 6,
+    "posicao_grupo": "Zagueiro",
+    "idade": null,
+    "vinculo": "pendente_de_validacao"
+  },
+  {
+    "id": "chapecoense-008-victor-caetano",
+    "nome": "Victor Caetano",
+    "clube_id": 6,
+    "posicao_grupo": "Zagueiro",
+    "idade": null,
+    "vinculo": "pendente_de_validacao"
+  },
+  {
+    "id": "chapecoense-009-vinicius",
+    "nome": "Vinicius",
+    "clube_id": 6,
+    "posicao_grupo": "Zagueiro",
+    "idade": null,
+    "vinculo": "pendente_de_validacao"
+  },
+  {
+    "id": "chapecoense-010-bruno-pacheco",
+    "nome": "Bruno Pacheco",
+    "clube_id": 6,
+    "posicao_grupo": "Lateral",
+    "idade": null,
+    "vinculo": "pendente_de_validacao"
+  },
+  {
+    "id": "chapecoense-011-bruno-tubarao",
+    "nome": "Bruno Tubarão",
+    "clube_id": 6,
+    "posicao_grupo": "Lateral",
+    "idade": null,
+    "vinculo": "pendente_de_validacao"
+  },
+  {
+    "id": "chapecoense-012-everton",
+    "nome": "Everton",
+    "clube_id": 6,
+    "posicao_grupo": "Lateral",
+    "idade": null,
+    "vinculo": "pendente_de_validacao"
+  },
+  {
+    "id": "chapecoense-013-fernando",
+    "nome": "Fernando",
+    "clube_id": 6,
+    "posicao_grupo": "Lateral",
+    "idade": null,
+    "vinculo": "pendente_de_validacao"
+  },
+  {
+    "id": "chapecoense-014-heitor",
+    "nome": "Heitor",
+    "clube_id": 6,
+    "posicao_grupo": "Lateral",
+    "idade": null,
+    "vinculo": "pendente_de_validacao"
+  },
+  {
+    "id": "chapecoense-015-mancha",
+    "nome": "Mancha",
+    "clube_id": 6,
+    "posicao_grupo": "Lateral",
+    "idade": null,
+    "vinculo": "pendente_de_validacao"
+  },
+  {
+    "id": "chapecoense-016-vinicius-balieiro",
+    "nome": "Vinicius Balieiro",
+    "clube_id": 6,
+    "posicao_grupo": "Volante",
+    "idade": null,
+    "vinculo": "pendente_de_validacao"
+  },
+  {
+    "id": "chapecoense-017-david",
+    "nome": "David",
+    "clube_id": 6,
+    "posicao_grupo": "Volante",
+    "idade": null,
+    "vinculo": "pendente_de_validacao"
+  },
+  {
+    "id": "chapecoense-018-camilo",
+    "nome": "Camilo",
+    "clube_id": 6,
+    "posicao_grupo": "Volante",
+    "idade": null,
+    "vinculo": "pendente_de_validacao"
+  },
+  {
+    "id": "chapecoense-019-rosivan",
+    "nome": "Rosivan",
+    "clube_id": 6,
+    "posicao_grupo": "Volante",
+    "idade": null,
+    "vinculo": "pendente_de_validacao"
+  },
+  {
+    "id": "chapecoense-020-rafael-carvalheira",
+    "nome": "Rafael Carvalheira",
+    "clube_id": 6,
+    "posicao_grupo": "Volante",
+    "idade": null,
+    "vinculo": "pendente_de_validacao"
+  },
+  {
+    "id": "chapecoense-021-giovanni-augusto",
+    "nome": "Giovanni Augusto",
+    "clube_id": 6,
+    "posicao_grupo": "Meia",
+    "idade": null,
+    "vinculo": "pendente_de_validacao"
+  },
+  {
+    "id": "chapecoense-022-max",
+    "nome": "Max",
+    "clube_id": 6,
+    "posicao_grupo": "Meia",
+    "idade": null,
+    "vinculo": "pendente_de_validacao"
+  },
+  {
+    "id": "chapecoense-023-miguel-carvalho",
+    "nome": "Miguel Carvalho",
+    "clube_id": 6,
+    "posicao_grupo": "Meia",
+    "idade": null,
+    "vinculo": "pendente_de_validacao"
+  },
+  {
+    "id": "chapecoense-024-robert",
+    "nome": "Robert",
+    "clube_id": 6,
+    "posicao_grupo": "Meia",
+    "idade": null,
+    "vinculo": "pendente_de_validacao"
+  },
+  {
+    "id": "chapecoense-025-yago-felipe",
+    "nome": "Yago Felipe",
+    "clube_id": 6,
+    "posicao_grupo": "Meia",
+    "idade": null,
+    "vinculo": "pendente_de_validacao"
+  },
+  {
+    "id": "chapecoense-026-dylan-borrero",
+    "nome": "Dylan Borrero",
+    "clube_id": 6,
+    "posicao_grupo": "Atacante",
+    "idade": null,
+    "vinculo": "pendente_de_validacao"
+  },
+  {
+    "id": "chapecoense-027-franco-rossi",
+    "nome": "Franco Rossi",
+    "clube_id": 6,
+    "posicao_grupo": "Atacante",
+    "idade": null,
+    "vinculo": "pendente_de_validacao"
+  },
+  {
+    "id": "chapecoense-028-marcinho",
+    "nome": "Marcinho",
+    "clube_id": 6,
+    "posicao_grupo": "Atacante",
+    "idade": null,
+    "vinculo": "pendente_de_validacao"
+  },
+  {
+    "id": "chapecoense-029-mauricio-garcez",
+    "nome": "Maurício Garcez",
+    "clube_id": 6,
+    "posicao_grupo": "Atacante",
+    "idade": null,
+    "vinculo": "pendente_de_validacao"
+  },
+  {
+    "id": "chapecoense-030-rubens",
+    "nome": "Rubens",
+    "clube_id": 6,
+    "posicao_grupo": "Atacante",
+    "idade": null,
+    "vinculo": "pendente_de_validacao"
+  },
+  {
+    "id": "chapecoense-031-tulio-eduardo",
+    "nome": "Túlio Eduardo",
+    "clube_id": 6,
+    "posicao_grupo": "Atacante",
+    "idade": null,
+    "vinculo": "pendente_de_validacao"
+  },
+  {
+    "id": "corinthians-001-hugo-souza",
+    "nome": "Hugo Souza",
+    "clube_id": 7,
+    "posicao_grupo": "Goleiro",
+    "idade": null,
+    "vinculo": "pendente_de_validacao",
+    "ovr_usuario": 80
+  },
+  {
+    "id": "corinthians-002-felipe-longo",
+    "nome": "Felipe Longo",
+    "clube_id": 7,
+    "posicao_grupo": "Goleiro",
+    "idade": null,
+    "vinculo": "pendente_de_validacao"
+  },
+  {
+    "id": "corinthians-003-kaue",
+    "nome": "Kauê",
+    "clube_id": 7,
+    "posicao_grupo": "Goleiro",
+    "idade": null,
+    "vinculo": "pendente_de_validacao"
+  },
+  {
+    "id": "corinthians-004-matheuzinho",
+    "nome": "Matheuzinho",
+    "clube_id": 7,
+    "posicao_grupo": "Defensor",
+    "idade": null,
+    "vinculo": "pendente_de_validacao",
+    "ovr_usuario": 78
+  },
+  {
+    "id": "corinthians-005-gabriel-paulista",
+    "nome": "Gabriel Paulista",
+    "clube_id": 7,
+    "posicao_grupo": "Defensor",
+    "idade": null,
+    "vinculo": "pendente_de_validacao"
+  },
+  {
+    "id": "corinthians-006-joao-pedro",
+    "nome": "João Pedro",
+    "clube_id": 7,
+    "posicao_grupo": "Defensor",
+    "idade": null,
+    "vinculo": "pendente_de_validacao",
+    "ovr_usuario": 75
+  },
+  {
+    "id": "corinthians-007-andre-ramalho",
+    "nome": "André Ramalho",
+    "clube_id": 7,
+    "posicao_grupo": "Defensor",
+    "idade": null,
+    "vinculo": "pendente_de_validacao"
+  },
+  {
+    "id": "corinthians-008-gustavo-henrique",
+    "nome": "Gustavo Henrique",
+    "clube_id": 7,
+    "posicao_grupo": "Defensor",
+    "idade": null,
+    "vinculo": "pendente_de_validacao",
+    "ovr_usuario": 81
+  },
+  {
+    "id": "corinthians-009-pedro-milans",
+    "nome": "Pedro Milans",
+    "clube_id": 7,
+    "posicao_grupo": "Defensor",
+    "idade": null,
+    "vinculo": "pendente_de_validacao"
+  },
+  {
+    "id": "corinthians-010-matheus-bidu",
+    "nome": "Matheus Bidu",
+    "clube_id": 7,
+    "posicao_grupo": "Defensor",
+    "idade": null,
+    "vinculo": "pendente_de_validacao",
+    "ovr_usuario": 77
+  },
+  {
+    "id": "corinthians-011-fabrizio-angileri",
+    "nome": "Fabrizio Angileri",
+    "clube_id": 7,
+    "posicao_grupo": "Defensor",
+    "idade": null,
+    "vinculo": "pendente_de_validacao"
+  },
+  {
+    "id": "corinthians-012-hugo-farias",
+    "nome": "Hugo Farias",
+    "clube_id": 7,
+    "posicao_grupo": "Defensor",
+    "idade": null,
+    "vinculo": "pendente_de_validacao"
+  },
+  {
+    "id": "corinthians-013-iago-machado",
+    "nome": "Iago Machado",
+    "clube_id": 7,
+    "posicao_grupo": "Defensor",
+    "idade": null,
+    "vinculo": "pendente_de_validacao"
+  },
+  {
+    "id": "corinthians-014-breno-bidon",
+    "nome": "Breno Bidon",
+    "clube_id": 7,
+    "posicao_grupo": "Meio-campista",
+    "idade": null,
+    "vinculo": "pendente_de_validacao",
+    "ovr_usuario": 81
+  },
+  {
+    "id": "corinthians-015-rodrigo-garro",
+    "nome": "Rodrigo Garro",
+    "clube_id": 7,
+    "posicao_grupo": "Meio-campista",
+    "idade": null,
+    "vinculo": "pendente_de_validacao"
+  },
+  {
+    "id": "corinthians-016-vitinho",
+    "nome": "Vitinho",
+    "clube_id": 7,
+    "posicao_grupo": "Meio-campista",
+    "idade": null,
+    "vinculo": "pendente_de_validacao",
+    "ovr_usuario": 73
+  },
+  {
+    "id": "corinthians-017-raniele",
+    "nome": "Raniele",
+    "clube_id": 7,
+    "posicao_grupo": "Meio-campista",
+    "idade": null,
+    "vinculo": "pendente_de_validacao"
+  },
+  {
+    "id": "corinthians-018-andre-carrillo",
+    "nome": "André Carrillo",
+    "clube_id": 7,
+    "posicao_grupo": "Meio-campista",
+    "idade": null,
+    "vinculo": "pendente_de_validacao",
+    "ovr_usuario": 76
+  },
+  {
+    "id": "corinthians-019-matheus-pereira",
+    "nome": "Matheus Pereira",
+    "clube_id": 7,
+    "posicao_grupo": "Meio-campista",
+    "idade": null,
+    "vinculo": "pendente_de_validacao"
+  },
+  {
+    "id": "corinthians-020-allan",
+    "nome": "Allan",
+    "clube_id": 7,
+    "posicao_grupo": "Meio-campista",
+    "idade": null,
+    "vinculo": "pendente_de_validacao"
+  },
+  {
+    "id": "corinthians-021-charles",
+    "nome": "Charles",
+    "clube_id": 7,
+    "posicao_grupo": "Meio-campista",
+    "idade": null,
+    "vinculo": "pendente_de_validacao"
+  },
+  {
+    "id": "corinthians-022-andre",
+    "nome": "André",
+    "clube_id": 7,
+    "posicao_grupo": "Meio-campista",
+    "idade": null,
+    "vinculo": "pendente_de_validacao"
+  },
+  {
+    "id": "corinthians-023-zakaria-labyad",
+    "nome": "Zakaria Labyad",
+    "clube_id": 7,
+    "posicao_grupo": "Meio-campista",
+    "idade": null,
+    "vinculo": "pendente_de_validacao"
+  },
+  {
+    "id": "corinthians-024-luiz-gustavo",
+    "nome": "Luiz Gustavo",
+    "clube_id": 7,
+    "posicao_grupo": "Meio-campista",
+    "idade": null,
+    "vinculo": "pendente_de_validacao"
+  },
+  {
+    "id": "corinthians-025-jesse-lingard",
+    "nome": "Jesse Lingard",
+    "clube_id": 7,
+    "posicao_grupo": "Meio-campista",
+    "idade": null,
+    "vinculo": "pendente_de_validacao"
+  },
+  {
+    "id": "corinthians-026-alex-santana",
+    "nome": "Alex Santana",
+    "clube_id": 7,
+    "posicao_grupo": "Meio-campista",
+    "idade": null,
+    "vinculo": "pendente_de_validacao"
+  },
+  {
+    "id": "corinthians-027-yuri-alberto",
+    "nome": "Yuri Alberto",
+    "clube_id": 7,
+    "posicao_grupo": "Atacante",
+    "idade": null,
+    "vinculo": "pendente_de_validacao",
+    "ovr_usuario": 81
+  },
+  {
+    "id": "corinthians-028-memphis-depay",
+    "nome": "Memphis Depay",
+    "clube_id": 7,
+    "posicao_grupo": "Atacante",
+    "idade": null,
+    "vinculo": "pendente_de_validacao",
+    "ovr_usuario": 80
+  },
+  {
+    "id": "corinthians-029-pedro-raul",
+    "nome": "Pedro Raul",
+    "clube_id": 7,
+    "posicao_grupo": "Atacante",
+    "idade": null,
+    "vinculo": "pendente_de_validacao"
+  },
+  {
+    "id": "corinthians-030-kayke",
+    "nome": "Kayke",
+    "clube_id": 7,
+    "posicao_grupo": "Atacante",
+    "idade": null,
+    "vinculo": "pendente_de_validacao"
+  },
+  {
+    "id": "corinthians-031-kaio-cesar",
+    "nome": "Kaio César",
+    "clube_id": 7,
+    "posicao_grupo": "Atacante",
+    "idade": null,
+    "vinculo": "pendente_de_validacao",
+    "ovr_usuario": 76
+  },
+  {
+    "id": "corinthians-032-gui-negao",
+    "nome": "Gui Negão",
+    "clube_id": 7,
+    "posicao_grupo": "Atacante",
+    "idade": null,
+    "vinculo": "pendente_de_validacao"
+  },
+  {
+    "id": "corinthians-033-dieguinho",
+    "nome": "Dieguinho",
+    "clube_id": 7,
+    "posicao_grupo": "Atacante",
+    "idade": null,
+    "vinculo": "pendente_de_validacao"
+  },
+  {
+    "id": "coritiba-001-pedro-morisco",
+    "nome": "Pedro Morisco",
+    "clube_id": 8,
+    "posicao_grupo": "Goleiro",
+    "idade": 22,
+    "vinculo": "pendente_de_validacao",
+    "ovr_usuario": 79
+  },
+  {
+    "id": "coritiba-002-keiller",
+    "nome": "Keiller",
+    "clube_id": 8,
+    "posicao_grupo": "Goleiro",
+    "idade": 30,
+    "vinculo": "pendente_de_validacao"
+  },
+  {
+    "id": "coritiba-003-pedro-rangel",
+    "nome": "Pedro Rangel",
+    "clube_id": 8,
+    "posicao_grupo": "Goleiro",
+    "idade": 26,
+    "vinculo": "pendente_de_validacao"
+  },
+  {
+    "id": "coritiba-004-benassi",
+    "nome": "Benassi",
+    "clube_id": 8,
+    "posicao_grupo": "Goleiro",
+    "idade": 22,
+    "vinculo": "pendente_de_validacao"
+  },
+  {
+    "id": "coritiba-005-tinga",
+    "nome": "Tinga",
+    "clube_id": 8,
+    "posicao_grupo": "Defensor",
+    "idade": 33,
+    "vinculo": "pendente_de_validacao",
+    "ovr_usuario": 70
+  },
+  {
+    "id": "coritiba-006-maicon",
+    "nome": "Maicon",
+    "clube_id": 8,
+    "posicao_grupo": "Defensor",
+    "idade": 38,
+    "vinculo": "pendente_de_validacao"
+  },
+  {
+    "id": "coritiba-007-rodrigo-moledo",
+    "nome": "Rodrigo Moledo",
+    "clube_id": 8,
+    "posicao_grupo": "Defensor",
+    "idade": 39,
+    "vinculo": "pendente_de_validacao"
+  },
+  {
+    "id": "coritiba-008-felipe-jonatan",
+    "nome": "Felipe Jonatan",
+    "clube_id": 8,
+    "posicao_grupo": "Defensor",
+    "idade": 28,
+    "vinculo": "pendente_de_validacao"
+  },
+  {
+    "id": "coritiba-009-fabricio-bustos",
+    "nome": "Fabricio Bustos",
+    "clube_id": 8,
+    "posicao_grupo": "Defensor",
+    "idade": 30,
+    "vinculo": "pendente_de_validacao"
+  },
+  {
+    "id": "coritiba-010-thiago-santos",
+    "nome": "Thiago Santos",
+    "clube_id": 8,
+    "posicao_grupo": "Defensor",
+    "idade": 37,
+    "vinculo": "pendente_de_validacao",
+    "ovr_usuario": 68
+  },
+  {
+    "id": "coritiba-011-tiago-coser",
+    "nome": "Tiago Cóser",
+    "clube_id": 8,
+    "posicao_grupo": "Defensor",
+    "idade": 22,
+    "vinculo": "pendente_de_validacao",
+    "ovr_usuario": 72
+  },
+  {
+    "id": "coritiba-012-bruno-melo",
+    "nome": "Bruno Melo",
+    "clube_id": 8,
+    "posicao_grupo": "Defensor",
+    "idade": 34,
+    "vinculo": "pendente_de_validacao",
+    "ovr_usuario": 69
+  },
+  {
+    "id": "coritiba-013-jacy-maranhao",
+    "nome": "Jacy Maranhão",
+    "clube_id": 8,
+    "posicao_grupo": "Defensor",
+    "idade": 29,
+    "vinculo": "pendente_de_validacao",
+    "ovr_usuario": 79
+  },
+  {
+    "id": "coritiba-014-rodrigo-gelado",
+    "nome": "Rodrigo Gelado",
+    "clube_id": 8,
+    "posicao_grupo": "Defensor",
+    "idade": 23,
+    "vinculo": "pendente_de_validacao"
+  },
+  {
+    "id": "coritiba-015-lucas-taverna",
+    "nome": "Lucas Taverna",
+    "clube_id": 8,
+    "posicao_grupo": "Defensor",
+    "idade": 19,
+    "vinculo": "pendente_de_validacao"
+  },
+  {
+    "id": "coritiba-016-nicolas-fonseca",
+    "nome": "Nicolás Fonseca",
+    "clube_id": 8,
+    "posicao_grupo": "Meio-campista",
+    "idade": 28,
+    "vinculo": "pendente_de_validacao",
+    "ovr_usuario": 70
+  },
+  {
+    "id": "coritiba-017-josue",
+    "nome": "Josué",
+    "clube_id": 8,
+    "posicao_grupo": "Meio-campista",
+    "idade": 36,
+    "vinculo": "pendente_de_validacao",
+    "ovr_usuario": 76
+  },
+  {
+    "id": "coritiba-018-alejandro-ararat",
+    "nome": "Alejandro Ararat",
+    "clube_id": 8,
+    "posicao_grupo": "Meio-campista",
+    "idade": null,
+    "vinculo": "pendente_de_validacao"
+  },
+  {
+    "id": "coritiba-019-sebastian-gomez",
+    "nome": "Sebastián Gómez",
+    "clube_id": 8,
+    "posicao_grupo": "Meio-campista",
+    "idade": 30,
+    "vinculo": "pendente_de_validacao",
+    "ovr_usuario": 69
+  },
+  {
+    "id": "coritiba-020-richard",
+    "nome": "Richard",
+    "clube_id": 8,
+    "posicao_grupo": "Meio-campista",
+    "idade": 32,
+    "vinculo": "pendente_de_validacao"
+  },
+  {
+    "id": "coritiba-021-vini-paulista",
+    "nome": "Vini Paulista",
+    "clube_id": 8,
+    "posicao_grupo": "Meio-campista",
+    "idade": 25,
+    "vinculo": "pendente_de_validacao"
+  },
+  {
+    "id": "coritiba-022-gustavo-silva",
+    "nome": "Gustavo Silva",
+    "clube_id": 8,
+    "posicao_grupo": "Meio-campista",
+    "idade": 24,
+    "vinculo": "pendente_de_validacao"
+  },
+  {
+    "id": "coritiba-023-vitor-tissi",
+    "nome": "Vitor Tissi",
+    "clube_id": 8,
+    "posicao_grupo": "Meio-campista",
+    "idade": 19,
+    "vinculo": "pendente_de_validacao"
+  },
+  {
+    "id": "coritiba-024-joaquin-lavega",
+    "nome": "Joaquín Lavega",
+    "clube_id": 8,
+    "posicao_grupo": "Atacante",
+    "idade": 21,
+    "vinculo": "pendente_de_validacao"
+  },
+  {
+    "id": "coritiba-025-lucas-ronier",
+    "nome": "Lucas Ronier",
+    "clube_id": 8,
+    "posicao_grupo": "Atacante",
+    "idade": 21,
+    "vinculo": "pendente_de_validacao"
+  },
+  {
+    "id": "coritiba-026-brian-ocampo",
+    "nome": "Brian Ocampo",
+    "clube_id": 8,
+    "posicao_grupo": "Atacante",
+    "idade": 27,
+    "vinculo": "pendente_de_validacao"
+  },
+  {
+    "id": "coritiba-027-paulo-roberto",
+    "nome": "Paulo Roberto",
+    "clube_id": 8,
+    "posicao_grupo": "Atacante",
+    "idade": 21,
+    "vinculo": "pendente_de_validacao"
+  },
+  {
+    "id": "coritiba-028-keno",
+    "nome": "Keno",
+    "clube_id": 8,
+    "posicao_grupo": "Atacante",
+    "idade": 37,
+    "vinculo": "pendente_de_validacao"
+  },
+  {
+    "id": "coritiba-029-fabinho",
+    "nome": "Fabinho",
+    "clube_id": 8,
+    "posicao_grupo": "Atacante",
+    "idade": 27,
+    "vinculo": "pendente_de_validacao"
+  },
+  {
+    "id": "coritiba-030-pedro-rocha",
+    "nome": "Pedro Rocha",
+    "clube_id": 8,
+    "posicao_grupo": "Atacante",
+    "idade": 32,
+    "vinculo": "pendente_de_validacao",
+    "ovr_usuario": 73
+  },
+  {
+    "id": "coritiba-031-breno-lopes",
+    "nome": "Breno Lopes",
+    "clube_id": 8,
+    "posicao_grupo": "Atacante",
+    "idade": 30,
+    "vinculo": "pendente_de_validacao",
+    "ovr_usuario": 74
+  },
+  {
+    "id": "coritiba-032-renato-marques",
+    "nome": "Renato Marques",
+    "clube_id": 8,
+    "posicao_grupo": "Atacante",
+    "idade": 22,
+    "vinculo": "pendente_de_validacao"
+  },
+  {
+    "id": "coritiba-033-rodrigo-rodrigues",
+    "nome": "Rodrigo Rodrigues",
+    "clube_id": 8,
+    "posicao_grupo": "Atacante",
+    "idade": 30,
+    "vinculo": "pendente_de_validacao"
+  },
+  {
+    "id": "cruzeiro-001-cassio",
+    "nome": "Cássio",
+    "clube_id": 9,
+    "posicao_grupo": "Goleiro",
+    "idade": null,
+    "vinculo": "pendente_de_validacao"
+  },
+  {
+    "id": "cruzeiro-002-leo-aragao",
+    "nome": "Léo Aragão",
+    "clube_id": 9,
+    "posicao_grupo": "Goleiro",
+    "idade": null,
+    "vinculo": "pendente_de_validacao"
+  },
+  {
+    "id": "cruzeiro-003-otavio",
+    "nome": "Otávio",
+    "clube_id": 9,
+    "posicao_grupo": "Goleiro",
+    "idade": null,
+    "vinculo": "pendente_de_validacao",
+    "ovr_usuario": 79
+  },
+  {
+    "id": "cruzeiro-004-kaua-moraes",
+    "nome": "Kauã Moraes",
+    "clube_id": 9,
+    "posicao_grupo": "Defensor",
+    "idade": null,
+    "vinculo": "pendente_de_validacao"
+  },
+  {
+    "id": "cruzeiro-005-matias-vina",
+    "nome": "Matías Viña",
+    "clube_id": 9,
+    "posicao_grupo": "Defensor",
+    "idade": null,
+    "vinculo": "pendente_de_validacao"
+  },
+  {
+    "id": "cruzeiro-006-william",
+    "nome": "William",
+    "clube_id": 9,
+    "posicao_grupo": "Defensor",
+    "idade": null,
+    "vinculo": "pendente_de_validacao"
+  },
+  {
+    "id": "cruzeiro-007-fabricio-bruno",
+    "nome": "Fabrício Bruno",
+    "clube_id": 9,
+    "posicao_grupo": "Defensor",
+    "idade": null,
+    "vinculo": "pendente_de_validacao",
+    "ovr_usuario": 78
+  },
+  {
+    "id": "cruzeiro-008-fagner",
+    "nome": "Fagner",
+    "clube_id": 9,
+    "posicao_grupo": "Defensor",
+    "idade": null,
+    "vinculo": "pendente_de_validacao"
+  },
+  {
+    "id": "cruzeiro-009-lucas-villalba",
+    "nome": "Lucas Villalba",
+    "clube_id": 9,
+    "posicao_grupo": "Defensor",
+    "idade": null,
+    "vinculo": "pendente_de_validacao",
+    "ovr_usuario": 77
+  },
+  {
+    "id": "cruzeiro-010-gabriel-rojas",
+    "nome": "Gabriel Rojas",
+    "clube_id": 9,
+    "posicao_grupo": "Defensor",
+    "idade": null,
+    "vinculo": "pendente_de_validacao",
+    "ovr_usuario": 73
+  },
+  {
+    "id": "cruzeiro-011-jonathan-jesus",
+    "nome": "Jonathan Jesus",
+    "clube_id": 9,
+    "posicao_grupo": "Defensor",
+    "idade": null,
+    "vinculo": "pendente_de_validacao"
+  },
+  {
+    "id": "cruzeiro-012-joao-marcelo",
+    "nome": "João Marcelo",
+    "clube_id": 9,
+    "posicao_grupo": "Defensor",
+    "idade": null,
+    "vinculo": "pendente_de_validacao"
+  },
+  {
+    "id": "cruzeiro-013-ze-lucas",
+    "nome": "Zé Lucas",
+    "clube_id": 9,
+    "posicao_grupo": "Meio-campista",
+    "idade": null,
+    "vinculo": "pendente_de_validacao",
+    "ovr_usuario": 75
+  },
+  {
+    "id": "cruzeiro-014-matheus-henrique",
+    "nome": "Matheus Henrique",
+    "clube_id": 9,
+    "posicao_grupo": "Meio-campista",
+    "idade": null,
+    "vinculo": "pendente_de_validacao"
+  },
+  {
+    "id": "cruzeiro-015-gerson",
+    "nome": "Gerson",
+    "clube_id": 9,
+    "posicao_grupo": "Meio-campista",
+    "idade": null,
+    "vinculo": "pendente_de_validacao",
+    "ovr_usuario": 82
+  },
+  {
+    "id": "cruzeiro-016-matheus-pereira",
+    "nome": "Matheus Pereira",
+    "clube_id": 9,
+    "posicao_grupo": "Meio-campista",
+    "idade": null,
+    "vinculo": "pendente_de_validacao",
+    "ovr_usuario": 83
+  },
+  {
+    "id": "cruzeiro-017-lucas-silva",
+    "nome": "Lucas Silva",
+    "clube_id": 9,
+    "posicao_grupo": "Meio-campista",
+    "idade": null,
+    "vinculo": "pendente_de_validacao"
+  },
+  {
+    "id": "cruzeiro-018-lucas-romero",
+    "nome": "Lucas Romero",
+    "clube_id": 9,
+    "posicao_grupo": "Meio-campista",
+    "idade": null,
+    "vinculo": "pendente_de_validacao",
+    "ovr_usuario": 76
+  },
+  {
+    "id": "cruzeiro-019-felipe-morais",
+    "nome": "Felipe Morais",
+    "clube_id": 9,
+    "posicao_grupo": "Meio-campista",
+    "idade": null,
+    "vinculo": "pendente_de_validacao"
+  },
+  {
+    "id": "cruzeiro-020-fabrizio-peralta",
+    "nome": "Fabrizio Peralta",
+    "clube_id": 9,
+    "posicao_grupo": "Atacante",
+    "idade": null,
+    "vinculo": "pendente_de_validacao"
+  },
+  {
+    "id": "cruzeiro-021-bruno-rodrigues",
+    "nome": "Bruno Rodrigues",
+    "clube_id": 9,
+    "posicao_grupo": "Atacante",
+    "idade": null,
+    "vinculo": "pendente_de_validacao"
+  },
+  {
+    "id": "cruzeiro-022-marquinhos",
+    "nome": "Marquinhos",
+    "clube_id": 9,
+    "posicao_grupo": "Atacante",
+    "idade": null,
+    "vinculo": "pendente_de_validacao",
+    "ovr_usuario": 71
+  },
+  {
+    "id": "cruzeiro-023-luis-sinisterra",
+    "nome": "Luis Sinisterra",
+    "clube_id": 9,
+    "posicao_grupo": "Atacante",
+    "idade": null,
+    "vinculo": "pendente_de_validacao"
+  },
+  {
+    "id": "cruzeiro-024-kaio-jorge",
+    "nome": "Kaio Jorge",
+    "clube_id": 9,
+    "posicao_grupo": "Atacante",
+    "idade": null,
+    "vinculo": "pendente_de_validacao",
+    "ovr_usuario": 83
+  },
+  {
+    "id": "cruzeiro-025-wesley",
+    "nome": "Wesley",
+    "clube_id": 9,
+    "posicao_grupo": "Atacante",
+    "idade": null,
+    "vinculo": "pendente_de_validacao"
+  },
+  {
+    "id": "cruzeiro-026-neyser-villarreal",
+    "nome": "Neyser Villarreal",
+    "clube_id": 9,
+    "posicao_grupo": "Atacante",
+    "idade": null,
+    "vinculo": "pendente_de_validacao"
+  },
+  {
+    "id": "cruzeiro-027-joao-costa",
+    "nome": "João Costa",
+    "clube_id": 9,
+    "posicao_grupo": "Atacante",
+    "idade": null,
+    "vinculo": "pendente_de_validacao"
+  },
+  {
+    "id": "cruzeiro-028-kaique-kenji",
+    "nome": "Kaique Kenji",
+    "clube_id": 9,
+    "posicao_grupo": "Atacante",
+    "idade": null,
+    "vinculo": "pendente_de_validacao"
+  },
+  {
+    "id": "cruzeiro-029-gabriel-pec",
+    "nome": "Gabriel Pec",
+    "clube_id": 9,
+    "posicao_grupo": "Atacante",
+    "idade": null,
+    "vinculo": "pendente_de_validacao"
+  },
+  {
+    "id": "cruzeiro-030-wanderson",
+    "nome": "Wanderson",
+    "clube_id": 9,
+    "posicao_grupo": "Atacante",
+    "idade": null,
+    "vinculo": "pendente_de_validacao"
+  },
+  {
+    "id": "cruzeiro-031-luciano-rodriguez",
+    "nome": "Luciano Rodríguez",
+    "clube_id": 9,
+    "posicao_grupo": "Atacante",
+    "idade": null,
+    "vinculo": "pendente_de_validacao"
+  },
+  {
+    "id": "cruzeiro-032-keny-arroyo",
+    "nome": "Keny Arroyo",
+    "clube_id": 9,
+    "posicao_grupo": "Atacante",
+    "idade": null,
+    "vinculo": "pendente_de_validacao"
+  },
+  {
+    "id": "flamengo-001-agustin-rossi",
+    "nome": "Agustín Rossi",
+    "clube_id": 10,
+    "posicao_grupo": "Goleiro",
+    "idade": null,
+    "vinculo": "pendente_de_validacao",
+    "ovr_usuario": 81
+  },
+  {
+    "id": "flamengo-002-andrew",
+    "nome": "Andrew",
+    "clube_id": 10,
+    "posicao_grupo": "Goleiro",
+    "idade": null,
+    "vinculo": "pendente_de_validacao"
+  },
+  {
+    "id": "flamengo-003-dyogo-alves",
+    "nome": "Dyogo Alves",
+    "clube_id": 10,
+    "posicao_grupo": "Goleiro",
+    "idade": null,
+    "vinculo": "pendente_de_validacao"
+  },
+  {
+    "id": "flamengo-004-leo-ortiz",
+    "nome": "Léo Ortiz",
+    "clube_id": 10,
+    "posicao_grupo": "Zagueiro",
+    "idade": null,
+    "vinculo": "pendente_de_validacao",
+    "ovr_usuario": 80
+  },
+  {
+    "id": "flamengo-005-leo-pereira",
+    "nome": "Léo Pereira",
+    "clube_id": 10,
+    "posicao_grupo": "Zagueiro",
+    "idade": null,
+    "vinculo": "pendente_de_validacao",
+    "ovr_usuario": 81
+  },
+  {
+    "id": "flamengo-006-danilo",
+    "nome": "Danilo",
+    "clube_id": 10,
+    "posicao_grupo": "Zagueiro",
+    "idade": null,
+    "vinculo": "pendente_de_validacao"
+  },
+  {
+    "id": "flamengo-007-vitao",
+    "nome": "Vitão",
+    "clube_id": 10,
+    "posicao_grupo": "Zagueiro",
+    "idade": null,
+    "vinculo": "pendente_de_validacao"
+  },
+  {
+    "id": "flamengo-008-joao-victor",
+    "nome": "João Victor",
+    "clube_id": 10,
+    "posicao_grupo": "Zagueiro",
+    "idade": null,
+    "vinculo": "pendente_de_validacao"
+  },
+  {
+    "id": "flamengo-009-guillermo-varela",
+    "nome": "Guillermo Varela",
+    "clube_id": 10,
+    "posicao_grupo": "Lateral",
+    "idade": null,
+    "vinculo": "pendente_de_validacao",
+    "ovr_usuario": 79
+  },
+  {
+    "id": "flamengo-010-ayrton-lucas",
+    "nome": "Ayrton Lucas",
+    "clube_id": 10,
+    "posicao_grupo": "Lateral",
+    "idade": null,
+    "vinculo": "pendente_de_validacao"
+  },
+  {
+    "id": "flamengo-011-emerson-royal",
+    "nome": "Emerson Royal",
+    "clube_id": 10,
+    "posicao_grupo": "Lateral",
+    "idade": null,
+    "vinculo": "pendente_de_validacao"
+  },
+  {
+    "id": "flamengo-012-alex-sandro",
+    "nome": "Alex Sandro",
+    "clube_id": 10,
+    "posicao_grupo": "Lateral",
+    "idade": null,
+    "vinculo": "pendente_de_validacao",
+    "ovr_usuario": 80
+  },
+  {
+    "id": "flamengo-013-erick-pulgar",
+    "nome": "Erick Pulgar",
+    "clube_id": 10,
+    "posicao_grupo": "Meio-campista",
+    "idade": null,
+    "vinculo": "pendente_de_validacao",
+    "ovr_usuario": 77
+  },
+  {
+    "id": "flamengo-014-saul-niguez",
+    "nome": "Saúl Ñíguez",
+    "clube_id": 10,
+    "posicao_grupo": "Meio-campista",
+    "idade": null,
+    "vinculo": "pendente_de_validacao"
+  },
+  {
+    "id": "flamengo-015-giorgian-de-arrascaeta",
+    "nome": "Giorgian de Arrascaeta",
+    "clube_id": 10,
+    "posicao_grupo": "Meio-campista",
+    "idade": null,
+    "vinculo": "pendente_de_validacao",
+    "ovr_usuario": 85
+  },
+  {
+    "id": "flamengo-016-jorge-carrascal",
+    "nome": "Jorge Carrascal",
+    "clube_id": 10,
+    "posicao_grupo": "Meio-campista",
+    "idade": null,
+    "vinculo": "pendente_de_validacao",
+    "ovr_usuario": 80
+  },
+  {
+    "id": "flamengo-017-nicolas-de-la-cruz",
+    "nome": "Nicolás de la Cruz",
+    "clube_id": 10,
+    "posicao_grupo": "Meio-campista",
+    "idade": null,
+    "vinculo": "pendente_de_validacao"
+  },
+  {
+    "id": "flamengo-018-lucas-paqueta",
+    "nome": "Lucas Paquetá",
+    "clube_id": 10,
+    "posicao_grupo": "Meio-campista",
+    "idade": null,
+    "vinculo": "pendente_de_validacao"
+  },
+  {
+    "id": "flamengo-019-jorginho",
+    "nome": "Jorginho",
+    "clube_id": 10,
+    "posicao_grupo": "Meio-campista",
+    "idade": null,
+    "vinculo": "pendente_de_validacao",
+    "ovr_usuario": 83
+  },
+  {
+    "id": "flamengo-020-evertton-araujo",
+    "nome": "Evertton Araújo",
+    "clube_id": 10,
+    "posicao_grupo": "Meio-campista",
+    "idade": null,
+    "vinculo": "pendente_de_validacao"
+  },
+  {
+    "id": "flamengo-021-luiz-araujo",
+    "nome": "Luiz Araújo",
+    "clube_id": 10,
+    "posicao_grupo": "Atacante",
+    "idade": null,
+    "vinculo": "pendente_de_validacao"
+  },
+  {
+    "id": "flamengo-022-pedro",
+    "nome": "Pedro",
+    "clube_id": 10,
+    "posicao_grupo": "Atacante",
+    "idade": null,
+    "vinculo": "pendente_de_validacao",
+    "ovr_usuario": 84
+  },
+  {
+    "id": "flamengo-023-anthony-valencia",
+    "nome": "Anthony Valencia",
+    "clube_id": 10,
+    "posicao_grupo": "Atacante",
+    "idade": null,
+    "vinculo": "pendente_de_validacao"
+  },
+  {
+    "id": "flamengo-024-samuel-lino",
+    "nome": "Samuel Lino",
+    "clube_id": 10,
+    "posicao_grupo": "Atacante",
+    "idade": null,
+    "vinculo": "pendente_de_validacao",
+    "ovr_usuario": 81
+  },
+  {
+    "id": "flamengo-025-gonzalo-plata",
+    "nome": "Gonzalo Plata",
+    "clube_id": 10,
+    "posicao_grupo": "Atacante",
+    "idade": null,
+    "vinculo": "pendente_de_validacao"
+  },
+  {
+    "id": "flamengo-026-bruno-henrique",
+    "nome": "Bruno Henrique",
+    "clube_id": 10,
+    "posicao_grupo": "Atacante",
+    "idade": null,
+    "vinculo": "pendente_de_validacao"
+  },
+  {
+    "id": "flamengo-027-joaquin-freitas",
+    "nome": "Joaquín Freitas",
+    "clube_id": 10,
+    "posicao_grupo": "Atacante",
+    "idade": null,
+    "vinculo": "pendente_de_validacao"
+  },
+  {
+    "id": "fluminense-001-fabio",
+    "nome": "Fábio",
+    "clube_id": 11,
+    "posicao_grupo": "Goleiro",
+    "idade": null,
+    "vinculo": "pendente_de_validacao",
+    "ovr_usuario": 81
+  },
+  {
+    "id": "fluminense-002-marcelo-pitaluga",
+    "nome": "Marcelo Pitaluga",
+    "clube_id": 11,
+    "posicao_grupo": "Goleiro",
+    "idade": null,
+    "vinculo": "pendente_de_validacao"
+  },
+  {
+    "id": "fluminense-003-vitor-eudes",
+    "nome": "Vitor Eudes",
+    "clube_id": 11,
+    "posicao_grupo": "Goleiro",
+    "idade": null,
+    "vinculo": "pendente_de_validacao"
+  },
+  {
+    "id": "fluminense-004-samuel-xavier",
+    "nome": "Samuel Xavier",
+    "clube_id": 11,
+    "posicao_grupo": "Defensor",
+    "idade": null,
+    "vinculo": "pendente_de_validacao"
+  },
+  {
+    "id": "fluminense-005-thiago-silva",
+    "nome": "Thiago Silva",
+    "clube_id": 11,
+    "posicao_grupo": "Defensor",
+    "idade": null,
+    "vinculo": "pendente_de_validacao",
+    "ovr_usuario": 82
+  },
+  {
+    "id": "fluminense-006-ignacio",
+    "nome": "Ignácio",
+    "clube_id": 11,
+    "posicao_grupo": "Defensor",
+    "idade": null,
+    "vinculo": "pendente_de_validacao",
+    "ovr_usuario": 76
+  },
+  {
+    "id": "fluminense-007-rene",
+    "nome": "Renê",
+    "clube_id": 11,
+    "posicao_grupo": "Defensor",
+    "idade": null,
+    "vinculo": "pendente_de_validacao",
+    "ovr_usuario": 71
+  },
+  {
+    "id": "fluminense-008-guilherme-arana",
+    "nome": "Guilherme Arana",
+    "clube_id": 11,
+    "posicao_grupo": "Defensor",
+    "idade": null,
+    "vinculo": "pendente_de_validacao"
+  },
+  {
+    "id": "fluminense-009-igor-rabello",
+    "nome": "Igor Rabello",
+    "clube_id": 11,
+    "posicao_grupo": "Defensor",
+    "idade": null,
+    "vinculo": "pendente_de_validacao"
+  },
+  {
+    "id": "fluminense-010-juan-pablo-freytes",
+    "nome": "Juan Pablo Freytes",
+    "clube_id": 11,
+    "posicao_grupo": "Defensor",
+    "idade": null,
+    "vinculo": "pendente_de_validacao"
+  },
+  {
+    "id": "fluminense-011-guga",
+    "nome": "Guga",
+    "clube_id": 11,
+    "posicao_grupo": "Defensor",
+    "idade": null,
+    "vinculo": "pendente_de_validacao",
+    "ovr_usuario": 75
+  },
+  {
+    "id": "fluminense-012-julian-millan",
+    "nome": "Julián Millán",
+    "clube_id": 11,
+    "posicao_grupo": "Defensor",
+    "idade": null,
+    "vinculo": "pendente_de_validacao"
+  },
+  {
+    "id": "fluminense-013-jemmes",
+    "nome": "Jemmes",
+    "clube_id": 11,
+    "posicao_grupo": "Defensor",
+    "idade": null,
+    "vinculo": "pendente_de_validacao"
+  },
+  {
+    "id": "fluminense-014-julio-fidelis",
+    "nome": "Júlio Fidélis",
+    "clube_id": 11,
+    "posicao_grupo": "Defensor",
+    "idade": null,
+    "vinculo": "pendente_de_validacao"
+  },
+  {
+    "id": "fluminense-015-martinelli",
+    "nome": "Martinelli",
+    "clube_id": 11,
+    "posicao_grupo": "Meio-campista",
+    "idade": null,
+    "vinculo": "pendente_de_validacao"
+  },
+  {
+    "id": "fluminense-016-ganso",
+    "nome": "Ganso",
+    "clube_id": 11,
+    "posicao_grupo": "Meio-campista",
+    "idade": null,
+    "vinculo": "pendente_de_validacao"
+  },
+  {
+    "id": "fluminense-017-nonato",
+    "nome": "Nonato",
+    "clube_id": 11,
+    "posicao_grupo": "Meio-campista",
+    "idade": null,
+    "vinculo": "pendente_de_validacao",
+    "ovr_usuario": 75
+  },
+  {
+    "id": "fluminense-018-alisson",
+    "nome": "Alisson",
+    "clube_id": 11,
+    "posicao_grupo": "Meio-campista",
+    "idade": null,
+    "vinculo": "pendente_de_validacao"
+  },
+  {
+    "id": "fluminense-019-lucho-acosta",
+    "nome": "Lucho Acosta",
+    "clube_id": 11,
+    "posicao_grupo": "Meio-campista",
+    "idade": null,
+    "vinculo": "pendente_de_validacao",
+    "ovr_usuario": 78
+  },
+  {
+    "id": "fluminense-020-hercules",
+    "nome": "Hércules",
+    "clube_id": 11,
+    "posicao_grupo": "Meio-campista",
+    "idade": null,
+    "vinculo": "pendente_de_validacao",
+    "ovr_usuario": 76
+  },
+  {
+    "id": "fluminense-021-otavio",
+    "nome": "Otávio",
+    "clube_id": 11,
+    "posicao_grupo": "Meio-campista",
+    "idade": null,
+    "vinculo": "pendente_de_validacao"
+  },
+  {
+    "id": "fluminense-022-jefferson-savarino",
+    "nome": "Jefferson Savarino",
+    "clube_id": 11,
+    "posicao_grupo": "Meio-campista",
+    "idade": null,
+    "vinculo": "pendente_de_validacao"
+  },
+  {
+    "id": "fluminense-023-hulk",
+    "nome": "Hulk",
+    "clube_id": 11,
+    "posicao_grupo": "Atacante",
+    "idade": null,
+    "vinculo": "pendente_de_validacao",
+    "ovr_usuario": 77
+  },
+  {
+    "id": "fluminense-024-john-kennedy",
+    "nome": "John Kennedy",
+    "clube_id": 11,
+    "posicao_grupo": "Atacante",
+    "idade": null,
+    "vinculo": "pendente_de_validacao",
+    "ovr_usuario": 77
+  },
+  {
+    "id": "fluminense-025-german-cano",
+    "nome": "Germán Cano",
+    "clube_id": 11,
+    "posicao_grupo": "Atacante",
+    "idade": null,
+    "vinculo": "pendente_de_validacao"
+  },
+  {
+    "id": "fluminense-026-agustin-canobbio",
+    "nome": "Agustín Canobbio",
+    "clube_id": 11,
+    "posicao_grupo": "Atacante",
+    "idade": null,
+    "vinculo": "pendente_de_validacao",
+    "ovr_usuario": 76
+  },
+  {
+    "id": "fluminense-027-rodrigo-castillo",
+    "nome": "Rodrigo Castillo",
+    "clube_id": 11,
+    "posicao_grupo": "Atacante",
+    "idade": null,
+    "vinculo": "pendente_de_validacao"
+  },
+  {
+    "id": "fluminense-028-riquelme",
+    "nome": "Riquelme",
+    "clube_id": 11,
+    "posicao_grupo": "Atacante",
+    "idade": null,
+    "vinculo": "pendente_de_validacao"
+  },
+  {
+    "id": "fluminense-029-yeferson-soteldo",
+    "nome": "Yeferson Soteldo",
+    "clube_id": 11,
+    "posicao_grupo": "Atacante",
+    "idade": null,
+    "vinculo": "pendente_de_validacao",
+    "ovr_usuario": 75
+  },
+  {
+    "id": "fluminense-030-kevin-serna",
+    "nome": "Kevin Serna",
+    "clube_id": 11,
+    "posicao_grupo": "Atacante",
+    "idade": null,
+    "vinculo": "pendente_de_validacao",
+    "ovr_usuario": 77
+  },
+  {
+    "id": "gremio-001-thiago-beltrame",
+    "nome": "Thiago Beltrame",
+    "clube_id": 12,
+    "posicao_grupo": "Goleiro",
+    "idade": null,
+    "vinculo": "pendente_de_validacao"
+  },
+  {
+    "id": "gremio-002-weverton",
+    "nome": "Weverton",
+    "clube_id": 12,
+    "posicao_grupo": "Goleiro",
+    "idade": null,
+    "vinculo": "pendente_de_validacao",
+    "ovr_usuario": 83
+  },
+  {
+    "id": "gremio-003-gabriel-grando",
+    "nome": "Gabriel Grando",
+    "clube_id": 12,
+    "posicao_grupo": "Goleiro",
+    "idade": null,
+    "vinculo": "pendente_de_validacao"
+  },
+  {
+    "id": "gremio-004-gabriel-menegon",
+    "nome": "Gabriel Menegon",
+    "clube_id": 12,
+    "posicao_grupo": "Goleiro",
+    "idade": null,
+    "vinculo": "pendente_de_validacao"
+  },
+  {
+    "id": "gremio-005-marlon",
+    "nome": "Marlon",
+    "clube_id": 12,
+    "posicao_grupo": "Lateral",
+    "idade": null,
+    "vinculo": "pendente_de_validacao",
+    "ovr_usuario": 78
+  },
+  {
+    "id": "gremio-006-pedro-gabriel",
+    "nome": "Pedro Gabriel",
+    "clube_id": 12,
+    "posicao_grupo": "Lateral",
+    "idade": null,
+    "vinculo": "pendente_de_validacao"
+  },
+  {
+    "id": "gremio-007-caio-paulista",
+    "nome": "Caio Paulista",
+    "clube_id": 12,
+    "posicao_grupo": "Lateral",
+    "idade": null,
+    "vinculo": "pendente_de_validacao"
+  },
+  {
+    "id": "gremio-008-joao-pedro",
+    "nome": "João Pedro",
+    "clube_id": 12,
+    "posicao_grupo": "Lateral",
+    "idade": null,
+    "vinculo": "pendente_de_validacao",
+    "ovr_usuario": 75
+  },
+  {
+    "id": "gremio-009-marcos-rocha",
+    "nome": "Marcos Rocha",
+    "clube_id": 12,
+    "posicao_grupo": "Lateral",
+    "idade": null,
+    "vinculo": "pendente_de_validacao"
+  },
+  {
+    "id": "gremio-010-wagner-leonardo",
+    "nome": "Wagner Leonardo",
+    "clube_id": 12,
+    "posicao_grupo": "Zagueiro",
+    "idade": null,
+    "vinculo": "pendente_de_validacao"
+  },
+  {
+    "id": "gremio-011-wallace",
+    "nome": "Wallace",
+    "clube_id": 12,
+    "posicao_grupo": "Zagueiro",
+    "idade": null,
+    "vinculo": "pendente_de_validacao",
+    "ovr_usuario": 77
+  },
+  {
+    "id": "gremio-012-fabian-balbuena",
+    "nome": "Fabián Balbuena",
+    "clube_id": 12,
+    "posicao_grupo": "Zagueiro",
+    "idade": null,
+    "vinculo": "pendente_de_validacao",
+    "ovr_usuario": 74
+  },
+  {
+    "id": "gremio-013-gustavo-martins",
+    "nome": "Gustavo Martins",
+    "clube_id": 12,
+    "posicao_grupo": "Zagueiro",
+    "idade": null,
+    "vinculo": "pendente_de_validacao",
+    "ovr_usuario": 74
+  },
+  {
+    "id": "gremio-014-kannemann",
+    "nome": "Kannemann",
+    "clube_id": 12,
+    "posicao_grupo": "Zagueiro",
+    "idade": null,
+    "vinculo": "pendente_de_validacao"
+  },
+  {
+    "id": "gremio-015-luis-eduardo",
+    "nome": "Luis Eduardo",
+    "clube_id": 12,
+    "posicao_grupo": "Zagueiro",
+    "idade": null,
+    "vinculo": "pendente_de_validacao"
+  },
+  {
+    "id": "gremio-016-viery",
+    "nome": "Viery",
+    "clube_id": 12,
+    "posicao_grupo": "Zagueiro",
+    "idade": null,
+    "vinculo": "pendente_de_validacao"
+  },
+  {
+    "id": "gremio-017-villasanti",
+    "nome": "Villasanti",
+    "clube_id": 12,
+    "posicao_grupo": "Meio-campo",
+    "idade": null,
+    "vinculo": "pendente_de_validacao"
+  },
+  {
+    "id": "gremio-018-willian",
+    "nome": "Willian",
+    "clube_id": 12,
+    "posicao_grupo": "Meio-campo",
+    "idade": null,
+    "vinculo": "pendente_de_validacao"
+  },
+  {
+    "id": "gremio-019-dodi",
+    "nome": "Dodi",
+    "clube_id": 12,
+    "posicao_grupo": "Meio-campo",
+    "idade": null,
+    "vinculo": "pendente_de_validacao",
+    "ovr_usuario": 73
+  },
+  {
+    "id": "gremio-020-erick-noriega",
+    "nome": "Erick Noriega",
+    "clube_id": 12,
+    "posicao_grupo": "Meio-campo",
+    "idade": null,
+    "vinculo": "pendente_de_validacao",
+    "ovr_usuario": 75
+  },
+  {
+    "id": "gremio-021-juan-nardoni",
+    "nome": "Juan Nardoni",
+    "clube_id": 12,
+    "posicao_grupo": "Meio-campo",
+    "idade": null,
+    "vinculo": "pendente_de_validacao"
+  },
+  {
+    "id": "gremio-022-leonel-perez",
+    "nome": "Leonel Pérez",
+    "clube_id": 12,
+    "posicao_grupo": "Meio-campo",
+    "idade": null,
+    "vinculo": "pendente_de_validacao"
+  },
+  {
+    "id": "gremio-023-monsalve",
+    "nome": "Monsalve",
+    "clube_id": 12,
+    "posicao_grupo": "Meio-campo",
+    "idade": null,
+    "vinculo": "pendente_de_validacao"
+  },
+  {
+    "id": "gremio-024-riquelme",
+    "nome": "Riquelme",
+    "clube_id": 12,
+    "posicao_grupo": "Meio-campo",
+    "idade": null,
+    "vinculo": "pendente_de_validacao"
+  },
+  {
+    "id": "gremio-025-roger",
+    "nome": "Roger",
+    "clube_id": 12,
+    "posicao_grupo": "Meio-campo",
+    "idade": null,
+    "vinculo": "pendente_de_validacao"
+  },
+  {
+    "id": "gremio-026-tiago",
+    "nome": "Tiago",
+    "clube_id": 12,
+    "posicao_grupo": "Meio-campo",
+    "idade": null,
+    "vinculo": "pendente_de_validacao"
+  },
+  {
+    "id": "gremio-027-pavon",
+    "nome": "Pavón",
+    "clube_id": 12,
+    "posicao_grupo": "Atacante",
+    "idade": null,
+    "vinculo": "pendente_de_validacao"
+  },
+  {
+    "id": "gremio-028-tete",
+    "nome": "Tetê",
+    "clube_id": 12,
+    "posicao_grupo": "Atacante",
+    "idade": null,
+    "vinculo": "pendente_de_validacao"
+  },
+  {
+    "id": "gremio-029-amuzu",
+    "nome": "Amuzu",
+    "clube_id": 12,
+    "posicao_grupo": "Atacante",
+    "idade": null,
+    "vinculo": "pendente_de_validacao",
+    "ovr_usuario": 78
+  },
+  {
+    "id": "gremio-030-braithwaite",
+    "nome": "Braithwaite",
+    "clube_id": 12,
+    "posicao_grupo": "Atacante",
+    "idade": null,
+    "vinculo": "pendente_de_validacao"
+  },
+  {
+    "id": "gremio-031-carlos-vinicius",
+    "nome": "Carlos Vinícius",
+    "clube_id": 12,
+    "posicao_grupo": "Atacante",
+    "idade": null,
+    "vinculo": "pendente_de_validacao",
+    "ovr_usuario": 80
+  },
+  {
+    "id": "gremio-032-enamorado",
+    "nome": "Enamorado",
+    "clube_id": 12,
+    "posicao_grupo": "Atacante",
+    "idade": null,
+    "vinculo": "pendente_de_validacao"
+  },
+  {
+    "id": "gremio-033-gabriel-mec",
+    "nome": "Gabriel Mec",
+    "clube_id": 12,
+    "posicao_grupo": "Atacante",
+    "idade": null,
+    "vinculo": "pendente_de_validacao"
+  },
+  {
+    "id": "internacional-001-sergio-rochet",
+    "nome": "Sergio Rochet",
+    "clube_id": 13,
+    "posicao_grupo": "Goleiro",
+    "idade": null,
+    "vinculo": "pendente_de_validacao",
+    "ovr_usuario": 80
+  },
+  {
+    "id": "internacional-002-anthoni",
+    "nome": "Anthoni",
+    "clube_id": 13,
+    "posicao_grupo": "Goleiro",
+    "idade": null,
+    "vinculo": "pendente_de_validacao"
+  },
+  {
+    "id": "internacional-003-kauan-jesus",
+    "nome": "Kauan Jesus",
+    "clube_id": 13,
+    "posicao_grupo": "Goleiro",
+    "idade": null,
+    "vinculo": "pendente_de_validacao"
+  },
+  {
+    "id": "internacional-004-matheus-cunha",
+    "nome": "Matheus Cunha",
+    "clube_id": 13,
+    "posicao_grupo": "Goleiro",
+    "idade": null,
+    "vinculo": "pendente_de_validacao"
+  },
+  {
+    "id": "internacional-005-diego-esser",
+    "nome": "Diego Esser",
+    "clube_id": 13,
+    "posicao_grupo": "Goleiro",
+    "idade": null,
+    "vinculo": "pendente_de_validacao"
+  },
+  {
+    "id": "internacional-006-felix-torres",
+    "nome": "Félix Torres",
+    "clube_id": 13,
+    "posicao_grupo": "Zagueiro",
+    "idade": null,
+    "vinculo": "pendente_de_validacao"
+  },
+  {
+    "id": "internacional-007-gabriel-mercado",
+    "nome": "Gabriel Mercado",
+    "clube_id": 13,
+    "posicao_grupo": "Zagueiro",
+    "idade": null,
+    "vinculo": "pendente_de_validacao",
+    "ovr_usuario": 78
+  },
+  {
+    "id": "internacional-008-guillermo-maripan",
+    "nome": "Guillermo Maripán",
+    "clube_id": 13,
+    "posicao_grupo": "Zagueiro",
+    "idade": null,
+    "vinculo": "pendente_de_validacao",
+    "ovr_usuario": 76
+  },
+  {
+    "id": "internacional-009-juninho",
+    "nome": "Juninho",
+    "clube_id": 13,
+    "posicao_grupo": "Zagueiro",
+    "idade": null,
+    "vinculo": "pendente_de_validacao",
+    "ovr_usuario": 74
+  },
+  {
+    "id": "internacional-010-victor-gabriel",
+    "nome": "Victor Gabriel",
+    "clube_id": 13,
+    "posicao_grupo": "Zagueiro",
+    "idade": null,
+    "vinculo": "pendente_de_validacao"
+  },
+  {
+    "id": "internacional-011-bernabei",
+    "nome": "Bernabei",
+    "clube_id": 13,
+    "posicao_grupo": "Lateral",
+    "idade": null,
+    "vinculo": "pendente_de_validacao",
+    "ovr_usuario": 78
+  },
+  {
+    "id": "internacional-012-braian-aguirre",
+    "nome": "Braian Aguirre",
+    "clube_id": 13,
+    "posicao_grupo": "Lateral",
+    "idade": null,
+    "vinculo": "pendente_de_validacao",
+    "ovr_usuario": 72
+  },
+  {
+    "id": "internacional-013-bruno-gomes",
+    "nome": "Bruno Gomes",
+    "clube_id": 13,
+    "posicao_grupo": "Lateral",
+    "idade": null,
+    "vinculo": "pendente_de_validacao",
+    "ovr_usuario": 79
+  },
+  {
+    "id": "internacional-014-matheus-bahia",
+    "nome": "Matheus Bahia",
+    "clube_id": 13,
+    "posicao_grupo": "Lateral",
+    "idade": null,
+    "vinculo": "pendente_de_validacao",
+    "ovr_usuario": 73
+  },
+  {
+    "id": "internacional-015-alan-patrick",
+    "nome": "Alan Patrick",
+    "clube_id": 13,
+    "posicao_grupo": "Meio-campista",
+    "idade": null,
+    "vinculo": "pendente_de_validacao",
+    "ovr_usuario": 81
+  },
+  {
+    "id": "internacional-016-bruno-henrique",
+    "nome": "Bruno Henrique",
+    "clube_id": 13,
+    "posicao_grupo": "Meio-campista",
+    "idade": null,
+    "vinculo": "pendente_de_validacao"
+  },
+  {
+    "id": "internacional-017-calebe",
+    "nome": "Calebe",
+    "clube_id": 13,
+    "posicao_grupo": "Meio-campista",
+    "idade": null,
+    "vinculo": "pendente_de_validacao"
+  },
+  {
+    "id": "internacional-018-niclas-eliasson",
+    "nome": "Niclas Eliasson",
+    "clube_id": 13,
+    "posicao_grupo": "Meio-campista",
+    "idade": null,
+    "vinculo": "pendente_de_validacao"
+  },
+  {
+    "id": "internacional-019-paulinho",
+    "nome": "Paulinho",
+    "clube_id": 13,
+    "posicao_grupo": "Meio-campista",
+    "idade": null,
+    "vinculo": "pendente_de_validacao"
+  },
+  {
+    "id": "internacional-020-ronaldo",
+    "nome": "Ronaldo",
+    "clube_id": 13,
+    "posicao_grupo": "Meio-campista",
+    "idade": null,
+    "vinculo": "pendente_de_validacao"
+  },
+  {
+    "id": "internacional-021-thiago-maia",
+    "nome": "Thiago Maia",
+    "clube_id": 13,
+    "posicao_grupo": "Meio-campista",
+    "idade": null,
+    "vinculo": "pendente_de_validacao",
+    "ovr_usuario": 75
+  },
+  {
+    "id": "internacional-022-rodrigo-villagra",
+    "nome": "Rodrigo Villagra",
+    "clube_id": 13,
+    "posicao_grupo": "Meio-campista",
+    "idade": null,
+    "vinculo": "pendente_de_validacao",
+    "ovr_usuario": 79
+  },
+  {
+    "id": "internacional-023-alerrandro",
+    "nome": "Alerrandro",
+    "clube_id": 13,
+    "posicao_grupo": "Atacante",
+    "idade": null,
+    "vinculo": "pendente_de_validacao",
+    "ovr_usuario": 71
+  },
+  {
+    "id": "internacional-024-johan-carbonero",
+    "nome": "Johan Carbonero",
+    "clube_id": 13,
+    "posicao_grupo": "Atacante",
+    "idade": null,
+    "vinculo": "pendente_de_validacao",
+    "ovr_usuario": 78
+  },
+  {
+    "id": "internacional-025-kayky",
+    "nome": "Kayky",
+    "clube_id": 13,
+    "posicao_grupo": "Atacante",
+    "idade": null,
+    "vinculo": "pendente_de_validacao"
+  },
+  {
+    "id": "internacional-026-antonio-sanabria",
+    "nome": "Antonio Sanabria",
+    "clube_id": 13,
+    "posicao_grupo": "Atacante",
+    "idade": null,
+    "vinculo": "pendente_de_validacao"
+  },
+  {
+    "id": "internacional-027-vitinho",
+    "nome": "Vitinho",
+    "clube_id": 13,
+    "posicao_grupo": "Atacante",
+    "idade": null,
+    "vinculo": "pendente_de_validacao",
+    "ovr_usuario": 77
+  },
+  {
+    "id": "mirassol-001-georgemy",
+    "nome": "Georgemy",
+    "clube_id": 14,
+    "posicao_grupo": "Goleiro",
+    "idade": 30,
+    "vinculo": "pendente_de_validacao"
+  },
+  {
+    "id": "mirassol-002-walter",
+    "nome": "Walter",
+    "clube_id": 14,
+    "posicao_grupo": "Goleiro",
+    "idade": 38,
+    "vinculo": "pendente_de_validacao"
+  },
+  {
+    "id": "mirassol-003-alex-muralha",
+    "nome": "Alex Muralha",
+    "clube_id": 14,
+    "posicao_grupo": "Goleiro",
+    "idade": 36,
+    "vinculo": "pendente_de_validacao"
+  },
+  {
+    "id": "mirassol-004-thomazella",
+    "nome": "Thomazella",
+    "clube_id": 14,
+    "posicao_grupo": "Goleiro",
+    "idade": 35,
+    "vinculo": "pendente_de_validacao"
+  },
+  {
+    "id": "mirassol-005-lucas-oliveira",
+    "nome": "Lucas Oliveira",
+    "clube_id": 14,
+    "posicao_grupo": "Defensor",
+    "idade": 29,
+    "vinculo": "pendente_de_validacao"
+  },
+  {
+    "id": "mirassol-006-willian-machado",
+    "nome": "Willian Machado",
+    "clube_id": 14,
+    "posicao_grupo": "Defensor",
+    "idade": 29,
+    "vinculo": "pendente_de_validacao"
+  },
+  {
+    "id": "mirassol-007-reinaldo",
+    "nome": "Reinaldo",
+    "clube_id": 14,
+    "posicao_grupo": "Defensor",
+    "idade": 36,
+    "vinculo": "pendente_de_validacao"
+  },
+  {
+    "id": "mirassol-008-victor-luis",
+    "nome": "Victor Luis",
+    "clube_id": 14,
+    "posicao_grupo": "Defensor",
+    "idade": 32,
+    "vinculo": "pendente_de_validacao"
+  },
+  {
+    "id": "mirassol-009-elias",
+    "nome": "Elias",
+    "clube_id": 14,
+    "posicao_grupo": "Defensor",
+    "idade": 26,
+    "vinculo": "pendente_de_validacao"
+  },
+  {
+    "id": "mirassol-010-daniel-borges",
+    "nome": "Daniel Borges",
+    "clube_id": 14,
+    "posicao_grupo": "Defensor",
+    "idade": 32,
+    "vinculo": "pendente_de_validacao"
+  },
+  {
+    "id": "mirassol-011-igor-formiga",
+    "nome": "Igor Formiga",
+    "clube_id": 14,
+    "posicao_grupo": "Defensor",
+    "idade": 27,
+    "vinculo": "pendente_de_validacao"
+  },
+  {
+    "id": "mirassol-012-joao-victor",
+    "nome": "João Victor",
+    "clube_id": 14,
+    "posicao_grupo": "Defensor",
+    "idade": 28,
+    "vinculo": "pendente_de_validacao"
+  },
+  {
+    "id": "mirassol-013-gabriel-knesowitsch",
+    "nome": "Gabriel Knesowitsch",
+    "clube_id": 14,
+    "posicao_grupo": "Defensor",
+    "idade": 22,
+    "vinculo": "pendente_de_validacao"
+  },
+  {
+    "id": "mirassol-014-marcelinho",
+    "nome": "Marcelinho",
+    "clube_id": 14,
+    "posicao_grupo": "Defensor",
+    "idade": null,
+    "vinculo": "pendente_de_validacao"
+  },
+  {
+    "id": "mirassol-015-japa",
+    "nome": "Japa",
+    "clube_id": 14,
+    "posicao_grupo": "Meio-campista",
+    "idade": 21,
+    "vinculo": "pendente_de_validacao"
+  },
+  {
+    "id": "mirassol-016-shaylon",
+    "nome": "Shaylon",
+    "clube_id": 14,
+    "posicao_grupo": "Meio-campista",
+    "idade": 28,
+    "vinculo": "pendente_de_validacao"
+  },
+  {
+    "id": "mirassol-017-denilson",
+    "nome": "Denilson",
+    "clube_id": 14,
+    "posicao_grupo": "Meio-campista",
+    "idade": 24,
+    "vinculo": "pendente_de_validacao"
+  },
+  {
+    "id": "mirassol-018-chico-kim",
+    "nome": "Chico Kim",
+    "clube_id": 14,
+    "posicao_grupo": "Meio-campista",
+    "idade": 34,
+    "vinculo": "pendente_de_validacao"
+  },
+  {
+    "id": "mirassol-019-jose-aldo",
+    "nome": "José Aldo",
+    "clube_id": 14,
+    "posicao_grupo": "Meio-campista",
+    "idade": 27,
+    "vinculo": "pendente_de_validacao"
+  },
+  {
+    "id": "mirassol-020-neto-moura",
+    "nome": "Neto Moura",
+    "clube_id": 14,
+    "posicao_grupo": "Meio-campista",
+    "idade": null,
+    "vinculo": "pendente_de_validacao"
+  },
+  {
+    "id": "mirassol-021-eduardo",
+    "nome": "Eduardo",
+    "clube_id": 14,
+    "posicao_grupo": "Meio-campista",
+    "idade": 36,
+    "vinculo": "pendente_de_validacao"
+  },
+  {
+    "id": "mirassol-022-gustavo-cazonatti",
+    "nome": "Gustavo Cazonatti",
+    "clube_id": 14,
+    "posicao_grupo": "Meio-campista",
+    "idade": 29,
+    "vinculo": "pendente_de_validacao"
+  },
+  {
+    "id": "mirassol-023-wallisson",
+    "nome": "Wallisson",
+    "clube_id": 14,
+    "posicao_grupo": "Meio-campista",
+    "idade": 28,
+    "vinculo": "pendente_de_validacao"
+  },
+  {
+    "id": "mirassol-024-ze-roberto",
+    "nome": "Zé Roberto",
+    "clube_id": 14,
+    "posicao_grupo": "Atacante",
+    "idade": 32,
+    "vinculo": "pendente_de_validacao"
+  },
+  {
+    "id": "mirassol-025-negueba",
+    "nome": "Negueba",
+    "clube_id": 14,
+    "posicao_grupo": "Atacante",
+    "idade": null,
+    "vinculo": "pendente_de_validacao"
+  },
+  {
+    "id": "mirassol-026-gustavo-silva",
+    "nome": "Gustavo Silva",
+    "clube_id": 14,
+    "posicao_grupo": "Atacante",
+    "idade": 28,
+    "vinculo": "pendente_de_validacao"
+  },
+  {
+    "id": "mirassol-027-fernandinho",
+    "nome": "Fernandinho",
+    "clube_id": 14,
+    "posicao_grupo": "Atacante",
+    "idade": 28,
+    "vinculo": "pendente_de_validacao"
+  },
+  {
+    "id": "mirassol-028-bruno-santos",
+    "nome": "Bruno Santos",
+    "clube_id": 14,
+    "posicao_grupo": "Atacante",
+    "idade": 29,
+    "vinculo": "pendente_de_validacao"
+  },
+  {
+    "id": "mirassol-029-alesson",
+    "nome": "Alesson",
+    "clube_id": 14,
+    "posicao_grupo": "Atacante",
+    "idade": 26,
+    "vinculo": "pendente_de_validacao"
+  },
+  {
+    "id": "mirassol-030-edson-carioca",
+    "nome": "Edson Carioca",
+    "clube_id": 14,
+    "posicao_grupo": "Atacante",
+    "idade": 28,
+    "vinculo": "pendente_de_validacao"
+  },
+  {
+    "id": "mirassol-031-carlos-eduardo",
+    "nome": "Carlos Eduardo",
+    "clube_id": 14,
+    "posicao_grupo": "Atacante",
+    "idade": null,
+    "vinculo": "pendente_de_validacao"
+  },
+  {
+    "id": "mirassol-032-andre-luis",
+    "nome": "André Luis",
+    "clube_id": 14,
+    "posicao_grupo": "Atacante",
+    "idade": 32,
+    "vinculo": "pendente_de_validacao"
+  },
+  {
+    "id": "palmeiras-001-bruno-bertinato",
+    "nome": "Bruno Bertinato",
+    "clube_id": 15,
+    "posicao_grupo": "Goleiro",
+    "idade": null,
+    "vinculo": "pendente_de_validacao"
+  },
+  {
+    "id": "palmeiras-002-carlos-miguel",
+    "nome": "Carlos Miguel",
+    "clube_id": 15,
+    "posicao_grupo": "Goleiro",
+    "idade": null,
+    "vinculo": "pendente_de_validacao",
+    "ovr_usuario": 78
+  },
+  {
+    "id": "palmeiras-003-marcelo-lomba",
+    "nome": "Marcelo Lomba",
+    "clube_id": 15,
+    "posicao_grupo": "Goleiro",
+    "idade": null,
+    "vinculo": "pendente_de_validacao"
+  },
+  {
+    "id": "palmeiras-004-alexander-barboza",
+    "nome": "Alexander Barboza",
+    "clube_id": 15,
+    "posicao_grupo": "Zagueiro",
+    "idade": null,
+    "vinculo": "pendente_de_validacao",
+    "ovr_usuario": 77
+  },
+  {
+    "id": "palmeiras-005-benedetti",
+    "nome": "Benedetti",
+    "clube_id": 15,
+    "posicao_grupo": "Zagueiro",
+    "idade": null,
+    "vinculo": "pendente_de_validacao",
+    "ovr_usuario": 75
+  },
+  {
+    "id": "palmeiras-006-bruno-fuchs",
+    "nome": "Bruno Fuchs",
+    "clube_id": 15,
+    "posicao_grupo": "Zagueiro",
+    "idade": null,
+    "vinculo": "pendente_de_validacao",
+    "ovr_usuario": 76
+  },
+  {
+    "id": "palmeiras-007-gustavo-gomez",
+    "nome": "Gustavo Gómez",
+    "clube_id": 15,
+    "posicao_grupo": "Zagueiro",
+    "idade": null,
+    "vinculo": "pendente_de_validacao"
+  },
+  {
+    "id": "palmeiras-008-murilo",
+    "nome": "Murilo",
+    "clube_id": 15,
+    "posicao_grupo": "Zagueiro",
+    "idade": null,
+    "vinculo": "pendente_de_validacao"
+  },
+  {
+    "id": "palmeiras-009-agustin-giay",
+    "nome": "Agustín Giay",
+    "clube_id": 15,
+    "posicao_grupo": "Lateral-direito",
+    "idade": null,
+    "vinculo": "pendente_de_validacao"
+  },
+  {
+    "id": "palmeiras-010-khellven",
+    "nome": "Khellven",
+    "clube_id": 15,
+    "posicao_grupo": "Lateral-direito",
+    "idade": null,
+    "vinculo": "pendente_de_validacao",
+    "ovr_usuario": 75
+  },
+  {
+    "id": "palmeiras-011-arthur",
+    "nome": "Arthur",
+    "clube_id": 15,
+    "posicao_grupo": "Lateral-esquerdo",
+    "idade": null,
+    "vinculo": "pendente_de_validacao"
+  },
+  {
+    "id": "palmeiras-012-jefte",
+    "nome": "Jefté",
+    "clube_id": 15,
+    "posicao_grupo": "Lateral-esquerdo",
+    "idade": null,
+    "vinculo": "pendente_de_validacao"
+  },
+  {
+    "id": "palmeiras-013-joaquin-piquerez",
+    "nome": "Joaquín Piquerez",
+    "clube_id": 15,
+    "posicao_grupo": "Lateral-esquerdo",
+    "idade": null,
+    "vinculo": "pendente_de_validacao"
+  },
+  {
+    "id": "palmeiras-014-andreas-pereira",
+    "nome": "Andreas Pereira",
+    "clube_id": 15,
+    "posicao_grupo": "Meio-campista",
+    "idade": null,
+    "vinculo": "pendente_de_validacao",
+    "ovr_usuario": 80
+  },
+  {
+    "id": "palmeiras-015-emiliano-martinez",
+    "nome": "Emiliano Martínez",
+    "clube_id": 15,
+    "posicao_grupo": "Meio-campista",
+    "idade": null,
+    "vinculo": "pendente_de_validacao"
+  },
+  {
+    "id": "palmeiras-016-felipe-anderson",
+    "nome": "Felipe Anderson",
+    "clube_id": 15,
+    "posicao_grupo": "Meio-campista",
+    "idade": null,
+    "vinculo": "pendente_de_validacao"
+  },
+  {
+    "id": "palmeiras-017-larson",
+    "nome": "Larson",
+    "clube_id": 15,
+    "posicao_grupo": "Meio-campista",
+    "idade": null,
+    "vinculo": "pendente_de_validacao"
+  },
+  {
+    "id": "palmeiras-018-lucas-evangelista",
+    "nome": "Lucas Evangelista",
+    "clube_id": 15,
+    "posicao_grupo": "Meio-campista",
+    "idade": null,
+    "vinculo": "pendente_de_validacao",
+    "ovr_usuario": 74
+  },
+  {
+    "id": "palmeiras-019-marlon-freitas",
+    "nome": "Marlon Freitas",
+    "clube_id": 15,
+    "posicao_grupo": "Meio-campista",
+    "idade": null,
+    "vinculo": "pendente_de_validacao",
+    "ovr_usuario": 79
+  },
+  {
+    "id": "palmeiras-020-mauricio",
+    "nome": "Mauricio",
+    "clube_id": 15,
+    "posicao_grupo": "Meio-campista",
+    "idade": null,
+    "vinculo": "pendente_de_validacao"
+  },
+  {
+    "id": "palmeiras-021-jhon-arias",
+    "nome": "Jhon Arias",
+    "clube_id": 15,
+    "posicao_grupo": "Atacante",
+    "idade": null,
+    "vinculo": "pendente_de_validacao",
+    "ovr_usuario": 82
+  },
+  {
+    "id": "palmeiras-022-lopez",
+    "nome": "López",
+    "clube_id": 15,
+    "posicao_grupo": "Atacante",
+    "idade": null,
+    "vinculo": "pendente_de_validacao"
+  },
+  {
+    "id": "palmeiras-023-paulinho",
+    "nome": "Paulinho",
+    "clube_id": 15,
+    "posicao_grupo": "Atacante",
+    "idade": null,
+    "vinculo": "pendente_de_validacao"
+  },
+  {
+    "id": "palmeiras-024-ramon-sosa",
+    "nome": "Ramón Sosa",
+    "clube_id": 15,
+    "posicao_grupo": "Atacante",
+    "idade": null,
+    "vinculo": "pendente_de_validacao",
+    "ovr_usuario": 79
+  },
+  {
+    "id": "palmeiras-025-vitor-roque",
+    "nome": "Vitor Roque",
+    "clube_id": 15,
+    "posicao_grupo": "Atacante",
+    "idade": null,
+    "vinculo": "pendente_de_validacao",
+    "ovr_usuario": 80
+  },
+  {
+    "id": "remo-001-alexandre",
+    "nome": "Alexandre",
+    "clube_id": 16,
+    "posicao_grupo": "Goleiro",
+    "idade": null,
+    "vinculo": "pendente_de_validacao"
+  },
+  {
+    "id": "remo-002-ivan",
+    "nome": "Ivan",
+    "clube_id": 16,
+    "posicao_grupo": "Goleiro",
+    "idade": null,
+    "vinculo": "pendente_de_validacao"
+  },
+  {
+    "id": "remo-003-joao-victor",
+    "nome": "João Victor",
+    "clube_id": 16,
+    "posicao_grupo": "Goleiro",
+    "idade": null,
+    "vinculo": "pendente_de_validacao"
+  },
+  {
+    "id": "remo-004-marcelo-rangel",
+    "nome": "Marcelo Rangel",
+    "clube_id": 16,
+    "posicao_grupo": "Goleiro",
+    "idade": null,
+    "vinculo": "pendente_de_validacao"
+  },
+  {
+    "id": "remo-005-ygor-vinhas",
+    "nome": "Ygor Vinhas",
+    "clube_id": 16,
+    "posicao_grupo": "Goleiro",
+    "idade": null,
+    "vinculo": "pendente_de_validacao"
+  },
+  {
+    "id": "remo-006-duplexe-tchamba",
+    "nome": "Duplexe Tchamba",
+    "clube_id": 16,
+    "posicao_grupo": "Zagueiro",
+    "idade": null,
+    "vinculo": "pendente_de_validacao"
+  },
+  {
+    "id": "remo-007-leo-andrade",
+    "nome": "Léo Andrade",
+    "clube_id": 16,
+    "posicao_grupo": "Zagueiro",
+    "idade": null,
+    "vinculo": "pendente_de_validacao"
+  },
+  {
+    "id": "remo-008-marllon",
+    "nome": "Marllon",
+    "clube_id": 16,
+    "posicao_grupo": "Zagueiro",
+    "idade": null,
+    "vinculo": "pendente_de_validacao"
+  },
+  {
+    "id": "remo-009-matheus-felipe",
+    "nome": "Matheus Felipe",
+    "clube_id": 16,
+    "posicao_grupo": "Zagueiro",
+    "idade": null,
+    "vinculo": "pendente_de_validacao"
+  },
+  {
+    "id": "remo-010-ze-ivaldo",
+    "nome": "Zé Ivaldo",
+    "clube_id": 16,
+    "posicao_grupo": "Zagueiro",
+    "idade": null,
+    "vinculo": "pendente_de_validacao"
+  },
+  {
+    "id": "remo-011-joao-lucas",
+    "nome": "João Lucas",
+    "clube_id": 16,
+    "posicao_grupo": "Lateral",
+    "idade": null,
+    "vinculo": "pendente_de_validacao"
+  },
+  {
+    "id": "remo-012-marcelinho",
+    "nome": "Marcelinho",
+    "clube_id": 16,
+    "posicao_grupo": "Lateral",
+    "idade": null,
+    "vinculo": "pendente_de_validacao"
+  },
+  {
+    "id": "remo-013-marlon",
+    "nome": "Marlon",
+    "clube_id": 16,
+    "posicao_grupo": "Lateral",
+    "idade": null,
+    "vinculo": "pendente_de_validacao"
+  },
+  {
+    "id": "remo-014-matheus-alexandre",
+    "nome": "Matheus Alexandre",
+    "clube_id": 16,
+    "posicao_grupo": "Lateral",
+    "idade": null,
+    "vinculo": "pendente_de_validacao"
+  },
+  {
+    "id": "remo-015-mayk",
+    "nome": "Mayk",
+    "clube_id": 16,
+    "posicao_grupo": "Lateral",
+    "idade": null,
+    "vinculo": "pendente_de_validacao"
+  },
+  {
+    "id": "remo-016-edson",
+    "nome": "Edson",
+    "clube_id": 16,
+    "posicao_grupo": "Volante",
+    "idade": null,
+    "vinculo": "pendente_de_validacao"
+  },
+  {
+    "id": "remo-017-jaderson",
+    "nome": "Jaderson",
+    "clube_id": 16,
+    "posicao_grupo": "Volante",
+    "idade": null,
+    "vinculo": "pendente_de_validacao"
+  },
+  {
+    "id": "remo-018-leonel-picco",
+    "nome": "Leonel Picco",
+    "clube_id": 16,
+    "posicao_grupo": "Volante",
+    "idade": null,
+    "vinculo": "pendente_de_validacao"
+  },
+  {
+    "id": "remo-019-ze-ricardo",
+    "nome": "Zé Ricardo",
+    "clube_id": 16,
+    "posicao_grupo": "Volante",
+    "idade": null,
+    "vinculo": "pendente_de_validacao"
+  },
+  {
+    "id": "remo-020-ze-welison",
+    "nome": "Zé Welison",
+    "clube_id": 16,
+    "posicao_grupo": "Volante",
+    "idade": null,
+    "vinculo": "pendente_de_validacao"
+  },
+  {
+    "id": "remo-021-david-braga",
+    "nome": "David Braga",
+    "clube_id": 16,
+    "posicao_grupo": "Meia",
+    "idade": null,
+    "vinculo": "pendente_de_validacao"
+  },
+  {
+    "id": "remo-022-patrick",
+    "nome": "Patrick",
+    "clube_id": 16,
+    "posicao_grupo": "Meia",
+    "idade": null,
+    "vinculo": "pendente_de_validacao"
+  },
+  {
+    "id": "remo-023-vitor-bueno",
+    "nome": "Vitor Bueno",
+    "clube_id": 16,
+    "posicao_grupo": "Meia",
+    "idade": null,
+    "vinculo": "pendente_de_validacao"
+  },
+  {
+    "id": "remo-024-eduardo-melo",
+    "nome": "Eduardo Melo",
+    "clube_id": 16,
+    "posicao_grupo": "Atacante",
+    "idade": null,
+    "vinculo": "pendente_de_validacao"
+  },
+  {
+    "id": "remo-025-galeano",
+    "nome": "Galeano",
+    "clube_id": 16,
+    "posicao_grupo": "Atacante",
+    "idade": null,
+    "vinculo": "pendente_de_validacao"
+  },
+  {
+    "id": "remo-026-jaja",
+    "nome": "Jajá",
+    "clube_id": 16,
+    "posicao_grupo": "Atacante",
+    "idade": null,
+    "vinculo": "pendente_de_validacao"
+  },
+  {
+    "id": "remo-027-poveda",
+    "nome": "Poveda",
+    "clube_id": 16,
+    "posicao_grupo": "Atacante",
+    "idade": null,
+    "vinculo": "pendente_de_validacao"
+  },
+  {
+    "id": "remo-028-taliari",
+    "nome": "Taliari",
+    "clube_id": 16,
+    "posicao_grupo": "Atacante",
+    "idade": null,
+    "vinculo": "pendente_de_validacao"
+  },
+  {
+    "id": "remo-029-tico",
+    "nome": "Tico",
+    "clube_id": 16,
+    "posicao_grupo": "Atacante",
+    "idade": null,
+    "vinculo": "pendente_de_validacao"
+  },
+  {
+    "id": "remo-030-yago-pikachu",
+    "nome": "Yago Pikachu",
+    "clube_id": 16,
+    "posicao_grupo": "Atacante",
+    "idade": null,
+    "vinculo": "pendente_de_validacao"
+  },
+  {
+    "id": "santos-001-gabriel-brazao",
+    "nome": "Gabriel Brazão",
+    "clube_id": 17,
+    "posicao_grupo": "Goleiro",
+    "idade": null,
+    "vinculo": "pendente_de_validacao",
+    "ovr_usuario": 79
+  },
+  {
+    "id": "santos-002-joao-paulo",
+    "nome": "João Paulo",
+    "clube_id": 17,
+    "posicao_grupo": "Goleiro",
+    "idade": null,
+    "vinculo": "pendente_de_validacao"
+  },
+  {
+    "id": "santos-003-diogenes",
+    "nome": "Diógenes",
+    "clube_id": 17,
+    "posicao_grupo": "Goleiro",
+    "idade": null,
+    "vinculo": "pendente_de_validacao"
+  },
+  {
+    "id": "santos-004-rodrigo-falcao",
+    "nome": "Rodrigo Falcão",
+    "clube_id": 17,
+    "posicao_grupo": "Goleiro",
+    "idade": null,
+    "vinculo": "pendente_de_validacao"
+  },
+  {
+    "id": "santos-005-joao-pedro",
+    "nome": "João Pedro",
+    "clube_id": 17,
+    "posicao_grupo": "Goleiro",
+    "idade": null,
+    "vinculo": "pendente_de_validacao"
+  },
+  {
+    "id": "santos-006-rodinei",
+    "nome": "Rodinei",
+    "clube_id": 17,
+    "posicao_grupo": "Defensor",
+    "idade": null,
+    "vinculo": "pendente_de_validacao",
+    "ovr_usuario": 78
+  },
+  {
+    "id": "santos-007-igor-vinicius",
+    "nome": "Igor Vinícius",
+    "clube_id": 17,
+    "posicao_grupo": "Defensor",
+    "idade": null,
+    "vinculo": "pendente_de_validacao"
+  },
+  {
+    "id": "santos-008-lucas-verissimo",
+    "nome": "Lucas Veríssimo",
+    "clube_id": 17,
+    "posicao_grupo": "Defensor",
+    "idade": null,
+    "vinculo": "pendente_de_validacao"
+  },
+  {
+    "id": "santos-009-gonzalo-escobar",
+    "nome": "Gonzalo Escobar",
+    "clube_id": 17,
+    "posicao_grupo": "Defensor",
+    "idade": null,
+    "vinculo": "pendente_de_validacao"
+  },
+  {
+    "id": "santos-010-luan-peres",
+    "nome": "Luan Peres",
+    "clube_id": 17,
+    "posicao_grupo": "Defensor",
+    "idade": null,
+    "vinculo": "pendente_de_validacao",
+    "ovr_usuario": 71
+  },
+  {
+    "id": "santos-011-vinicius-lira",
+    "nome": "Vinicius Lira",
+    "clube_id": 17,
+    "posicao_grupo": "Defensor",
+    "idade": null,
+    "vinculo": "pendente_de_validacao"
+  },
+  {
+    "id": "santos-012-rafael-gonzaga",
+    "nome": "Rafael Gonzaga",
+    "clube_id": 17,
+    "posicao_grupo": "Defensor",
+    "idade": null,
+    "vinculo": "pendente_de_validacao"
+  },
+  {
+    "id": "santos-013-joao-ananias",
+    "nome": "João Ananias",
+    "clube_id": 17,
+    "posicao_grupo": "Defensor",
+    "idade": null,
+    "vinculo": "pendente_de_validacao"
+  },
+  {
+    "id": "santos-014-joao-alencar",
+    "nome": "João Alencar",
+    "clube_id": 17,
+    "posicao_grupo": "Defensor",
+    "idade": null,
+    "vinculo": "pendente_de_validacao",
+    "ovr_usuario": 72
+  },
+  {
+    "id": "santos-015-philippe-coutinho",
+    "nome": "Philippe Coutinho",
+    "clube_id": 17,
+    "posicao_grupo": "Meia",
+    "idade": null,
+    "vinculo": "pendente_de_validacao",
+    "ovr_usuario": 82
+  },
+  {
+    "id": "santos-016-arthur-melo",
+    "nome": "Arthur Melo",
+    "clube_id": 17,
+    "posicao_grupo": "Meia",
+    "idade": null,
+    "vinculo": "pendente_de_validacao",
+    "ovr_usuario": 78
+  },
+  {
+    "id": "santos-017-miguelito",
+    "nome": "Miguelito",
+    "clube_id": 17,
+    "posicao_grupo": "Meia",
+    "idade": null,
+    "vinculo": "pendente_de_validacao"
+  },
+  {
+    "id": "santos-018-gabriel-bontempo",
+    "nome": "Gabriel Bontempo",
+    "clube_id": 17,
+    "posicao_grupo": "Meia",
+    "idade": null,
+    "vinculo": "pendente_de_validacao"
+  },
+  {
+    "id": "santos-019-benjamin-rollheiser",
+    "nome": "Benjamín Rollheiser",
+    "clube_id": 17,
+    "posicao_grupo": "Meia",
+    "idade": null,
+    "vinculo": "pendente_de_validacao"
+  },
+  {
+    "id": "santos-020-gabriel-menino",
+    "nome": "Gabriel Menino",
+    "clube_id": 17,
+    "posicao_grupo": "Meia",
+    "idade": null,
+    "vinculo": "pendente_de_validacao"
+  },
+  {
+    "id": "santos-021-willian-arao",
+    "nome": "Willian Arão",
+    "clube_id": 17,
+    "posicao_grupo": "Meia",
+    "idade": null,
+    "vinculo": "pendente_de_validacao",
+    "ovr_usuario": 76
+  },
+  {
+    "id": "santos-022-thaciano",
+    "nome": "Thaciano",
+    "clube_id": 17,
+    "posicao_grupo": "Meia",
+    "idade": null,
+    "vinculo": "pendente_de_validacao"
+  },
+  {
+    "id": "santos-023-lima",
+    "nome": "Lima",
+    "clube_id": 17,
+    "posicao_grupo": "Meia",
+    "idade": null,
+    "vinculo": "pendente_de_validacao"
+  },
+  {
+    "id": "santos-024-joao-schmidt",
+    "nome": "João Schmidt",
+    "clube_id": 17,
+    "posicao_grupo": "Meia",
+    "idade": null,
+    "vinculo": "pendente_de_validacao"
+  },
+  {
+    "id": "santos-025-christian-oliva",
+    "nome": "Christian Oliva",
+    "clube_id": 17,
+    "posicao_grupo": "Meia",
+    "idade": null,
+    "vinculo": "pendente_de_validacao"
+  },
+  {
+    "id": "santos-026-gustavo-henrique",
+    "nome": "Gustavo Henrique",
+    "clube_id": 17,
+    "posicao_grupo": "Meia",
+    "idade": null,
+    "vinculo": "pendente_de_validacao"
+  },
+  {
+    "id": "santos-027-neymar",
+    "nome": "Neymar",
+    "clube_id": 17,
+    "posicao_grupo": "Atacante",
+    "idade": null,
+    "vinculo": "pendente_de_validacao",
+    "ovr_usuario": 86
+  },
+  {
+    "id": "santos-028-gabriel-barbosa",
+    "nome": "Gabriel Barbosa",
+    "clube_id": 17,
+    "posicao_grupo": "Atacante",
+    "idade": null,
+    "vinculo": "pendente_de_validacao",
+    "ovr_usuario": 79
+  },
+  {
+    "id": "santos-029-rony",
+    "nome": "Rony",
+    "clube_id": 17,
+    "posicao_grupo": "Atacante",
+    "idade": null,
+    "vinculo": "pendente_de_validacao"
+  },
+  {
+    "id": "santos-030-moises",
+    "nome": "Moisés",
+    "clube_id": 17,
+    "posicao_grupo": "Atacante",
+    "idade": null,
+    "vinculo": "pendente_de_validacao"
+  },
+  {
+    "id": "santos-031-nadson",
+    "nome": "Nadson",
+    "clube_id": 17,
+    "posicao_grupo": "Atacante",
+    "idade": null,
+    "vinculo": "pendente_de_validacao"
+  },
+  {
+    "id": "santos-032-mateus-xavier",
+    "nome": "Mateus Xavier",
+    "clube_id": 17,
+    "posicao_grupo": "Atacante",
+    "idade": null,
+    "vinculo": "pendente_de_validacao"
+  },
+  {
+    "id": "santos-033-gustavo-caballero",
+    "nome": "Gustavo Caballero",
+    "clube_id": 17,
+    "posicao_grupo": "Atacante",
+    "idade": null,
+    "vinculo": "pendente_de_validacao"
+  },
+  {
+    "id": "santos-034-everton-cebolinha",
+    "nome": "Everton Cebolinha",
+    "clube_id": 17,
+    "posicao_grupo": "Atacante",
+    "idade": null,
+    "vinculo": "pendente_de_validacao",
+    "ovr_usuario": 81
+  },
+  {
+    "id": "santos-035-alvaro-barreal",
+    "nome": "Álvaro Barreal",
+    "clube_id": 17,
+    "posicao_grupo": "Atacante",
+    "idade": null,
+    "vinculo": "pendente_de_validacao"
+  },
+  {
+    "id": "sao-paulo-001-rafael",
+    "nome": "Rafael",
+    "clube_id": 18,
+    "posicao_grupo": "Goleiro",
+    "idade": null,
+    "vinculo": "pendente_de_validacao",
+    "ovr_usuario": 79
+  },
+  {
+    "id": "sao-paulo-002-coronel",
+    "nome": "Coronel",
+    "clube_id": 18,
+    "posicao_grupo": "Goleiro",
+    "idade": null,
+    "vinculo": "pendente_de_validacao"
+  },
+  {
+    "id": "sao-paulo-003-joao-pedro-pantiga",
+    "nome": "João Pedro Pantiga",
+    "clube_id": 18,
+    "posicao_grupo": "Goleiro",
+    "idade": null,
+    "vinculo": "pendente_de_validacao"
+  },
+  {
+    "id": "sao-paulo-004-young",
+    "nome": "Young",
+    "clube_id": 18,
+    "posicao_grupo": "Goleiro",
+    "idade": null,
+    "vinculo": "pendente_de_validacao"
+  },
+  {
+    "id": "sao-paulo-005-rafael-toloi",
+    "nome": "Rafael Toloi",
+    "clube_id": 18,
+    "posicao_grupo": "Defensor",
+    "idade": null,
+    "vinculo": "pendente_de_validacao",
+    "ovr_usuario": 77
+  },
+  {
+    "id": "sao-paulo-006-arboleda",
+    "nome": "Arboleda",
+    "clube_id": 18,
+    "posicao_grupo": "Defensor",
+    "idade": null,
+    "vinculo": "pendente_de_validacao",
+    "ovr_usuario": 76
+  },
+  {
+    "id": "sao-paulo-007-iago",
+    "nome": "Iago",
+    "clube_id": 18,
+    "posicao_grupo": "Defensor",
+    "idade": null,
+    "vinculo": "pendente_de_validacao"
+  },
+  {
+    "id": "sao-paulo-008-enzo-diaz",
+    "nome": "Enzo Díaz",
+    "clube_id": 18,
+    "posicao_grupo": "Defensor",
+    "idade": null,
+    "vinculo": "pendente_de_validacao"
+  },
+  {
+    "id": "sao-paulo-009-wendell",
+    "nome": "Wendell",
+    "clube_id": 18,
+    "posicao_grupo": "Defensor",
+    "idade": null,
+    "vinculo": "pendente_de_validacao"
+  },
+  {
+    "id": "sao-paulo-010-lucas-ramon",
+    "nome": "Lucas Ramon",
+    "clube_id": 18,
+    "posicao_grupo": "Defensor",
+    "idade": null,
+    "vinculo": "pendente_de_validacao"
+  },
+  {
+    "id": "sao-paulo-011-buta",
+    "nome": "Buta",
+    "clube_id": 18,
+    "posicao_grupo": "Defensor",
+    "idade": null,
+    "vinculo": "pendente_de_validacao"
+  },
+  {
+    "id": "sao-paulo-012-cedric",
+    "nome": "Cédric",
+    "clube_id": 18,
+    "posicao_grupo": "Defensor",
+    "idade": null,
+    "vinculo": "pendente_de_validacao"
+  },
+  {
+    "id": "sao-paulo-013-domingos-duarte",
+    "nome": "Domingos Duarte",
+    "clube_id": 18,
+    "posicao_grupo": "Defensor",
+    "idade": null,
+    "vinculo": "pendente_de_validacao"
+  },
+  {
+    "id": "sao-paulo-014-pedro-lima",
+    "nome": "Pedro Lima",
+    "clube_id": 18,
+    "posicao_grupo": "Defensor",
+    "idade": null,
+    "vinculo": "pendente_de_validacao",
+    "ovr_usuario": 78
+  },
+  {
+    "id": "sao-paulo-015-sabino",
+    "nome": "Sabino",
+    "clube_id": 18,
+    "posicao_grupo": "Defensor",
+    "idade": null,
+    "vinculo": "pendente_de_validacao"
+  },
+  {
+    "id": "sao-paulo-016-isac",
+    "nome": "Isac",
+    "clube_id": 18,
+    "posicao_grupo": "Defensor",
+    "idade": null,
+    "vinculo": "pendente_de_validacao"
+  },
+  {
+    "id": "sao-paulo-017-osorio",
+    "nome": "Osorio",
+    "clube_id": 18,
+    "posicao_grupo": "Defensor",
+    "idade": null,
+    "vinculo": "pendente_de_validacao"
+  },
+  {
+    "id": "sao-paulo-018-nicolas",
+    "nome": "Nicolas",
+    "clube_id": 18,
+    "posicao_grupo": "Defensor",
+    "idade": null,
+    "vinculo": "pendente_de_validacao"
+  },
+  {
+    "id": "sao-paulo-019-marcos-antonio",
+    "nome": "Marcos Antônio",
+    "clube_id": 18,
+    "posicao_grupo": "Meio-campista",
+    "idade": null,
+    "vinculo": "pendente_de_validacao",
+    "ovr_usuario": 76
+  },
+  {
+    "id": "sao-paulo-020-bobadilla",
+    "nome": "Bobadilla",
+    "clube_id": 18,
+    "posicao_grupo": "Meio-campista",
+    "idade": null,
+    "vinculo": "pendente_de_validacao"
+  },
+  {
+    "id": "sao-paulo-021-newton-jr",
+    "nome": "Newton Jr.",
+    "clube_id": 18,
+    "posicao_grupo": "Meio-campista",
+    "idade": null,
+    "vinculo": "pendente_de_validacao"
+  },
+  {
+    "id": "sao-paulo-022-pablo-maia",
+    "nome": "Pablo Maia",
+    "clube_id": 18,
+    "posicao_grupo": "Meio-campista",
+    "idade": null,
+    "vinculo": "pendente_de_validacao",
+    "ovr_usuario": 75
+  },
+  {
+    "id": "sao-paulo-023-pedro-ferreira",
+    "nome": "Pedro Ferreira",
+    "clube_id": 18,
+    "posicao_grupo": "Meio-campista",
+    "idade": null,
+    "vinculo": "pendente_de_validacao"
+  },
+  {
+    "id": "sao-paulo-024-djhordney",
+    "nome": "Djhordney",
+    "clube_id": 18,
+    "posicao_grupo": "Meio-campista",
+    "idade": null,
+    "vinculo": "pendente_de_validacao",
+    "ovr_usuario": 74
+  },
+  {
+    "id": "sao-paulo-025-cauly",
+    "nome": "Cauly",
+    "clube_id": 18,
+    "posicao_grupo": "Meio-campista",
+    "idade": null,
+    "vinculo": "pendente_de_validacao"
+  },
+  {
+    "id": "sao-paulo-026-danielzinho",
+    "nome": "Danielzinho",
+    "clube_id": 18,
+    "posicao_grupo": "Meio-campista",
+    "idade": null,
+    "vinculo": "pendente_de_validacao"
+  },
+  {
+    "id": "sao-paulo-027-felipe-preis",
+    "nome": "Felipe Preis",
+    "clube_id": 18,
+    "posicao_grupo": "Meio-campista",
+    "idade": null,
+    "vinculo": "pendente_de_validacao"
+  },
+  {
+    "id": "sao-paulo-028-lucas-moura",
+    "nome": "Lucas Moura",
+    "clube_id": 18,
+    "posicao_grupo": "Atacante",
+    "idade": null,
+    "vinculo": "pendente_de_validacao",
+    "ovr_usuario": 81
+  },
+  {
+    "id": "sao-paulo-029-calleri",
+    "nome": "Calleri",
+    "clube_id": 18,
+    "posicao_grupo": "Atacante",
+    "idade": null,
+    "vinculo": "pendente_de_validacao",
+    "ovr_usuario": 78
+  },
+  {
+    "id": "sao-paulo-030-luciano",
+    "nome": "Luciano",
+    "clube_id": 18,
+    "posicao_grupo": "Atacante",
+    "idade": null,
+    "vinculo": "pendente_de_validacao",
+    "ovr_usuario": 79
+  },
+  {
+    "id": "sao-paulo-031-ferreira",
+    "nome": "Ferreira",
+    "clube_id": 18,
+    "posicao_grupo": "Atacante",
+    "idade": null,
+    "vinculo": "pendente_de_validacao"
+  },
+  {
+    "id": "sao-paulo-032-andre-silva",
+    "nome": "André Silva",
+    "clube_id": 18,
+    "posicao_grupo": "Atacante",
+    "idade": null,
+    "vinculo": "pendente_de_validacao"
+  },
+  {
+    "id": "sao-paulo-033-victor-sa",
+    "nome": "Victor Sá",
+    "clube_id": 18,
+    "posicao_grupo": "Atacante",
+    "idade": null,
+    "vinculo": "pendente_de_validacao"
+  },
+  {
+    "id": "sao-paulo-034-tete",
+    "nome": "Tete",
+    "clube_id": 18,
+    "posicao_grupo": "Atacante",
+    "idade": null,
+    "vinculo": "pendente_de_validacao"
+  },
+  {
+    "id": "sao-paulo-035-artur",
+    "nome": "Artur",
+    "clube_id": 18,
+    "posicao_grupo": "Atacante",
+    "idade": null,
+    "vinculo": "pendente_de_validacao"
+  },
+  {
+    "id": "sao-paulo-036-gustavo-santana",
+    "nome": "Gustavo Santana",
+    "clube_id": 18,
+    "posicao_grupo": "Atacante",
+    "idade": null,
+    "vinculo": "pendente_de_validacao"
+  },
+  {
+    "id": "sao-paulo-037-lucca",
+    "nome": "Lucca",
+    "clube_id": 18,
+    "posicao_grupo": "Atacante",
+    "idade": null,
+    "vinculo": "pendente_de_validacao"
+  },
+  {
+    "id": "sao-paulo-038-ryan-francisco",
+    "nome": "Ryan Francisco",
+    "clube_id": 18,
+    "posicao_grupo": "Atacante",
+    "idade": null,
+    "vinculo": "pendente_de_validacao"
+  },
+  {
+    "id": "vasco-001-leo-jardim",
+    "nome": "Léo Jardim",
+    "clube_id": 19,
+    "posicao_grupo": "Goleiro",
+    "idade": 31,
+    "vinculo": "pendente_de_validacao",
+    "ovr_usuario": 79
+  },
+  {
+    "id": "vasco-002-daniel-fuzato",
+    "nome": "Daniel Fuzato",
+    "clube_id": 19,
+    "posicao_grupo": "Goleiro",
+    "idade": 29,
+    "vinculo": "pendente_de_validacao"
+  },
+  {
+    "id": "vasco-003-pablo",
+    "nome": "Pablo",
+    "clube_id": 19,
+    "posicao_grupo": "Goleiro",
+    "idade": 23,
+    "vinculo": "pendente_de_validacao"
+  },
+  {
+    "id": "vasco-004-jose-luis-rodriguez",
+    "nome": "José Luis Rodríguez",
+    "clube_id": 19,
+    "posicao_grupo": "Defensor",
+    "idade": 29,
+    "vinculo": "pendente_de_validacao"
+  },
+  {
+    "id": "vasco-005-alan-saldivia",
+    "nome": "Alan Saldivia",
+    "clube_id": 19,
+    "posicao_grupo": "Defensor",
+    "idade": 24,
+    "vinculo": "pendente_de_validacao",
+    "ovr_usuario": 77
+  },
+  {
+    "id": "vasco-006-lucas-piton",
+    "nome": "Lucas Piton",
+    "clube_id": 19,
+    "posicao_grupo": "Defensor",
+    "idade": 26,
+    "vinculo": "pendente_de_validacao"
+  },
+  {
+    "id": "vasco-007-paulinho",
+    "nome": "Paulinho",
+    "clube_id": 19,
+    "posicao_grupo": "Defensor",
+    "idade": 22,
+    "vinculo": "pendente_de_validacao"
+  },
+  {
+    "id": "vasco-008-robert-renan",
+    "nome": "Robert Renan",
+    "clube_id": 19,
+    "posicao_grupo": "Defensor",
+    "idade": 23,
+    "vinculo": "pendente_de_validacao",
+    "ovr_usuario": 77
+  },
+  {
+    "id": "vasco-009-lucas-freitas",
+    "nome": "Lucas Freitas",
+    "clube_id": 19,
+    "posicao_grupo": "Defensor",
+    "idade": 25,
+    "vinculo": "pendente_de_validacao"
+  },
+  {
+    "id": "vasco-010-carlos-cuesta",
+    "nome": "Carlos Cuesta",
+    "clube_id": 19,
+    "posicao_grupo": "Defensor",
+    "idade": 27,
+    "vinculo": "pendente_de_validacao",
+    "ovr_usuario": 76
+  },
+  {
+    "id": "vasco-011-gabriel-pereira",
+    "nome": "Gabriel Pereira",
+    "clube_id": 19,
+    "posicao_grupo": "Defensor",
+    "idade": 26,
+    "vinculo": "pendente_de_validacao"
+  },
+  {
+    "id": "vasco-012-jv-fonseca",
+    "nome": "JV Fonseca",
+    "clube_id": 19,
+    "posicao_grupo": "Defensor",
+    "idade": 21,
+    "vinculo": "pendente_de_validacao"
+  },
+  {
+    "id": "vasco-013-walace-falcao",
+    "nome": "Walace Falcão",
+    "clube_id": 19,
+    "posicao_grupo": "Defensor",
+    "idade": 21,
+    "vinculo": "pendente_de_validacao"
+  },
+  {
+    "id": "vasco-014-cuiabano",
+    "nome": "Cuiabano",
+    "clube_id": 19,
+    "posicao_grupo": "Defensor",
+    "idade": 23,
+    "vinculo": "pendente_de_validacao",
+    "ovr_usuario": 76
+  },
+  {
+    "id": "vasco-015-paulo-henrique",
+    "nome": "Paulo Henrique",
+    "clube_id": 19,
+    "posicao_grupo": "Defensor",
+    "idade": 30,
+    "vinculo": "pendente_de_validacao"
+  },
+  {
+    "id": "vasco-016-riquelme",
+    "nome": "Riquelme",
+    "clube_id": 19,
+    "posicao_grupo": "Defensor",
+    "idade": 24,
+    "vinculo": "pendente_de_validacao"
+  },
+  {
+    "id": "vasco-017-tche-tche",
+    "nome": "Tchê Tchê",
+    "clube_id": 19,
+    "posicao_grupo": "Meio-campista",
+    "idade": 34,
+    "vinculo": "pendente_de_validacao"
+  },
+  {
+    "id": "vasco-018-santiago-sosa",
+    "nome": "Santiago Sosa",
+    "clube_id": 19,
+    "posicao_grupo": "Meio-campista",
+    "idade": 27,
+    "vinculo": "pendente_de_validacao",
+    "ovr_usuario": 78
+  },
+  {
+    "id": "vasco-019-jair",
+    "nome": "Jair",
+    "clube_id": 19,
+    "posicao_grupo": "Meio-campista",
+    "idade": 32,
+    "vinculo": "pendente_de_validacao"
+  },
+  {
+    "id": "vasco-020-johan-rojas",
+    "nome": "Johan Rojas",
+    "clube_id": 19,
+    "posicao_grupo": "Meio-campista",
+    "idade": 24,
+    "vinculo": "pendente_de_validacao"
+  },
+  {
+    "id": "vasco-021-guilherme-estrella",
+    "nome": "Guilherme Estrella",
+    "clube_id": 19,
+    "posicao_grupo": "Meio-campista",
+    "idade": 21,
+    "vinculo": "pendente_de_validacao"
+  },
+  {
+    "id": "vasco-022-alan-lescano",
+    "nome": "Alan Lescano",
+    "clube_id": 19,
+    "posicao_grupo": "Meio-campista",
+    "idade": 25,
+    "vinculo": "pendente_de_validacao",
+    "ovr_usuario": 75
+  },
+  {
+    "id": "vasco-023-thiago-mendes",
+    "nome": "Thiago Mendes",
+    "clube_id": 19,
+    "posicao_grupo": "Meio-campista",
+    "idade": 34,
+    "vinculo": "pendente_de_validacao",
+    "ovr_usuario": 78
+  },
+  {
+    "id": "vasco-024-euder",
+    "nome": "Euder",
+    "clube_id": 19,
+    "posicao_grupo": "Meio-campista",
+    "idade": 21,
+    "vinculo": "pendente_de_validacao"
+  },
+  {
+    "id": "vasco-025-ramon-rique",
+    "nome": "Ramon Rique",
+    "clube_id": 19,
+    "posicao_grupo": "Meio-campista",
+    "idade": 19,
+    "vinculo": "pendente_de_validacao"
+  },
+  {
+    "id": "vasco-026-mateus-carvalho",
+    "nome": "Mateus Carvalho",
+    "clube_id": 19,
+    "posicao_grupo": "Meio-campista",
+    "idade": 24,
+    "vinculo": "pendente_de_validacao"
+  },
+  {
+    "id": "vasco-027-cauan-barros",
+    "nome": "Cauan Barros",
+    "clube_id": 19,
+    "posicao_grupo": "Meio-campista",
+    "idade": 22,
+    "vinculo": "pendente_de_validacao",
+    "ovr_usuario": 76
+  },
+  {
+    "id": "vasco-028-david",
+    "nome": "David",
+    "clube_id": 19,
+    "posicao_grupo": "Atacante",
+    "idade": 31,
+    "vinculo": "pendente_de_validacao"
+  },
+  {
+    "id": "vasco-029-facundo-colidio",
+    "nome": "Facundo Colidio",
+    "clube_id": 19,
+    "posicao_grupo": "Atacante",
+    "idade": 26,
+    "vinculo": "pendente_de_validacao",
+    "ovr_usuario": 75
+  },
+  {
+    "id": "vasco-030-andres-gomez",
+    "nome": "Andrés Gómez",
+    "clube_id": 19,
+    "posicao_grupo": "Atacante",
+    "idade": 24,
+    "vinculo": "pendente_de_validacao",
+    "ovr_usuario": 79
+  },
+  {
+    "id": "vasco-031-nuno-moreira",
+    "nome": "Nuno Moreira",
+    "clube_id": 19,
+    "posicao_grupo": "Atacante",
+    "idade": 27,
+    "vinculo": "pendente_de_validacao",
+    "ovr_usuario": 77
+  },
+  {
+    "id": "vasco-032-marino-hinestroza",
+    "nome": "Marino Hinestroza",
+    "clube_id": 19,
+    "posicao_grupo": "Atacante",
+    "idade": 24,
+    "vinculo": "pendente_de_validacao"
+  },
+  {
+    "id": "vasco-033-bruno-duarte",
+    "nome": "Bruno Duarte",
+    "clube_id": 19,
+    "posicao_grupo": "Atacante",
+    "idade": 30,
+    "vinculo": "pendente_de_validacao",
+    "ovr_usuario": 72
+  },
+  {
+    "id": "vasco-034-brenner",
+    "nome": "Brenner",
+    "clube_id": 19,
+    "posicao_grupo": "Atacante",
+    "idade": 26,
+    "vinculo": "pendente_de_validacao"
+  },
+  {
+    "id": "vasco-035-adson",
+    "nome": "Adson",
+    "clube_id": 19,
+    "posicao_grupo": "Atacante",
+    "idade": 26,
+    "vinculo": "pendente_de_validacao"
+  },
+  {
+    "id": "vasco-036-loide-augusto",
+    "nome": "Loide Augusto",
+    "clube_id": 19,
+    "posicao_grupo": "Atacante",
+    "idade": 26,
+    "vinculo": "pendente_de_validacao"
+  },
+  {
+    "id": "vasco-037-claudio-spinelli",
+    "nome": "Claudio Spinelli",
+    "clube_id": 19,
+    "posicao_grupo": "Atacante",
+    "idade": 29,
+    "vinculo": "pendente_de_validacao"
+  },
+  {
+    "id": "vitoria-001-lucas-arcanjo",
+    "nome": "Lucas Arcanjo",
+    "clube_id": 20,
+    "posicao_grupo": "Goleiro",
+    "idade": null,
+    "vinculo": "pendente_de_validacao",
+    "ovr_usuario": 80
+  },
+  {
+    "id": "vitoria-002-yuri-sena",
+    "nome": "Yuri Sena",
+    "clube_id": 20,
+    "posicao_grupo": "Goleiro",
+    "idade": null,
+    "vinculo": "pendente_de_validacao"
+  },
+  {
+    "id": "vitoria-003-fintelman",
+    "nome": "Fintelman",
+    "clube_id": 20,
+    "posicao_grupo": "Goleiro",
+    "idade": null,
+    "vinculo": "pendente_de_validacao"
+  },
+  {
+    "id": "vitoria-004-caca",
+    "nome": "Cacá",
+    "clube_id": 20,
+    "posicao_grupo": "Zagueiro",
+    "idade": null,
+    "vinculo": "pendente_de_validacao",
+    "ovr_usuario": 73
+  },
+  {
+    "id": "vitoria-005-emmanuel-britez",
+    "nome": "Emmanuel Brítez",
+    "clube_id": 20,
+    "posicao_grupo": "Zagueiro",
+    "idade": null,
+    "vinculo": "pendente_de_validacao",
+    "ovr_usuario": 72
+  },
+  {
+    "id": "vitoria-006-camutanga",
+    "nome": "Camutanga",
+    "clube_id": 20,
+    "posicao_grupo": "Zagueiro",
+    "idade": null,
+    "vinculo": "pendente_de_validacao"
+  },
+  {
+    "id": "vitoria-007-riccieli",
+    "nome": "Riccieli",
+    "clube_id": 20,
+    "posicao_grupo": "Zagueiro",
+    "idade": null,
+    "vinculo": "pendente_de_validacao"
+  },
+  {
+    "id": "vitoria-008-darlan",
+    "nome": "Darlan",
+    "clube_id": 20,
+    "posicao_grupo": "Zagueiro",
+    "idade": null,
+    "vinculo": "pendente_de_validacao"
+  },
+  {
+    "id": "vitoria-009-luan-candido",
+    "nome": "Luan Cândido",
+    "clube_id": 20,
+    "posicao_grupo": "Zagueiro",
+    "idade": null,
+    "vinculo": "pendente_de_validacao"
+  },
+  {
+    "id": "vitoria-010-edenilson-nascimento",
+    "nome": "Edenilson Nascimento",
+    "clube_id": 20,
+    "posicao_grupo": "Zagueiro",
+    "idade": null,
+    "vinculo": "pendente_de_validacao"
+  },
+  {
+    "id": "vitoria-011-ramon",
+    "nome": "Ramon",
+    "clube_id": 20,
+    "posicao_grupo": "Lateral",
+    "idade": null,
+    "vinculo": "pendente_de_validacao"
+  },
+  {
+    "id": "vitoria-012-nathan-mendes",
+    "nome": "Nathan Mendes",
+    "clube_id": 20,
+    "posicao_grupo": "Lateral",
+    "idade": null,
+    "vinculo": "pendente_de_validacao"
+  },
+  {
+    "id": "vitoria-013-jamerson",
+    "nome": "Jamerson",
+    "clube_id": 20,
+    "posicao_grupo": "Lateral",
+    "idade": null,
+    "vinculo": "pendente_de_validacao",
+    "ovr_usuario": 69
+  },
+  {
+    "id": "vitoria-014-gean",
+    "nome": "Gean",
+    "clube_id": 20,
+    "posicao_grupo": "Lateral",
+    "idade": null,
+    "vinculo": "pendente_de_validacao"
+  },
+  {
+    "id": "vitoria-015-mateus-silva",
+    "nome": "Mateus Silva",
+    "clube_id": 20,
+    "posicao_grupo": "Lateral",
+    "idade": null,
+    "vinculo": "pendente_de_validacao"
+  },
+  {
+    "id": "vitoria-016-gabriel-baralhas",
+    "nome": "Gabriel Baralhas",
+    "clube_id": 20,
+    "posicao_grupo": "Meio-campista",
+    "idade": null,
+    "vinculo": "pendente_de_validacao",
+    "ovr_usuario": 73
+  },
+  {
+    "id": "vitoria-017-caique-goncalves",
+    "nome": "Caíque Gonçalves",
+    "clube_id": 20,
+    "posicao_grupo": "Meio-campista",
+    "idade": null,
+    "vinculo": "pendente_de_validacao",
+    "ovr_usuario": 75
+  },
+  {
+    "id": "vitoria-018-emmanuel-martinez",
+    "nome": "Emmanuel Martínez",
+    "clube_id": 20,
+    "posicao_grupo": "Meio-campista",
+    "idade": null,
+    "vinculo": "pendente_de_validacao",
+    "ovr_usuario": 72
+  },
+  {
+    "id": "vitoria-019-matheuzinho",
+    "nome": "Matheuzinho",
+    "clube_id": 20,
+    "posicao_grupo": "Meio-campista",
+    "idade": null,
+    "vinculo": "pendente_de_validacao",
+    "ovr_usuario": 77
+  },
+  {
+    "id": "vitoria-020-walace",
+    "nome": "Walace",
+    "clube_id": 20,
+    "posicao_grupo": "Meio-campista",
+    "idade": null,
+    "vinculo": "pendente_de_validacao"
+  },
+  {
+    "id": "vitoria-021-ruben-ismael",
+    "nome": "Rúben Ismael",
+    "clube_id": 20,
+    "posicao_grupo": "Meio-campista",
+    "idade": null,
+    "vinculo": "pendente_de_validacao"
+  },
+  {
+    "id": "vitoria-022-ze-vitor",
+    "nome": "Zé Vitor",
+    "clube_id": 20,
+    "posicao_grupo": "Meio-campista",
+    "idade": null,
+    "vinculo": "pendente_de_validacao"
+  },
+  {
+    "id": "vitoria-023-pochettino",
+    "nome": "Pochettino",
+    "clube_id": 20,
+    "posicao_grupo": "Meio-campista",
+    "idade": null,
+    "vinculo": "pendente_de_validacao"
+  },
+  {
+    "id": "vitoria-024-alejandro-almaraz",
+    "nome": "Alejandro Almaraz",
+    "clube_id": 20,
+    "posicao_grupo": "Meio-campista",
+    "idade": null,
+    "vinculo": "pendente_de_validacao"
+  },
+  {
+    "id": "vitoria-025-dudu",
+    "nome": "Dudu",
+    "clube_id": 20,
+    "posicao_grupo": "Meio-campista",
+    "idade": null,
+    "vinculo": "pendente_de_validacao"
+  },
+  {
+    "id": "vitoria-026-renato-kayzer",
+    "nome": "Renato Kayzer",
+    "clube_id": 20,
+    "posicao_grupo": "Atacante",
+    "idade": null,
+    "vinculo": "pendente_de_validacao"
+  },
+  {
+    "id": "vitoria-027-marinho",
+    "nome": "Marinho",
+    "clube_id": 20,
+    "posicao_grupo": "Atacante",
+    "idade": null,
+    "vinculo": "pendente_de_validacao"
+  },
+  {
+    "id": "vitoria-028-erick",
+    "nome": "Erick",
+    "clube_id": 20,
+    "posicao_grupo": "Atacante",
+    "idade": null,
+    "vinculo": "pendente_de_validacao",
+    "ovr_usuario": 76
+  },
+  {
+    "id": "vitoria-029-nacho-laquintana",
+    "nome": "Nacho Laquintana",
+    "clube_id": 20,
+    "posicao_grupo": "Atacante",
+    "idade": null,
+    "vinculo": "pendente_de_validacao"
+  },
+  {
+    "id": "vitoria-030-rene",
+    "nome": "Renê",
+    "clube_id": 20,
+    "posicao_grupo": "Atacante",
+    "idade": null,
+    "vinculo": "pendente_de_validacao",
+    "ovr_usuario": 76
+  },
+  {
+    "id": "vitoria-031-diego-tarzia",
+    "nome": "Diego Tarzia",
+    "clube_id": 20,
+    "posicao_grupo": "Atacante",
+    "idade": null,
+    "vinculo": "pendente_de_validacao"
+  },
+  {
+    "id": "vitoria-032-alex-bruno",
+    "nome": "Alex Bruno",
+    "clube_id": 20,
+    "posicao_grupo": "Atacante",
+    "idade": null,
+    "vinculo": "pendente_de_validacao"
+  },
+  {
+    "id": "vitoria-033-lucas-silva",
+    "nome": "Lucas Silva",
+    "clube_id": 20,
+    "posicao_grupo": "Atacante",
+    "idade": null,
+    "vinculo": "pendente_de_validacao"
+  },
+  {
+    "id": "vitoria-034-fabri",
+    "nome": "Fabri",
+    "clube_id": 20,
+    "posicao_grupo": "Atacante",
+    "idade": null,
+    "vinculo": "pendente_de_validacao"
+  },
+  {
+    "id": "vitoria-035-osvaldo",
+    "nome": "Osvaldo",
+    "clube_id": 20,
+    "posicao_grupo": "Atacante",
+    "idade": null,
+    "vinculo": "pendente_de_validacao"
+  },
+  {
+    "id": "revisao-17-gustavinho",
+    "nome": "Gustavinho",
+    "clube_id": 17,
+    "posicao_grupo": "ATACANTE",
+    "idade": null,
+    "vinculo": "adicionado_por_lista_usuario_posicao_provisoria",
+    "ovr_usuario": 72
+  },
+  {
+    "id": "revisao-9-william-furtado",
+    "nome": "William Furtado",
+    "clube_id": 9,
+    "posicao_grupo": "DEFENSOR",
+    "idade": null,
+    "vinculo": "adicionado_por_lista_usuario_posicao_provisoria",
+    "ovr_usuario": 76
+  },
+  {
+    "id": "revisao-15-flaco-lopez",
+    "nome": "Flaco Lopez",
+    "clube_id": 15,
+    "posicao_grupo": "ATACANTE",
+    "idade": null,
+    "vinculo": "adicionado_por_lista_usuario_posicao_provisoria",
+    "ovr_usuario": 83
+  },
+  {
+    "id": "revisao-7-anglieri",
+    "nome": "Anglieri",
+    "clube_id": 7,
+    "posicao_grupo": "DEFENSOR",
+    "idade": null,
+    "vinculo": "adicionado_por_lista_usuario_posicao_provisoria",
+    "ovr_usuario": 75
+  },
+  {
+    "id": "revisao-4-tiquinho-soares",
+    "nome": "Tiquinho Soares",
+    "clube_id": 4,
+    "posicao_grupo": "ATACANTE",
+    "idade": null,
+    "vinculo": "adicionado_por_lista_usuario_posicao_provisoria",
+    "ovr_usuario": 74
+  },
+  {
+    "id": "revisao-12-pavon",
+    "nome": "Pavon",
+    "clube_id": 12,
+    "posicao_grupo": "ATACANTE",
+    "idade": null,
+    "vinculo": "adicionado_por_lista_usuario_posicao_provisoria",
+    "ovr_usuario": 76
+  },
+  {
+    "id": "revisao-3-denis-duarte",
+    "nome": "Denis Duarte",
+    "clube_id": 3,
+    "posicao_grupo": "DEFENSOR",
+    "idade": null,
+    "vinculo": "adicionado_por_lista_usuario_posicao_provisoria",
+    "ovr_usuario": 76
+  },
+  {
+    "id": "revisao-19-pedro-henrique",
+    "nome": "Pedro Henrique",
+    "clube_id": 19,
+    "posicao_grupo": "DEFENSOR",
+    "idade": null,
+    "vinculo": "adicionado_por_lista_usuario_posicao_provisoria",
+    "ovr_usuario": 78
+  },
+  {
+    "id": "revisao-20-matheusinho",
+    "nome": "Matheusinho",
+    "clube_id": 20,
+    "posicao_grupo": "MEIA",
+    "idade": null,
+    "vinculo": "adicionado_por_lista_usuario_posicao_provisoria",
+    "ovr_usuario": 70
+  },
+  {
+    "id": "revisao-5-thiago-volpi",
+    "nome": "Thiago Volpi",
+    "clube_id": 5,
+    "posicao_grupo": "GOLEIRO",
+    "idade": null,
+    "vinculo": "adicionado_por_lista_usuario_posicao_provisoria",
+    "ovr_usuario": 78
+  },
+  {
+    "id": "revisao-5-ryan-augusto",
+    "nome": "Ryan Augusto",
+    "clube_id": 5,
+    "posicao_grupo": "MEIA",
+    "idade": null,
+    "vinculo": "adicionado_por_lista_usuario_posicao_provisoria",
+    "ovr_usuario": 76
+  },
+  {
+    "id": "revisao-5-erick-ramires",
+    "nome": "Erick Ramires",
+    "clube_id": 5,
+    "posicao_grupo": "MEIA",
+    "idade": null,
+    "vinculo": "adicionado_por_lista_usuario_posicao_provisoria",
+    "ovr_usuario": 77
+  },
+  {
+    "id": "revisao-18-luis-osorio",
+    "nome": "Luis Osorio",
+    "clube_id": 18,
+    "posicao_grupo": "DEFENSOR",
+    "idade": null,
+    "vinculo": "adicionado_por_lista_usuario_posicao_provisoria",
+    "ovr_usuario": 71
+  },
+  {
+    "id": "revisao-18-iago-borduchi",
+    "nome": "Iago Borduchi",
+    "clube_id": 18,
+    "posicao_grupo": "DEFENSOR",
+    "idade": null,
+    "vinculo": "adicionado_por_lista_usuario_posicao_provisoria",
+    "ovr_usuario": 73
+  },
+  {
+    "id": "revisao-18-arthur",
+    "nome": "Arthur",
+    "clube_id": 18,
+    "posicao_grupo": "ATACANTE",
+    "idade": null,
+    "vinculo": "adicionado_por_lista_usuario_posicao_provisoria",
+    "ovr_usuario": 79
+  },
+  {
+    "id": "revisao-18-ferreirinha",
+    "nome": "Ferreirinha",
+    "clube_id": 18,
+    "posicao_grupo": "ATACANTE",
+    "idade": null,
+    "vinculo": "adicionado_por_lista_usuario_posicao_provisoria",
+    "ovr_usuario": 75
+  }
+]

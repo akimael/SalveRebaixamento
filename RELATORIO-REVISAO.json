@@ -1,0 +1,1163 @@
+{
+  "requested": 191,
+  "matched": 175,
+  "added": 16,
+  "ambiguous_names_added_without_overwriting": [],
+  "total_roster": 651,
+  "unchanged_clubs": [
+    2,
+    6,
+    14,
+    16
+  ],
+  "added_players": [
+    {
+      "club": "Santos",
+      "name": "Gustavinho",
+      "ovr": 72,
+      "provisional_position": "ATACANTE"
+    },
+    {
+      "club": "Cruzeiro",
+      "name": "William Furtado",
+      "ovr": 76,
+      "provisional_position": "DEFENSOR"
+    },
+    {
+      "club": "Palmeiras",
+      "name": "Flaco Lopez",
+      "ovr": 83,
+      "provisional_position": "ATACANTE"
+    },
+    {
+      "club": "Corinthians",
+      "name": "Anglieri",
+      "ovr": 75,
+      "provisional_position": "DEFENSOR"
+    },
+    {
+      "club": "Botafogo",
+      "name": "Tiquinho Soares",
+      "ovr": 74,
+      "provisional_position": "ATACANTE"
+    },
+    {
+      "club": "Grêmio",
+      "name": "Pavon",
+      "ovr": 76,
+      "provisional_position": "ATACANTE"
+    },
+    {
+      "club": "Bahia",
+      "name": "Denis Duarte",
+      "ovr": 76,
+      "provisional_position": "DEFENSOR"
+    },
+    {
+      "club": "Vasco",
+      "name": "Pedro Henrique",
+      "ovr": 78,
+      "provisional_position": "DEFENSOR"
+    },
+    {
+      "club": "Vitória",
+      "name": "Matheusinho",
+      "ovr": 70,
+      "provisional_position": "MEIA"
+    },
+    {
+      "club": "Bragantino",
+      "name": "Thiago Volpi",
+      "ovr": 78,
+      "provisional_position": "GOLEIRO"
+    },
+    {
+      "club": "Bragantino",
+      "name": "Ryan Augusto",
+      "ovr": 76,
+      "provisional_position": "MEIA"
+    },
+    {
+      "club": "Bragantino",
+      "name": "Erick Ramires",
+      "ovr": 77,
+      "provisional_position": "MEIA"
+    },
+    {
+      "club": "São Paulo",
+      "name": "Luis Osorio",
+      "ovr": 71,
+      "provisional_position": "DEFENSOR"
+    },
+    {
+      "club": "São Paulo",
+      "name": "Iago Borduchi",
+      "ovr": 73,
+      "provisional_position": "DEFENSOR"
+    },
+    {
+      "club": "São Paulo",
+      "name": "Arthur",
+      "ovr": 79,
+      "provisional_position": "ATACANTE"
+    },
+    {
+      "club": "São Paulo",
+      "name": "Ferreirinha",
+      "ovr": 75,
+      "provisional_position": "ATACANTE"
+    }
+  ],
+  "matched_players": [
+    {
+      "club": "Flamengo",
+      "requested": "Rossi",
+      "existing": "Agustín Rossi",
+      "ovr": 81
+    },
+    {
+      "club": "Flamengo",
+      "requested": "Varela",
+      "existing": "Guillermo Varela",
+      "ovr": 79
+    },
+    {
+      "club": "Flamengo",
+      "requested": "Ortiz",
+      "existing": "Léo Ortiz",
+      "ovr": 80
+    },
+    {
+      "club": "Flamengo",
+      "requested": "Leo Pereira",
+      "existing": "Léo Pereira",
+      "ovr": 81
+    },
+    {
+      "club": "Flamengo",
+      "requested": "Alex Sandro",
+      "existing": "Alex Sandro",
+      "ovr": 80
+    },
+    {
+      "club": "Flamengo",
+      "requested": "Pulgar",
+      "existing": "Erick Pulgar",
+      "ovr": 77
+    },
+    {
+      "club": "Flamengo",
+      "requested": "Jorginho",
+      "existing": "Jorginho",
+      "ovr": 83
+    },
+    {
+      "club": "Flamengo",
+      "requested": "Carrascal",
+      "existing": "Jorge Carrascal",
+      "ovr": 80
+    },
+    {
+      "club": "Flamengo",
+      "requested": "Arrascaeta",
+      "existing": "Giorgian de Arrascaeta",
+      "ovr": 85
+    },
+    {
+      "club": "Flamengo",
+      "requested": "Samuel Lino",
+      "existing": "Samuel Lino",
+      "ovr": 81
+    },
+    {
+      "club": "Flamengo",
+      "requested": "Pedro",
+      "existing": "Pedro",
+      "ovr": 84
+    },
+    {
+      "club": "Athletico-PR",
+      "requested": "Mycael",
+      "existing": "Mycael",
+      "ovr": 75
+    },
+    {
+      "club": "Athletico-PR",
+      "requested": "Benavidez",
+      "existing": "Gastón Benavídez",
+      "ovr": 74
+    },
+    {
+      "club": "Athletico-PR",
+      "requested": "Aguirre",
+      "existing": "Juan Felipe Aguirre",
+      "ovr": 73
+    },
+    {
+      "club": "Athletico-PR",
+      "requested": "Esquivel",
+      "existing": "Lucas Esquivel",
+      "ovr": 72
+    },
+    {
+      "club": "Athletico-PR",
+      "requested": "Felipinho",
+      "existing": "Felipinho",
+      "ovr": 70
+    },
+    {
+      "club": "Athletico-PR",
+      "requested": "Jadson",
+      "existing": "Jadson",
+      "ovr": 69
+    },
+    {
+      "club": "Athletico-PR",
+      "requested": "Gilberto",
+      "existing": "Gilberto dos Santos",
+      "ovr": 74
+    },
+    {
+      "club": "Athletico-PR",
+      "requested": "Portilla",
+      "existing": "Juan Portilla",
+      "ovr": 71
+    },
+    {
+      "club": "Athletico-PR",
+      "requested": "Mendoza",
+      "existing": "Stiven Mendoza",
+      "ovr": 78
+    },
+    {
+      "club": "Athletico-PR",
+      "requested": "Vargas",
+      "existing": "Kerwin Vargas",
+      "ovr": 76
+    },
+    {
+      "club": "Athletico-PR",
+      "requested": "Bruno Zapelli",
+      "existing": "Bruno Zapelli",
+      "ovr": 77
+    },
+    {
+      "club": "Santos",
+      "requested": "Gabriel Brazao",
+      "existing": "Gabriel Brazão",
+      "ovr": 79
+    },
+    {
+      "club": "Santos",
+      "requested": "Rodinei",
+      "existing": "Rodinei",
+      "ovr": 78
+    },
+    {
+      "club": "Santos",
+      "requested": "Alencar",
+      "existing": "João Alencar",
+      "ovr": 72
+    },
+    {
+      "club": "Santos",
+      "requested": "Willian Arao",
+      "existing": "Willian Arão",
+      "ovr": 76
+    },
+    {
+      "club": "Santos",
+      "requested": "Luan Peres",
+      "existing": "Luan Peres",
+      "ovr": 71
+    },
+    {
+      "club": "Santos",
+      "requested": "Arthur",
+      "existing": "Arthur Melo",
+      "ovr": 78
+    },
+    {
+      "club": "Santos",
+      "requested": "Neymar",
+      "existing": "Neymar",
+      "ovr": 86
+    },
+    {
+      "club": "Santos",
+      "requested": "Everton",
+      "existing": "Everton Cebolinha",
+      "ovr": 81
+    },
+    {
+      "club": "Santos",
+      "requested": "Coutinho",
+      "existing": "Philippe Coutinho",
+      "ovr": 82
+    },
+    {
+      "club": "Santos",
+      "requested": "Gabriel Barbosa",
+      "existing": "Gabriel Barbosa",
+      "ovr": 79
+    },
+    {
+      "club": "Coritiba",
+      "requested": "Pedro Morisco",
+      "existing": "Pedro Morisco",
+      "ovr": 79
+    },
+    {
+      "club": "Coritiba",
+      "requested": "Jacy",
+      "existing": "Jacy Maranhão",
+      "ovr": 79
+    },
+    {
+      "club": "Coritiba",
+      "requested": "Coser",
+      "existing": "Tiago Cóser",
+      "ovr": 72
+    },
+    {
+      "club": "Coritiba",
+      "requested": "Tinga",
+      "existing": "Tinga",
+      "ovr": 70
+    },
+    {
+      "club": "Coritiba",
+      "requested": "Bruno Melo",
+      "existing": "Bruno Melo",
+      "ovr": 69
+    },
+    {
+      "club": "Coritiba",
+      "requested": "Thiago Santos",
+      "existing": "Thiago Santos",
+      "ovr": 68
+    },
+    {
+      "club": "Coritiba",
+      "requested": "Nicolas Fonseca",
+      "existing": "Nicolás Fonseca",
+      "ovr": 70
+    },
+    {
+      "club": "Coritiba",
+      "requested": "Sebastian Gomez",
+      "existing": "Sebastián Gómez",
+      "ovr": 69
+    },
+    {
+      "club": "Coritiba",
+      "requested": "Pedro Rocha",
+      "existing": "Pedro Rocha",
+      "ovr": 73
+    },
+    {
+      "club": "Coritiba",
+      "requested": "Breno Lopes",
+      "existing": "Breno Lopes",
+      "ovr": 74
+    },
+    {
+      "club": "Coritiba",
+      "requested": "Josue",
+      "existing": "Josué",
+      "ovr": 76
+    },
+    {
+      "club": "Cruzeiro",
+      "requested": "Otavio",
+      "existing": "Otávio",
+      "ovr": 79
+    },
+    {
+      "club": "Cruzeiro",
+      "requested": "Fabricio Bruno",
+      "existing": "Fabrício Bruno",
+      "ovr": 78
+    },
+    {
+      "club": "Cruzeiro",
+      "requested": "Villalba",
+      "existing": "Lucas Villalba",
+      "ovr": 77
+    },
+    {
+      "club": "Cruzeiro",
+      "requested": "Rojas",
+      "existing": "Gabriel Rojas",
+      "ovr": 73
+    },
+    {
+      "club": "Cruzeiro",
+      "requested": "Ze Lucas",
+      "existing": "Zé Lucas",
+      "ovr": 75
+    },
+    {
+      "club": "Cruzeiro",
+      "requested": "Lucas Romero",
+      "existing": "Lucas Romero",
+      "ovr": 76
+    },
+    {
+      "club": "Cruzeiro",
+      "requested": "Marquinhos",
+      "existing": "Marquinhos",
+      "ovr": 71
+    },
+    {
+      "club": "Cruzeiro",
+      "requested": "Matheus Pereira",
+      "existing": "Matheus Pereira",
+      "ovr": 83
+    },
+    {
+      "club": "Cruzeiro",
+      "requested": "Gerson",
+      "existing": "Gerson",
+      "ovr": 82
+    },
+    {
+      "club": "Cruzeiro",
+      "requested": "Kaio Jorge",
+      "existing": "Kaio Jorge",
+      "ovr": 83
+    },
+    {
+      "club": "Palmeiras",
+      "requested": "Carlos Miguel",
+      "existing": "Carlos Miguel",
+      "ovr": 78
+    },
+    {
+      "club": "Palmeiras",
+      "requested": "Barboza",
+      "existing": "Alexander Barboza",
+      "ovr": 77
+    },
+    {
+      "club": "Palmeiras",
+      "requested": "Bruno Fuchs",
+      "existing": "Bruno Fuchs",
+      "ovr": 76
+    },
+    {
+      "club": "Palmeiras",
+      "requested": "Benedetti",
+      "existing": "Benedetti",
+      "ovr": 75
+    },
+    {
+      "club": "Palmeiras",
+      "requested": "Marlon Freitas",
+      "existing": "Marlon Freitas",
+      "ovr": 79
+    },
+    {
+      "club": "Palmeiras",
+      "requested": "Andreas Pereira",
+      "existing": "Andreas Pereira",
+      "ovr": 80
+    },
+    {
+      "club": "Palmeiras",
+      "requested": "Khellven",
+      "existing": "Khellven",
+      "ovr": 75
+    },
+    {
+      "club": "Palmeiras",
+      "requested": "Lucas Evangelista",
+      "existing": "Lucas Evangelista",
+      "ovr": 74
+    },
+    {
+      "club": "Palmeiras",
+      "requested": "Jhon Arias",
+      "existing": "Jhon Arias",
+      "ovr": 82
+    },
+    {
+      "club": "Palmeiras",
+      "requested": "Vitor Roque",
+      "existing": "Vitor Roque",
+      "ovr": 80
+    },
+    {
+      "club": "Palmeiras",
+      "requested": "Sosa",
+      "existing": "Ramón Sosa",
+      "ovr": 79
+    },
+    {
+      "club": "Corinthians",
+      "requested": "Hugo Souza",
+      "existing": "Hugo Souza",
+      "ovr": 80
+    },
+    {
+      "club": "Corinthians",
+      "requested": "Joao Pedro",
+      "existing": "João Pedro",
+      "ovr": 75
+    },
+    {
+      "club": "Corinthians",
+      "requested": "Gustavo Henrique",
+      "existing": "Gustavo Henrique",
+      "ovr": 81
+    },
+    {
+      "club": "Corinthians",
+      "requested": "Matheuzinho",
+      "existing": "Matheuzinho",
+      "ovr": 78
+    },
+    {
+      "club": "Corinthians",
+      "requested": "Carrillo",
+      "existing": "André Carrillo",
+      "ovr": 76
+    },
+    {
+      "club": "Corinthians",
+      "requested": "Breno Bidon",
+      "existing": "Breno Bidon",
+      "ovr": 81
+    },
+    {
+      "club": "Corinthians",
+      "requested": "Vitinho",
+      "existing": "Vitinho",
+      "ovr": 73
+    },
+    {
+      "club": "Corinthians",
+      "requested": "Kaio Cesar",
+      "existing": "Kaio César",
+      "ovr": 76
+    },
+    {
+      "club": "Corinthians",
+      "requested": "Matheus Bidu",
+      "existing": "Matheus Bidu",
+      "ovr": 77
+    },
+    {
+      "club": "Corinthians",
+      "requested": "Yuri Alberto",
+      "existing": "Yuri Alberto",
+      "ovr": 81
+    },
+    {
+      "club": "Corinthians",
+      "requested": "Depay",
+      "existing": "Memphis Depay",
+      "ovr": 80
+    },
+    {
+      "club": "Botafogo",
+      "requested": "Gabriel Batista",
+      "existing": "Gabriel Batista",
+      "ovr": 76
+    },
+    {
+      "club": "Botafogo",
+      "requested": "Vitinho",
+      "existing": "Vitinho",
+      "ovr": 77
+    },
+    {
+      "club": "Botafogo",
+      "requested": "Arthur Chaves",
+      "existing": "Arthur Chaves",
+      "ovr": 74
+    },
+    {
+      "club": "Botafogo",
+      "requested": "Justino",
+      "existing": "Gabriel Justino",
+      "ovr": 73
+    },
+    {
+      "club": "Botafogo",
+      "requested": "Marcal",
+      "existing": "Marçal",
+      "ovr": 78
+    },
+    {
+      "club": "Botafogo",
+      "requested": "Alex Telles",
+      "existing": "Alex Telles",
+      "ovr": 80
+    },
+    {
+      "club": "Botafogo",
+      "requested": "Edenilson",
+      "existing": "Edenilson",
+      "ovr": 75
+    },
+    {
+      "club": "Botafogo",
+      "requested": "Huguinho",
+      "existing": "Huguinho",
+      "ovr": 71
+    },
+    {
+      "club": "Botafogo",
+      "requested": "Cristian Medina",
+      "existing": "Cristian Medina",
+      "ovr": 77
+    },
+    {
+      "club": "Botafogo",
+      "requested": "Matheus Martins",
+      "existing": "Matheus Martins",
+      "ovr": 77
+    },
+    {
+      "club": "Grêmio",
+      "requested": "Weverton",
+      "existing": "Weverton",
+      "ovr": 83
+    },
+    {
+      "club": "Grêmio",
+      "requested": "Gustavo Martins",
+      "existing": "Gustavo Martins",
+      "ovr": 74
+    },
+    {
+      "club": "Grêmio",
+      "requested": "Balbuena",
+      "existing": "Fabián Balbuena",
+      "ovr": 74
+    },
+    {
+      "club": "Grêmio",
+      "requested": "Wallace",
+      "existing": "Wallace",
+      "ovr": 77
+    },
+    {
+      "club": "Grêmio",
+      "requested": "Joao Pedro",
+      "existing": "João Pedro",
+      "ovr": 75
+    },
+    {
+      "club": "Grêmio",
+      "requested": "Noriega",
+      "existing": "Erick Noriega",
+      "ovr": 75
+    },
+    {
+      "club": "Grêmio",
+      "requested": "Dodi",
+      "existing": "Dodi",
+      "ovr": 73
+    },
+    {
+      "club": "Grêmio",
+      "requested": "Marlon",
+      "existing": "Marlon",
+      "ovr": 78
+    },
+    {
+      "club": "Grêmio",
+      "requested": "Amuzu",
+      "existing": "Amuzu",
+      "ovr": 78
+    },
+    {
+      "club": "Grêmio",
+      "requested": "Carlos Vinicius",
+      "existing": "Carlos Vinícius",
+      "ovr": 80
+    },
+    {
+      "club": "Bahia",
+      "requested": "Ronaldo",
+      "existing": "Ronaldo",
+      "ovr": 77
+    },
+    {
+      "club": "Bahia",
+      "requested": "Kanu",
+      "existing": "Kanu",
+      "ovr": 75
+    },
+    {
+      "club": "Bahia",
+      "requested": "Luciano Juba",
+      "existing": "Luciano Juba",
+      "ovr": 79
+    },
+    {
+      "club": "Bahia",
+      "requested": "Marcos Victor",
+      "existing": "Marcos Victor",
+      "ovr": 72
+    },
+    {
+      "club": "Bahia",
+      "requested": "Erick",
+      "existing": "Erick",
+      "ovr": 75
+    },
+    {
+      "club": "Bahia",
+      "requested": "Jean Lucas",
+      "existing": "Jean Lucas",
+      "ovr": 80
+    },
+    {
+      "club": "Bahia",
+      "requested": "Acevedo",
+      "existing": "Nicolás Acevedo",
+      "ovr": 76
+    },
+    {
+      "club": "Bahia",
+      "requested": "Rodrigo Nestor",
+      "existing": "Rodrigo Nestor",
+      "ovr": 77
+    },
+    {
+      "club": "Bahia",
+      "requested": "Erick Pulga",
+      "existing": "Erick Pulga",
+      "ovr": 77
+    },
+    {
+      "club": "Bahia",
+      "requested": "Everton Ribeiro",
+      "existing": "Everton Ribeiro",
+      "ovr": 81
+    },
+    {
+      "club": "Bahia",
+      "requested": "Ademir",
+      "existing": "Ademir",
+      "ovr": 76
+    },
+    {
+      "club": "Bahia",
+      "requested": "Willian Jose",
+      "existing": "Willian José",
+      "ovr": 74
+    },
+    {
+      "club": "Vasco",
+      "requested": "Leo Jardim",
+      "existing": "Léo Jardim",
+      "ovr": 79
+    },
+    {
+      "club": "Vasco",
+      "requested": "Saldivia",
+      "existing": "Alan Saldivia",
+      "ovr": 77
+    },
+    {
+      "club": "Vasco",
+      "requested": "Robert Renan",
+      "existing": "Robert Renan",
+      "ovr": 77
+    },
+    {
+      "club": "Vasco",
+      "requested": "Cuiabano",
+      "existing": "Cuiabano",
+      "ovr": 76
+    },
+    {
+      "club": "Vasco",
+      "requested": "Thiago Mendes",
+      "existing": "Thiago Mendes",
+      "ovr": 78
+    },
+    {
+      "club": "Vasco",
+      "requested": "Sosa",
+      "existing": "Santiago Sosa",
+      "ovr": 78
+    },
+    {
+      "club": "Vasco",
+      "requested": "Andres Gomez",
+      "existing": "Andrés Gómez",
+      "ovr": 79
+    },
+    {
+      "club": "Vasco",
+      "requested": "Colidio",
+      "existing": "Facundo Colidio",
+      "ovr": 75
+    },
+    {
+      "club": "Vasco",
+      "requested": "Lescano",
+      "existing": "Alan Lescano",
+      "ovr": 75
+    },
+    {
+      "club": "Vasco",
+      "requested": "Bruno Duarte",
+      "existing": "Bruno Duarte",
+      "ovr": 72
+    },
+    {
+      "club": "Vasco",
+      "requested": "Cauan Barros",
+      "existing": "Cauan Barros",
+      "ovr": 76
+    },
+    {
+      "club": "Vasco",
+      "requested": "Nuno Moreira",
+      "existing": "Nuno Moreira",
+      "ovr": 77
+    },
+    {
+      "club": "Vasco",
+      "requested": "Carlos Cuesta",
+      "existing": "Carlos Cuesta",
+      "ovr": 76
+    },
+    {
+      "club": "Internacional",
+      "requested": "Rochet",
+      "existing": "Sergio Rochet",
+      "ovr": 80
+    },
+    {
+      "club": "Internacional",
+      "requested": "Gabriel Mercado",
+      "existing": "Gabriel Mercado",
+      "ovr": 78
+    },
+    {
+      "club": "Internacional",
+      "requested": "Juninho",
+      "existing": "Juninho",
+      "ovr": 74
+    },
+    {
+      "club": "Internacional",
+      "requested": "Maripan",
+      "existing": "Guillermo Maripán",
+      "ovr": 76
+    },
+    {
+      "club": "Internacional",
+      "requested": "Bernabei",
+      "existing": "Bernabei",
+      "ovr": 78
+    },
+    {
+      "club": "Internacional",
+      "requested": "Braian Aguirre",
+      "existing": "Braian Aguirre",
+      "ovr": 72
+    },
+    {
+      "club": "Internacional",
+      "requested": "Bruno Gomes",
+      "existing": "Bruno Gomes",
+      "ovr": 79
+    },
+    {
+      "club": "Internacional",
+      "requested": "Villagra",
+      "existing": "Rodrigo Villagra",
+      "ovr": 79
+    },
+    {
+      "club": "Internacional",
+      "requested": "Matheus Bahia",
+      "existing": "Matheus Bahia",
+      "ovr": 73
+    },
+    {
+      "club": "Internacional",
+      "requested": "Alan Patrick",
+      "existing": "Alan Patrick",
+      "ovr": 81
+    },
+    {
+      "club": "Internacional",
+      "requested": "Vitinho",
+      "existing": "Vitinho",
+      "ovr": 77
+    },
+    {
+      "club": "Internacional",
+      "requested": "Alerrandro",
+      "existing": "Alerrandro",
+      "ovr": 71
+    },
+    {
+      "club": "Internacional",
+      "requested": "Thiago Maia",
+      "existing": "Thiago Maia",
+      "ovr": 75
+    },
+    {
+      "club": "Internacional",
+      "requested": "Carbonero",
+      "existing": "Johan Carbonero",
+      "ovr": 78
+    },
+    {
+      "club": "Vitória",
+      "requested": "Lucas Arcanjo",
+      "existing": "Lucas Arcanjo",
+      "ovr": 80
+    },
+    {
+      "club": "Vitória",
+      "requested": "Caca",
+      "existing": "Cacá",
+      "ovr": 73
+    },
+    {
+      "club": "Vitória",
+      "requested": "Britez",
+      "existing": "Emmanuel Brítez",
+      "ovr": 72
+    },
+    {
+      "club": "Vitória",
+      "requested": "Jamerson",
+      "existing": "Jamerson",
+      "ovr": 69
+    },
+    {
+      "club": "Vitória",
+      "requested": "Caique",
+      "existing": "Caíque Gonçalves",
+      "ovr": 75
+    },
+    {
+      "club": "Vitória",
+      "requested": "Emmanuel Martinez",
+      "existing": "Emmanuel Martínez",
+      "ovr": 72
+    },
+    {
+      "club": "Vitória",
+      "requested": "Erick",
+      "existing": "Erick",
+      "ovr": 76
+    },
+    {
+      "club": "Vitória",
+      "requested": "Gabriel Baralhas",
+      "existing": "Gabriel Baralhas",
+      "ovr": 73
+    },
+    {
+      "club": "Vitória",
+      "requested": "Matheuzinho",
+      "existing": "Matheuzinho",
+      "ovr": 77
+    },
+    {
+      "club": "Vitória",
+      "requested": "Rene",
+      "existing": "Renê",
+      "ovr": 76
+    },
+    {
+      "club": "Bragantino",
+      "requested": "Gustavo Marques",
+      "existing": "Gustavo Marques",
+      "ovr": 74
+    },
+    {
+      "club": "Bragantino",
+      "requested": "Guzman Rodriguez",
+      "existing": "Guzmán Rodríguez",
+      "ovr": 73
+    },
+    {
+      "club": "Bragantino",
+      "requested": "Capixaba",
+      "existing": "Juninho Capixaba",
+      "ovr": 79
+    },
+    {
+      "club": "Bragantino",
+      "requested": "Fabinho",
+      "existing": "Fabinho",
+      "ovr": 71
+    },
+    {
+      "club": "Bragantino",
+      "requested": "Herrera",
+      "existing": "José María Herrera",
+      "ovr": 73
+    },
+    {
+      "club": "Bragantino",
+      "requested": "Wallace",
+      "existing": "Wallace Yan",
+      "ovr": 74
+    },
+    {
+      "club": "Bragantino",
+      "requested": "Mosquera",
+      "existing": "Henry Mosquera",
+      "ovr": 75
+    },
+    {
+      "club": "Bragantino",
+      "requested": "Eduardo Sasha",
+      "existing": "Eduardo Sasha",
+      "ovr": 77
+    },
+    {
+      "club": "São Paulo",
+      "requested": "Rafael",
+      "existing": "Rafael",
+      "ovr": 79
+    },
+    {
+      "club": "São Paulo",
+      "requested": "Toloi",
+      "existing": "Rafael Toloi",
+      "ovr": 77
+    },
+    {
+      "club": "São Paulo",
+      "requested": "Arboleda",
+      "existing": "Arboleda",
+      "ovr": 76
+    },
+    {
+      "club": "São Paulo",
+      "requested": "Pedro Lima",
+      "existing": "Pedro Lima",
+      "ovr": 78
+    },
+    {
+      "club": "São Paulo",
+      "requested": "Pablo Maia",
+      "existing": "Pablo Maia",
+      "ovr": 75
+    },
+    {
+      "club": "São Paulo",
+      "requested": "Djhordney",
+      "existing": "Djhordney",
+      "ovr": 74
+    },
+    {
+      "club": "São Paulo",
+      "requested": "Lucas Moura",
+      "existing": "Lucas Moura",
+      "ovr": 81
+    },
+    {
+      "club": "São Paulo",
+      "requested": "Calleri",
+      "existing": "Calleri",
+      "ovr": 78
+    },
+    {
+      "club": "São Paulo",
+      "requested": "Luciano",
+      "existing": "Luciano",
+      "ovr": 79
+    },
+    {
+      "club": "São Paulo",
+      "requested": "Marcos Antonio",
+      "existing": "Marcos Antônio",
+      "ovr": 76
+    },
+    {
+      "club": "Fluminense",
+      "requested": "Fabio",
+      "existing": "Fábio",
+      "ovr": 81
+    },
+    {
+      "club": "Fluminense",
+      "requested": "Guga",
+      "existing": "Guga",
+      "ovr": 75
+    },
+    {
+      "club": "Fluminense",
+      "requested": "Thiago Silva",
+      "existing": "Thiago Silva",
+      "ovr": 82
+    },
+    {
+      "club": "Fluminense",
+      "requested": "Ignacio",
+      "existing": "Ignácio",
+      "ovr": 76
+    },
+    {
+      "club": "Fluminense",
+      "requested": "Rene",
+      "existing": "Renê",
+      "ovr": 71
+    },
+    {
+      "club": "Fluminense",
+      "requested": "Nonato",
+      "existing": "Nonato",
+      "ovr": 75
+    },
+    {
+      "club": "Fluminense",
+      "requested": "Hercules",
+      "existing": "Hércules",
+      "ovr": 76
+    },
+    {
+      "club": "Fluminense",
+      "requested": "Acosta",
+      "existing": "Lucho Acosta",
+      "ovr": 78
+    },
+    {
+      "club": "Fluminense",
+      "requested": "Serna",
+      "existing": "Kevin Serna",
+      "ovr": 77
+    },
+    {
+      "club": "Fluminense",
+      "requested": "Soteldo",
+      "existing": "Yeferson Soteldo",
+      "ovr": 75
+    },
+    {
+      "club": "Fluminense",
+      "requested": "Hulk",
+      "existing": "Hulk",
+      "ovr": 77
+    },
+    {
+      "club": "Fluminense",
+      "requested": "Cannobio",
+      "existing": "Agustín Canobbio",
+      "ovr": 76
+    },
+    {
+      "club": "Fluminense",
+      "requested": "John Kennedy",
+      "existing": "John Kennedy",
+      "ovr": 77
+    }
+  ]
+}

@@ -1,0 +1,4 @@
+PARTE 18 — revisão de uniformes, ordem posicional e motor de partida.
+Corrige Grêmio vermelho, preserva ordem por slot na Arena, penaliza jogadores fora de posição, considera atacante improvisado no gol, amplia efeito de qualidade por setor.
+ATENÇÃO: Não houve teste completo em navegador. Ratings são provisórios; simulações estatísticas ainda pendentes. Persistência e cartões animados continuam pendentes.
+Abra index.html. Substitua arquivos main.js/style.css/index.html em conjunto.

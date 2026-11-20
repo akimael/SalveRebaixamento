@@ -1,0 +1,7 @@
+PARTE 4 — LEVANTAMENTO INICIAL DE ELENCOS 2026
+
+O arquivo elencos-2026-referencia-parcial.json contém times-base publicados no início de 2026 para os 20 clubes. NÃO é um elenco completo ou atualizado e NÃO está integrado ao jogo. Os campos sem verificação permanecem null.
+
+Os quatro arquivos do jogo são cópias da Parte 3, sem alterações funcionais. NÃO substitua o jogo esperando elencos reais ativos.
+
+Próxima tarefa: validar plantéis completos e transferências, posições, idades e valores, antes de integrar o mercado e substituir makeSquad().

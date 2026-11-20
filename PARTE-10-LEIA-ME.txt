@@ -1,0 +1,9 @@
+PARTE 10 — motor de ações individuais
+
+Passes: passe, visão e domínio vs interceptação, marcação e posicionamento.
+Disputas: drible, domínio, aceleração vs desarme, marcação, posicionamento.
+Finalizações: finalização, frieza e domínio vs defesa do goleiro (reflexos, defesa de chutes, posicionamento, um contra um).
+Faltas e amarelos agora surgem de disputas e ficam vinculados a um jogador.
+Energia diminui nos dois times. Tática e formação entram nos cálculos.
+Preservados: pausa, intervalo, substituições, cena de pênalti, elencos e treino.
+Limitações: não há movimentação física detalhada, IA adaptativa, expulsões/suspensões completas ou lesões de partida. Atributos permanecem estimativas.

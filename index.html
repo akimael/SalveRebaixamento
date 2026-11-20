@@ -1,0 +1,118 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="theme-color" content="#123d28">
+  <title>SALVE DO REBAIXAMENTO</title>
+  <link rel="stylesheet" href="style.css">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Baloo+2:wght@500;600;700;800&family=Nunito:wght@400;600;700;800;900&display=swap" rel="stylesheet">
+</head>
+<body>
+  <main id="app">
+    <section id="home-screen" class="screen home-screen">
+      <div class="home-content">
+        <h1 class="game-title"><span>SALVE DO</span><strong>REBAIXAMENTO</strong></h1>
+        <p class="home-description">Assuma um clube ameaçado, monte seu time e lute nas últimas seis partidas para escapar do rebaixamento.</p>
+        <button id="start-button" class="primary-button">INICIAR CAMPANHA <span>→</span></button>
+      </div>
+      <aside class="home-standings" aria-label="Tabela ilustrativa do Brasileirão"><div class="home-table-head"><strong>BRASILEIRÃO</strong><small>RETA FINAL • SIMULAÇÃO</small></div><div id="home-league-table"></div><p>🔴 Zona de rebaixamento • 17º ao 20º</p></aside>
+    </section>
+
+    <section id="club-screen" class="screen selection-screen hidden">
+      <header class="top-header">
+        <div class="mini-logo">SDR<span>●</span></div>
+        <div><small>NOVA CAMPANHA</small><h2>Escolha seu clube</h2></div>
+        <button class="ghost-button" id="back-home">← Voltar</button>
+      </header>
+      <p class="section-intro">Assuma um dos 20 clubes do Brasileirão e tente salvar a temporada.</p>
+      <div id="club-grid" class="club-grid"></div>
+      <div class="selection-footer">
+        <div><small>SUA MISSÃO</small><strong>18º lugar • 33 pontos • 6 partidas restantes</strong></div>
+        <button id="confirm-club" class="primary-button" disabled>ASSUMIR O CLUBE ➜</button>
+      </div>
+    </section>
+
+    <section id="campaign-screen" class="screen campaign-screen hidden">
+      <header class="game-header">
+        <div class="brand-small">SALVE <b>DO REBAIXAMENTO</b></div>
+        <div class="header-center"><div class="day-actions"><span id="campaign-date">DIA 01 • PREPARAÇÃO</span><button id="header-next-day" class="primary-button">PRÓXIMO DIA ➜</button></div></div>
+        <div class="header-time-group"><div class="header-split-actions"><button id="advance-minute" class="secondary-button">AVANÇAR MINUTO</button><button id="calendar-button" class="secondary-button">CALENDÁRIO</button></div><div class="clock-box"><small>TEMPO DO DIA</small><strong id="clock">05:00</strong></div></div>
+      </header>
+
+      <div class="campaign-layout">
+        <section class="pitch-panel">
+          <div class="pitch-heading">
+            <div><h2 id="pitch-club-name">Seu clube</h2><small>11 INICIAIS</small></div>
+            <div class="pitch-heading-actions"><button id="tutorial-help" class="help-button" title="Abrir tutorial" aria-label="Abrir tutorial">?</button><button id="formation-button" class="formation-pill" title="Alterar formação">4-3-3 ▾</button></div>
+          </div>
+          <div class="pitch-toolbar"><div class="morale-training-row"><div class="squad-morale"><span id="morale-face">😐</span><div><small>MORAL DO ELENCO</small><div class="morale-track"><i id="morale-fill"></i></div></div><strong id="morale-value">60%</strong></div><div class="training-entry"><button id="training-button" class="primary-button">MONTAR TREINAMENTO</button><small id="training-status">Escolha 5 jogadores nos dias sem jogo.</small></div></div><div id="swap-hint" class="swap-hint hidden" role="status">Selecione o segundo jogador para trocar. <button id="cancel-swap">CANCELAR</button></div></div>
+          <div class="pitch" id="pitch">
+            <div class="pitch-lines"><i></i><b></b><em></em></div>
+            <div id="players-on-pitch" class="players-on-pitch"></div>
+          </div>
+          <div class="bench-heading"><strong>Banco de reservas</strong><small>Toque em um jogador para ver os detalhes</small></div>
+          <div id="bench" class="bench"></div>
+        </section>
+
+        <aside class="side-panel">
+          <div class="mission-card">
+            <div class="mission-top"><span>SITUAÇÃO ATUAL</span><b id="league-position">18º</b></div>
+            <h3 id="league-status">Zona de rebaixamento</h3>
+            <div class="points-row"><strong>33 <small>PTS</small></strong><span>6 jogos restantes</span></div>
+            <div class="progress-track"><i></i></div>
+            <small class="muted">Você precisa reagir nas próximas rodadas.</small>
+          </div>
+          <div class="next-match-card">
+            <button id="start-match" class="primary-button hidden">INICIAR PARTIDA</button>
+            <small>PRÓXIMO COMPROMISSO</small>
+            <div class="matchup"><span id="my-team-short">SEU TIME</span><b>VS</b><span>ADVERSÁRIO</span></div>
+            <strong id="match-info">Preparação • estreia em breve</strong>
+          </div>
+          <div class="menu-grid">
+            <button class="menu-button" data-menu="market"><span>🔄</span><b>Mercado</b><small>Contratações</small></button>
+            <button class="menu-button" data-menu="table"><span>🏆</span><b>Tabela</b><small>Classificação</small></button>
+            <button class="menu-button" data-menu="messages"><span>✉️</span><b>Mensagens</b><small>Caixa de entrada</small><i id="message-dot"></i></button>
+            <button class="menu-button" data-menu="club"><span>🧢</span><b>Meu clube</b><small>Gestão e tática</small></button>
+          </div>
+          <div class="time-controls">
+            <button id="advance-time" class="secondary-button">AVANÇAR MINUTO</button>
+          </div>
+          <p class="time-note">Cada dia sem jogo dura até 5 minutos. Você pode avançar quando quiser.</p>
+        </aside>
+      </div>
+    </section>
+    <section id="match-screen" class="screen match-screen hidden">
+      <div class="match-wrap">
+        <div id="pregame-view" class="pregame-view hidden">
+          <div class="pregame-top"><span class="pregame-kicker">SALVE DO REBAIXAMENTO · DIA DE JOGO</span><h2>PREPARAÇÃO PARA O CONFRONTO</h2><p>Confira os times, organize sua estratégia e entre em campo.</p></div>
+          <div class="versus-bar"><strong id="pregame-home">MANDANTE</strong><span>VS</span><strong id="pregame-away">VISITANTE</strong></div>
+          <div class="pregame-field-head"><span id="pregame-home-formation">4-3-3</span><span>ESCALAÇÕES INICIAIS</span><span id="pregame-away-formation">4-4-2</span></div>
+          <div id="pregame-field" class="football-field pregame-field"></div>
+          <div class="pregame-controls"><label>DURAÇÃO TOTAL DA PARTIDA<select id="pregame-duration"><option value="30">30 segundos</option><option value="45">45 segundos</option><option value="60" selected>1 minuto</option></select></label><label>FORMAÇÃO<select id="pregame-formation"></select></label><label>ESTILO DE JOGO<select id="pregame-style"></select></label></div>
+          <div class="pregame-actions"><button id="pregame-back" class="secondary-button">VOLTAR AO CLUBE</button><button id="pregame-start" class="primary-button">INICIAR PARTIDA</button></div>
+        </div>
+        <div id="arena-view" class="arena-view hidden">
+          <header class="match-header"><div><small>BRASILEIRÃO · AO VIVO</small><h2 id="match-title">PARTIDA</h2></div><button id="match-pause" class="secondary-button">Ⅱ PAUSAR</button></header>
+          <div class="match-score"><span id="match-home">CASA</span><strong id="match-score">0 × 0</strong><span id="match-away">FORA</span></div>
+          <div class="match-clock" id="match-clock">00:00 • 1º TEMPO</div>
+          <div class="arena-field-shell"><div id="arena-field" class="football-field arena-field"></div><div id="match-overlay" class="match-overlay hidden"></div><div id="penalty-scene" class="penalty-scene hidden"></div></div>
+          <div id="arena-event" class="arena-event" aria-live="polite">⚽ Apito inicial! A bola está rolando.</div>
+          <div class="match-bottom"><div class="match-feed" id="match-feed" aria-live="polite"></div></div>
+        </div>
+      </div>
+    </section>
+  </main>
+
+  <div id="modal-backdrop" class="modal-backdrop hidden">
+    <section class="modal" role="dialog" aria-modal="true">
+      <button id="close-modal" class="modal-close" aria-label="Fechar">×</button>
+      <div id="modal-content"></div>
+    </section>
+  </div>
+  <div id="toast" class="toast"></div>
+  <script src="main.js"></script>
+</body>
+</html>

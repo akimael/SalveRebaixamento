@@ -1,0 +1,5 @@
+PARTE 12 — Disciplina e lesões (primeira integração)
+
+Amarelos são contabilizados por partida, segundo amarelo expulsa, três amarelos acumulados geram suspensão de uma partida. Suspensões preexistentes são cumpridas na rodada; as novas começam na próxima. Lesões por disputas/faltas impedem continuação e geram afastamento aproximado por dias.
+
+LIMITAÇÕES: ainda não há substituição médica automática nem regulamentação completa de todas as situações; a duração da lesão é aproximada em dias; teste partidas completas antes de considerar estável.

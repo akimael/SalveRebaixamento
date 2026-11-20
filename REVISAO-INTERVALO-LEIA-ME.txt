@@ -1,0 +1,9 @@
+REVISAO DA PARTE 12 — INTERVALO, PLANO DE JOGO E ESTATISTICAS
+- Intervalo e pausa agora priorizam placar e estatisticas; controles ficam no PLANO DE JOGO.
+- Plano de Jogo: campo clicavel, esquema, estilo, linha, pressao, ritmo, instrucoes individuais e substituicoes.
+- Escanteios sao gerados em finalizacoes desviadas e defesas espalmadas; contador integrado ao relatorio.
+- Passes certos e defesas do goleiro registrados por eventos do motor.
+- Tela pos-jogo bloqueia fechamento acidental pelo fundo ou X, garantindo retorno pela acao VOLTAR A CAMPANHA.
+- Frequencias de faltas e cartoes mantidas; requerem testes de calibracao.
+- Mercado de transferencias nao alterado.
+- Validacao estatica de JavaScript realizada; partida completa no navegador ainda nao testada.

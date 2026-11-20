@@ -1,0 +1,10 @@
+SALVE DO REBAIXAMENTO — PARTE 14: CLASSIFICAÇÃO, CALENDÁRIO E PRÉVIA DA RODADA
+
+- Situação Atual: posição, pontos, situação em relação ao Z4 e partidas restantes são calculados pela classificação real da campanha.
+- Próximo Compromisso: mostra os dois clubes, mando de campo, rodada e dia mesmo antes da data do jogo.
+- Tabela inicial: usa os mesmos dados da classificação do menu, sem posições ou pontos estáticos.
+- Calendário: algoritmo do círculo para os 20 clubes, com 19 rodadas sem repetição de confrontos dentro do turno. A campanha atual usa as primeiras seis rodadas geradas.
+- Simulação: os dez jogos da rodada são os confrontos definidos pelo calendário, sem emparelhamentos improvisados.
+- Menu Tabela: prévia dos dez confrontos da próxima rodada e histórico das rodadas concluídas.
+
+Limitações: a campanha continua com seis partidas e classificação inicial fictícia; não existe persistência após atualizar a página. O segundo turno e as 38 rodadas completas ainda não estão habilitados como temporada jogável.

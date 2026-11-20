@@ -1,0 +1,19 @@
+{
+  "temporada_base": 2026,
+  "regra_estatisticas": {
+    "clube_controlado": "Somente eventos após a posse; gols e assistências começam em 0, cinco jogadores iniciam com 2 amarelos.",
+    "demais_clubes": "Estatísticas acumuladas de toda a temporada, incluindo rodadas anteriores à chegada do treinador; registros históricos devem ser gerados uma única vez e persistidos."
+  },
+  "formato_jogador": {
+    "id": "identificador estável",
+    "nome": "nome do atleta",
+    "clube_id": "id de clubes.json",
+    "posicao": "GOL/ZAG/LAT/VOL/MC/MEI/PE/PD/ATA",
+    "idade": "anos na temporada-base",
+    "overall": "0-100",
+    "valor": "BRL",
+    "atributos": "objeto com atributos técnicos",
+    "estatisticas_anteriores": "jogos, gols, assistencias, amarelos, vermelhos, lesoes, suspensao"
+  },
+  "status": "Contrato de dados preparado; elencos e estatísticas de 2026 ainda não verificados/cadastrados."
+}
